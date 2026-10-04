@@ -1,0 +1,303 @@
+{
+  "schemaVersion": "herb-vector-independent-review-1",
+  "reviewedAt": "2026-10-04",
+  "reviewer": "processing_audit（獨立子任務；不修改模型與介面）",
+  "scope": "文獻來源向量、成分 presence 的 L2 正則二元 logistic 銀詞模型及分群驗證；不是中藥實測效力審核。",
+  "verdict": "計算與防洩漏流程可作探索性文獻研究原型；驗證不支持可靠還原方義，更不能推論真實藥效。",
+  "dataAudit": {
+    "catalogRecords": 340,
+    "curatedExcerptReviewed": 24,
+    "automaticallyExtractedAwaitingReview": 316,
+    "sourceFormulas": 284,
+    "sourceBooks": {
+      "傷寒論（宋本）": 84,
+      "金匱要略方論": 100,
+      "太平惠民和劑局方": 100
+    },
+    "proxyGroups": 228,
+    "largestProxyGroupRecords": 21,
+    "sourceElements": 396,
+    "sourceElementMapping": {
+      "exactText": 139,
+      "unresolved": 254,
+      "ambiguousText": 3
+    },
+    "uniqueMappedCatalogHerbIds": 139,
+    "catalogWithoutFormulaMapping": 201,
+    "elementOccurrence": {
+      "oneRecord": 194,
+      "twoRecords": 63,
+      "underThreeRecords": 257
+    },
+    "reportablePresenceElements": 133,
+    "mappedReportableCatalogHerbs": 74,
+    "mappedLowSupportCatalogHerbs": 65,
+    "sourceUnknownFields": {
+      "nature": 91,
+      "flavors": 66,
+      "meridians": 282,
+      "effects": 28
+    },
+    "declaredFieldWithoutAnyLinkedRawTextSpan": {
+      "nature": 13,
+      "flavors": 7,
+      "meridians": 10,
+      "effects": 0
+    },
+    "sourceFieldSpanReferencesVerified": 1332,
+    "sourceLexicalHitTermOffsetsVerified": 186,
+    "historicalNamePolicy": "只按原名文字分別建模。大棗／山藥／澤瀉多義映射保留未知；乾薑、乾地黃、白附子、芍藥與帶產地／炮製名稱不任意合併成現代物種。",
+    "samplingLimit": "三書正文順序的固定批次樣本，不是全部中醫典籍或隨機、現代臨床樣本。",
+    "sourceLiteralFieldStatusCounts": {
+      "flavors": {
+        "linked_literal_values": 246,
+        "partly_linked_literal_values": 15,
+        "declared_or_normalized_labels": 13,
+        "unknown": 66
+      },
+      "meridians": {
+        "linked_literal_values": 46,
+        "declared_or_normalized_labels": 12,
+        "unknown": 282
+      }
+    }
+  },
+  "numericalAudit": {
+    "objective": "各代理群總權重 1；組內每條 1/組內條數。每目標的平均 weighted Bernoulli log-loss 加 (0.03/2)×係數平方和；截距不懲罰。",
+    "independentlyComputedPenalizedLoss": 0.31025139506898497,
+    "reportedPenalizedLoss": 0.31025139506898375,
+    "independentlyComputedFinalMaxGradient": 9.87211644890357e-7,
+    "gradientTolerance": 0.000001,
+    "fullFitIterations": 746,
+    "allFiveFamilyAndThreeBookFoldsConverged": true,
+    "logitDecomposition": "每查詢 score = sigmoid(intercept + Σ supported presence/bundle coefficient)，截距只加一次；不平均單味 score，不把 odds／概率直接相加。",
+    "supportPolicy": "不足的元素／目標單味係數為 null；未支持不是零效力。完全相同 presence 欄合束、個別係數 null，拆束查詢拒估。",
+    "queryAbstention": "文字覆蓋至少 .8、支持元素覆蓋至少 .5。達門檻的分數仍只用已支持特徵；未支持材料貢獻未知，不是其真實藥效為 0。",
+    "identifiability": "全資料 133 presence columns 加截距的數值消元秩為 134（tol 1e-9）；這只檢查此矩陣，不證明物種、因果藥性、交互作用或化學机制可識別。L2 估計約定不能消除未記錄工藝、劑量與歷史選方混雜。"
+  },
+  "independentRegressionChecks": [
+    {
+      "case": "真實桂枝湯工作台可映射 4/5 材料",
+      "result": "explicit origin formula ID 排掉21筆同群記錄，訓練263方／227群；自身及全群不進入模型與近似案例。"
+    },
+    {
+      "case": "同一 presence，修改 grams／研究份數／工藝",
+      "result": "全16詞中已支持 terms 數值不變；API明示其未入學得模型。來源質量分布是另存的描述性輪廓，不是實際曝露模型。"
+    },
+    {
+      "case": "人工構造2個完全同現元素欄",
+      "result": "在記憶體透過同一 learn 函數重估，單味 coefficients全部null；只有其中一味的公共 predict 拒估、terms=[]。未修改任何專案模型檔。"
+    },
+    {
+      "case": "兩種真實 leave-group-out protocol",
+      "result": "每方恰好一筆 OOF、每折 train/test ID與代理群无交集；跨書留出亦無測試書訓練記錄。每fold支持數從train核計。"
+    },
+    {
+      "case": "獨立重算指標",
+      "result": "由OOF決策依測試群权重重算 Brier，與公開報告相符；基線使用相同決策與同折訓練頻率。"
+    }
+  ],
+  "validationAudit": {
+    "family": {
+      "folds": 5,
+      "recordPredictions": 284,
+      "scoredQueries": 244,
+      "queryCoverage": 0.8591549295774648,
+      "scoredLabelDecisions": 2971,
+      "possibleLabelDecisions": 4544,
+      "labelDecisionCoverage": 0.6538292253521126,
+      "brier": 0.10467714683670461,
+      "frequencyBaselineBrier": 0.10929652202407583,
+      "microF1": 0,
+      "macroF1": 0,
+      "unweightedScoredPositiveDecisions": 347,
+      "unweightedPredictedPositiveDecisions": 7,
+      "unweightedTruePositiveDecisions": 0
+    },
+    "sourceBook": {
+      "folds": 3,
+      "recordPredictions": 284,
+      "scoredQueries": 176,
+      "queryCoverage": 0.6197183098591549,
+      "scoredLabelDecisions": 2263,
+      "possibleLabelDecisions": 4544,
+      "labelDecisionCoverage": 0.4980193661971831,
+      "brier": 0.08610613543920381,
+      "frequencyBaselineBrier": 0.09004888398485052,
+      "microF1": 0,
+      "macroF1": 0,
+      "unweightedScoredPositiveDecisions": 196,
+      "unweightedPredictedPositiveDecisions": 0,
+      "unweightedTruePositiveDecisions": 0
+    },
+    "interpretation": "固定 .5 門檻未命中正例，F1為0；平方誤差只略低於詞頻基線。不能以低基率、多數陰性或局部覆蓋的平均Brier宣稱已準確還原方義。未調門檻或超參數迎合此留出結果。未獲外部人工 gold、來源之外驗證或校準。"
+  },
+  "resolvedFindings": [
+    {
+      "id": "optimizer-convergence",
+      "severity": "P1",
+      "resolution": "上限由320調至1600只為達固定梯度容差；full與8個validation fold均實際收斂，保留diagnostics。"
+    },
+    {
+      "id": "partial-cooccurrence-bundle",
+      "severity": "P1",
+      "resolution": "拆開完全同現束的查詢拒估，不能將聯合束係數任意歸給單味。"
+    },
+    {
+      "id": "stale-workbench-export",
+      "severity": "P1",
+      "resolution": "UI保存當次selection、origin、massContext、basis及sourceProfile快照；signature變動清空結果；export再次比對並使用同次快照。獨立靜態核對，實機操作由root另存證據。"
+    },
+    {
+      "id": "weak-validation-claim",
+      "severity": "P1",
+      "resolution": "介面公開F1=0與不足以可靠還原方義；report保留baseline、拒估與coverage，不能改稱療效驗證。"
+    },
+    {
+      "id": "source-field-evidence-granularity",
+      "severity": "P2",
+      "resolution": "味／歸經逐值分literalLinkedValues與unlinkedOrNormalizedValues；有效field span不代表所有編輯／標準化值皆已定位。無有效位置標declared_unlinked。公開原詞與位置，保留尚待校勘邊界。"
+    }
+  ],
+  "prohibitedClaims": [
+    "全部典籍已完整搜索、全部古名已等同現代物種或已逐方人工確認。",
+    "來源序位或條件 logistic 係數是單味固有藥性、克數等價效力或人體療效。",
+    "正負係數是補瀉、毒性、安全性、應用劑量或臨床陰陽方向。",
+    "炮製、工藝、原方量、grams、成分交互作用、溶出或化學轉化已由此presence模型學得。",
+    "分群銀詞對照是獨立人工辨證、外部藥理試驗或因果識別。",
+    "某一未標記／未支持維度表示沒有該作用，或全方缺失材料可以當成無作用。"
+  ],
+  "primaryMethodSources": [
+    {
+      "title": "scikit-learn: Logistic regression",
+      "url": "https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression",
+      "retrieval": "實際開啟官方正文並核對 Binary Case 的 expit、weighted log-loss 與 L2 penalty；非搜尋摘要。",
+      "supports": "binary target、截距加成 logit 與正則化數值約定。"
+    },
+    {
+      "title": "scikit-learn: GroupKFold",
+      "url": "https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GroupKFold.html",
+      "retrieval": "實際開啟官方正文，核對各group不跨train/test及每group恰一個test fold。",
+      "supports": "代理群整組留出；此專案自訂分折，不宣稱直接使用sklearn。"
+    },
+    {
+      "title": "scikit-learn: Common pitfalls — Data leakage",
+      "url": "https://scikit-learn.org/stable/common_pitfalls.html#data-leakage",
+      "retrieval": "實際開啟官方正文12.2，核對先split及所有fit／feature selection僅由train學習。",
+      "supports": "每fold重新估計可用元素、共現束、係數及baseline。"
+    },
+    {
+      "title": "scikit-learn: Common pitfalls in the interpretation of coefficients of linear models",
+      "url": "https://scikit-learn.org/stable/auto_examples/inspection/plot_linear_model_coefficient_interpretation.html",
+      "retrieval": "實際開啟官方正文，核對conditional coefficient、未必反映真實生成機制與regularization共享相關變數權重。",
+      "supports": "共現與ridge的穩定估計不能當獨立因果效力。"
+    }
+  ],
+  "inputBindings": {
+    "formulaDataset": {
+      "version": "formula-corpus-v3",
+      "contentRevision": "a2ead3056be62ca274f5ceda9a19225643c381310c0034faa134ec663f8e7ef2",
+      "formulaCount": 284,
+      "sha256": "ab0aed8f0a1f0dd64577b683d85c62934879add09cad904c31519c12916cbb37",
+      "sha256Scope": "sealed research/formulas-v3/formulas.json bytes"
+    },
+    "herbDataset": {
+      "herbCount": 340,
+      "inputFields": [
+        "id",
+        "name",
+        "sourceName",
+        "sourceId",
+        "rawText",
+        "nature",
+        "flavors",
+        "meridians",
+        "effects",
+        "evidenceSpans",
+        "reviewStatus",
+        "extractionStatus",
+        "modernSafety",
+        "identityNote"
+      ],
+      "semanticSha256": "4088fe5c404bebd0bda756b397f796dead979f5445d4b185872bcd358b0d481a",
+      "sha256Scope": "UTF-8 recursively sorted JSON of {fields:inputFields,herbs:[field-selected records]}; absent fields are null, rawText unchanged, local paths and JSON layout excluded"
+    },
+    "model": {
+      "file": "dist/herb-vector-model.js",
+      "sha256": "9c18c9559ed48f7541cadc0576b5e8ad1de79cb703e9737846adc816962dcdf9",
+      "dependencies": [
+        {
+          "file": "dist/inference-model.js",
+          "sha256": "c9b751cc5eca680816f65abf2654c1b80274eaabac27647deb17b2b5b70654c8"
+        },
+        {
+          "file": "dist/quant-model.js",
+          "sha256": "1868b67e84177c39537e5c94b5d33756ec85ebcf59f54fd3f9d67f8dd9ecd2ee"
+        }
+      ]
+    },
+    "dictionary": {
+      "sha256": "a4445a141d5b2c5500e820ac5cd733843a9362352c416eebdbcbe5ee7c27db19",
+      "sha256Scope": "UTF-8 recursively sorted JSON of exported fixed dictionary"
+    },
+    "sourceSnapshots": [
+      {
+        "id": "jc-6490b1a098ab",
+        "sha256": "7aabead28e2580cbad7ff08acfe759d2f3af55d78f380c6a4d96e0b383d36637",
+        "file": "snapshots/jc-6490b1a098ab.txt"
+      },
+      {
+        "id": "jc-c0bbb390fb81",
+        "sha256": "b7e8f7cd5ea26cf5f91d6e168717e3a802479a9775b8a3b706b790205dbe7a34",
+        "file": "snapshots/jc-c0bbb390fb81.txt"
+      },
+      {
+        "id": "jc-fc98e5e8b159",
+        "sha256": "f9353cc40109e568a432dcff58920a29e68f43fcf1e2bd8310ce12488ae16fef",
+        "file": "snapshots/jc-fc98e5e8b159.txt"
+      }
+    ]
+  },
+  "methodologyBinding": {
+    "file": "research/herb-vector-methodology.json",
+    "sha256": "e193e3c27d8678bb96ced233e41312517991097820530cf2354803e032729ec5"
+  },
+  "reportBinding": {
+    "file": "dist/downloads/herb-vector-report.json",
+    "semanticSha256": "8ee1764e1de0d709400da30949fe97817ed00fbc57b19e19eaea67c3c41610f6",
+    "scope": "UTF-8 recursively sorted JSON with generatedAt removed; report rebuilt from sealed canonical inputs."
+  },
+  "modelChecks": {
+    "file": "checks/verify-herb-vector.cjs",
+    "sha256": "d7dd879f73df84d7b5e0b9e005e4f9a9f6e94d67ccbb3a2032201c3ec863bb60",
+    "independentlyRunChecks": 17,
+    "allPassed": true
+  },
+  "uiStaticBinding": {
+    "file": "dist/herb-vector-ui.js",
+    "sha256": "47677502b970e9066c7f10a882c195e2a39daa046364a00625b0b3fbce34b486"
+  },
+  "builderBinding": {
+    "file": "tools/build-herb-vector-report.cjs",
+    "sha256": "0249ac37bb4af462951fb961fa7fa098ec0f12c08bf024b75d6482518970870f"
+  },
+  "parameters": {
+    "ridge": 0.03,
+    "iterations": 1600,
+    "tolerance": 0.000001,
+    "minTrainRecords": 30,
+    "minTrainGroups": 8,
+    "minElementSupport": 3,
+    "minElementGroups": 3,
+    "minLabelPositive": 5,
+    "minLabelNegative": 5,
+    "minLabelGroups": 3,
+    "minQueryTextCoverage": 0.8,
+    "minQuerySupportedCoverage": 0.5,
+    "threshold": 0.5,
+    "folds": 5
+  },
+  "outstandingReleaseChecks": [
+    "最終ZIP尚待在拒絕網路環境解壓重建、比對封存副本及重跑所有既有與新模型檢查；核驗結果另寫review/，不修改已封包的本審查。"
+  ]
+}

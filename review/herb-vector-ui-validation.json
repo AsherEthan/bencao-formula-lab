@@ -1,0 +1,30 @@
+{
+  "passed": true,
+  "checks": [
+    "export holds the selected original formula and excludes all 21 family records",
+    "unmapped original material keeps whole-formula source profile unknown",
+    "workbench export captures the same basis as its simulation",
+    "basis change invalidates stale result",
+    "incomplete grams keep mass source profile null",
+    "changed composition cannot export stale prediction"
+  ],
+  "validatedAt": "2026-10-04T09:01:54.325Z",
+  "browserChecks": {
+    "finalRoute": "rendered",
+    "sourceFieldEvidence": "linked flavor values and unlinked meridian labels displayed separately",
+    "guizhiFormula": "21 related source records excluded; whole thermal remains unknown with ambiguous 大棗",
+    "staleBasis": "export disabled after basis change",
+    "mobile": {
+      "width": 390,
+      "bodyScroll": 390,
+      "pageOverflow": false
+    },
+    "newConsoleErrorsAfterFix": 0,
+    "proof": "review/herb-vector-preview.jpg"
+  },
+  "assets": {
+    "herb-vector-ui.js": "cb223571ac9f95db1b6e7a73ff47debcaf8dce3a4e6f686a071c7e8c8438decf",
+    "app.js": "dad86b39d9d09ed7eacbdd0ab8359b1cce60d50a83801cd0df33debd0d5ddcd2",
+    "style.css": "930e062cc261629b11d08c6216e8588b00bc7ac3d1f32aa3cd9fcd6b22d45982"
+  }
+}

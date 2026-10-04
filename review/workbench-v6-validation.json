@@ -1,0 +1,37 @@
+{
+  "version": "workbench-v6",
+  "date": "2026-10-04",
+  "dataChanges": false,
+  "checks": {
+    "existingModelChecks": 91,
+    "newFlowRealDataChecks": 15,
+    "sceneAmountContract": "passed",
+    "sceneLifecycleWithRendererStub": "passed"
+  },
+  "browser": {
+    "renderer": "three-186",
+    "fourStepNavigation": true,
+    "unknownAndCompleteGramTransitions": true,
+    "invalidGramBlocksStepAndBasisSwitch": true,
+    "sourceProcessAndUserRecordSeparation": true,
+    "zeroDurationExportPreserved": true,
+    "exportWorkflowAndMassVerified": true,
+    "sourceSubsetNotice": true,
+    "lowMassAndCustomProcessWarningsPreserved": true,
+    "rotationAndWheelZoom": true,
+    "playToCompletionAndManualSeek": true,
+    "routeDisposalAndRemount": true,
+    "reset": true,
+    "mobileViewport": {
+      "width": 375,
+      "height": 812,
+      "scrollWidth": 375
+    }
+  },
+  "limitations": [
+    "動畫是組成與流程示意，非化學反應或實測藥效。",
+    "生命週期測試使用 renderer stub；實際 GPU 畫面另以瀏覽器確認。",
+    "手機版檢查排版與表單，未以真實雙指觸控驗證。"
+  ],
+  "proof": "review/workbench-3d-preview.jpg"
+}

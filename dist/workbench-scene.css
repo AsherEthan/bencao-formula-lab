@@ -1,0 +1,34 @@
+.wb-scene{position:relative;background:#122f29;color:#ece6d5;border:1px solid #416052;border-radius:16px;overflow:hidden;font-size:14px;line-height:1.45;isolation:isolate}
+.wb-scene *{box-sizing:border-box}
+.wb-scene [hidden]{display:none!important}
+.wb-scene-viewport{position:relative;height:430px;min-height:300px;background:radial-gradient(ellipse at 50% 60%,#1f4438 0,#122f29 72%);overflow:hidden}
+.wb-scene-canvas{width:100%;height:100%;display:block}
+.wb-scene-labels{position:absolute;inset:0;pointer-events:none;overflow:hidden}
+.wb-scene-label{position:absolute;top:0;left:0;pointer-events:auto;white-space:nowrap;max-width:174px;overflow:hidden;text-overflow:ellipsis;display:flex;flex-direction:column;gap:2px;padding:6px 9px;background:rgba(17,43,36,.89);border:1px solid rgba(193,174,124,.33);color:#eee8d8;border-radius:7px;box-shadow:0 2px 10px #071f2440;cursor:pointer;font:inherit;font-size:14px;line-height:1.35}
+.wb-scene-label small{color:#bcc8ba;font-size:12px;max-width:156px;overflow:hidden;text-overflow:ellipsis}
+.wb-scene-label:hover,.wb-scene-label.is-selected{border-color:#f2d79a;background:#365144}
+.wb-scene-label:focus-visible,.wb-scene-accessible-list button:focus-visible{outline:2px solid #f2d79a;outline-offset:2px}
+.wb-scene-node-name{font-weight:600;letter-spacing:.08em}
+.wb-scene-center{position:absolute;text-align:center;transform:translate(-50%,-50%);display:flex;flex-direction:column;gap:3px;color:#e5d296;text-shadow:0 2px 4px #112b25;white-space:nowrap}
+.wb-scene-center span{letter-spacing:.12em;font-size:14px}
+.wb-scene-center small{color:#a8bba7;font-size:12px}
+.wb-scene-readout{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px;padding:12px 17px 7px;border-top:1px solid #416052}
+.wb-scene-stage{letter-spacing:.08em;color:#e3d8b7;font-weight:600}
+.wb-scene-step{color:#bacdbb;font-size:12px}
+.wb-scene-size-note,.wb-scene-hint,.wb-scene-caution,.wb-scene-overflow{margin:0;padding:0 17px 9px;color:#bdcbb9;font-size:12px}
+.wb-scene-legend{display:flex;flex-wrap:wrap;gap:12px;padding:2px 17px 9px;font-size:12px;color:#bfceb9}
+.wb-scene-legend>span{display:flex;align-items:center;gap:5px}
+.wb-scene-legend i{display:inline-block;height:7px;width:7px;border-radius:50%}
+.wb-scene-motion-note{margin-left:auto;color:#dbc997}
+.wb-scene-hint{color:#96ad9b;font-size:12px}
+.wb-scene-caution{color:#bea975;font-size:12px;padding-bottom:13px}
+.wb-scene-overflow{color:#e0c48a}
+.wb-scene-accessible-list{display:flex;flex-wrap:wrap;gap:6px;max-height:100px;overflow:auto;padding:0 17px 14px;scrollbar-color:#668271 #1b372c;scrollbar-width:thin}
+.wb-scene-accessible-list button{border:1px solid #365645;background:#17372c;border-radius:5px;color:#bfd0b9;padding:7px 9px;cursor:pointer;font:inherit;font-size:14px;min-height:36px}
+.wb-scene-accessible-list button.is-selected{border-color:#e5cd88;color:#f0d794;background:#294b3c}
+.wb-scene.is-fallback .wb-scene-readout{border-top:none;padding-top:20px}
+.wb-scene.is-fallback .wb-scene-accessible-list{min-height:150px;max-height:380px;padding-top:10px}
+@media(max-width:700px){.wb-scene-viewport{height:340px}.wb-scene-label{max-width:152px;padding:6px 7px;font-size:14px}.wb-scene-label small{max-width:138px;font-size:12px}.wb-scene-readout{align-items:flex-start;flex-direction:column;gap:4px}.wb-scene-motion-note{margin-left:0}.wb-scene-accessible-list{max-height:96px}}
+@media(prefers-reduced-motion:reduce){.wb-scene *{scroll-behavior:auto;transition:none!important;animation:none!important}}
+
+.wb-scene-materials summary{cursor:pointer;color:#d8d0af;padding:12px 17px;font-size:14px;min-height:44px;border-top:1px solid #416052}

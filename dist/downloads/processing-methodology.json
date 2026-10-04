@@ -1,0 +1,50 @@
+{
+  "version": "processing-evidence-model-1.0",
+  "title": "炮製分支、工藝原文與實錄質量的文獻分析方法",
+  "purpose": "工作台可選來源有記載的炮製分支、查閱工藝原文並實錄克數。只分析該分支有來源的文獻標籤；不建立劑量與藥效關係。",
+  "processingSelection": {
+    "unspecifiedId": "source_unspecified",
+    "unspecifiedMeaning": "原條目泛稱、未指定加工分支；不是生品、原品或任何指定現代飲片。保留原條目性味及其條件不確定性。",
+    "applicability": "指定加工分支必須在 profile.herbIds 列有當前本草身份。相近名称或工藝名稱不構成適用證據。",
+    "proof": "verificationStatus 為 source_excerpt_reviewed 或 curated_source_excerpt_reviewed，且每個屬性字段均有 propertyEvidence。evidenceSpan 須以 herbRawText、unicode_code_point 表示，逐字對應指定原本草 rawText，sourceId 相符；屬性值須確實出現在該字段的來源短句內。",
+    "unknownPolicy": "已選分支未記載的性味、歸經或功用保持未知，不繼承原條目泛稱屬性。沒有證據的處理方法不會自動產生溫涼或功用倍率。",
+    "workflowProof": "每步工藝標明原文與核驗狀態。沒有原文位置或核查狀態的步骤不屬於來源已核工藝。未錄條件不得被推算。",
+    "derivedText": "量化用的加工屬性嵌在其逐字來源短句內，保留可返查原本草原文的 originEvidenceSpan。原本草身份與毒性聲稱保持不變；沿用的毒性原文位置改以 originalMaterialRawText 為明確基底，並保留原本草 rawText 與 sourceId，避免誤指新的分支短句。"
+  },
+  "mass": {
+    "unit": "g",
+    "definition": "使用者實錄的材料研究稱量，稱量階段與乾濕狀態由工作台另作註記。",
+    "validation": "克數必須是有限正數。未實錄者為 null；不允許用零表示未知。",
+    "conversionPolicy": "研究份數、古代兩錢、片枚與現代克數各自保留，不自動換算或補入服用劑量。",
+    "completeness": "所有已選材料均有實錄克數時，才產生全方質量分布。缺一味即 totalGrams 與 massDistribution 為 null。knownGrams 只合計已錄子集。gramsCoverage 表示有克數的條目數除以已選條目數，並非已知質量占比。",
+    "partialPolicy": "partialMass 明示已錄子集、未錄條目與子集總克數。子集標籤百分比只以子集總克數為分母，不展示為全方百分比。",
+    "meaning": "g 加權只描述實錄質量所占的來源標籤比例，不是提取率、生物利用率、人體暴露量、物理藥性、效果、毒性或安全性。"
+  },
+  "quantification": {
+    "nature": "沿用 QuantModel 的來源寒熱序位；加工後未知不變成平性或零。未知總質量仍在文獻覆蓋率分母內，完整寒熱範圍只有全部質量都有記錄性味時提供。",
+    "effects": "沿用已凍結功用詞表及否定詞檢查。只有與來源原文逐字對應的功用字段進入詞覆蓋量化。",
+    "distribution": "多個味或歸經標籤在同一材料內等分其稱量或研究份數；等分僅為編碼約定。",
+    "warnings": "毒性與配伍警示由材料身份及原來源決定；選炮製方式或降低克數不會移除、抵銷或降級警示。",
+    "comparison": "加工前泛稱條目與加工分支的記錄性味可以並列，未知者不計差值。不能據此宣稱加工提高或降低實際藥效。",
+    "scaleOptions": {
+      "defaults": {
+        "scheme": "base",
+        "mild": 0.5,
+        "strong": 1.5
+      },
+      "policy": "特性量化頁可明示變更序位尺度與微／大倍率；整方、已錄克數子集及加工前後編碼共用同一設定。非有限、非正倍率及未知尺度拒絕計算。這些參數是研究編碼假設，不是藥效係數。"
+    }
+  },
+  "remainingValidation": [
+    "典籍古名與現代藥材基原、部位及規格的逐項鑑定",
+    "古代工藝與現代炮製標準的對照及實驗品質核驗",
+    "溫度、時間、輔料、提取率與化學成分數據",
+    "獨立藥理、毒理及臨床劑量反應研究"
+  ],
+  "recording": {
+    "defaultMassStage": "unrecorded",
+    "processParameters": "批次、設備、溫度、分鐘、輔料及步驟備註由研究者實錄；不反填原典或自動變更來源屬性。",
+    "export": "工作台匯出以當前組方重新計算，包含炮製分支、逐字證據、工藝實錄、克數、稱量階段與未知資料。",
+    "inference": "現有方劑反推模型只學習原名元素與可定位的原方炮製詞；工作台所選加工分支與實錄克數／參數尚未用於反推訓練。"
+  }
+}

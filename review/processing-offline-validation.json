@@ -1,0 +1,87 @@
+{
+  "networkProbe": {
+    "denied": true,
+    "errno": 1,
+    "message": "[Errno 1] Operation not permitted"
+  },
+  "checks": [
+    {
+      "command": [
+        "python3",
+        "tools/build-research-assets.py"
+      ],
+      "exitCode": 0,
+      "output": "{\"formulas\":284,\"performed\":true,\"metrics\":{\"microF1\":0.2857142857142857,\"macroF1\":0.28223158633534096,\"brier\":0.2825799005327828},\"baseline\":{\"microF1\":0,\"macroF1\":0,\"brier\":0.1031136431898994},\"coverage\":{\"testRecords\":284,\"scoredQueryRecords\":244,\"queryCoverage\":0.8591549295774648,\"scoredLabelDecisions\":2971,\"possibleLabelDecisions\":4544,\"labelDecisionCoverage\":0.6538292253521126}}\n{\"herbs\": 340, \"curatedFormulas\": 18, \"newFormulaCorpus\": 284, \"catalogue\": 1362, \"fulltexts\": 14, \"processing\": {\"profiles\": 31, \"sourceHerbEntries\": 15, \"workflowSteps\": 37, \"propertyEvidence\": 45, \"sourceQuotes\": 56, \"knownNatureProfiles\": 8, \"unknownNatureProfiles\": 23, \"modernStandardCorrespondence\": \"unresolved\", \"clinicalDoseModel\": \"not_implemented\", \"historicalUnitConversion\": \"not_implemented\", \"meaning\": \"來源限定炮製分支及工藝節錄；克數僅為使用者實錄研究稱量，不代表服用劑量或藥效。\"}, \"bundleBytes\": 7112937}\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "python3",
+        "tools/verify-research-assets.py"
+      ],
+      "exitCode": 0,
+      "output": "{\"catalogueEntries\": 1362, \"fulltexts\": 14, \"verifiedRawTextSpans\": 1416, \"verifiedProfileSourceSpans\": 4, \"publicLocalPaths\": 0}\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "python3",
+        "tools/verify-formula-corpus.py"
+      ],
+      "exitCode": 0,
+      "output": "{\"formulas\": 284, \"sourceElements\": 396, \"verifiedSpans\": 5120, \"sourceSnapshots\": 3, \"computedSplitReports\": 2}\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "python3",
+        "tools/verify-processing-assets.py"
+      ],
+      "exitCode": 0,
+      "output": "{\"processingProfiles\": 31, \"sourceHerbEntries\": 15, \"verifiedProcessingReferences\": 138, \"propertyEvidence\": 45, \"workflowSteps\": 37, \"sourceQuotes\": 56, \"knownNatureProfiles\": 8, \"unknownNatureProfiles\": 23, \"publicCanonicalConsistency\": true, \"publicLocalPaths\": 0, \"bundleProcessingInputsMatch\": true}\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "node",
+        "checks/verify-model.cjs"
+      ],
+      "exitCode": 0,
+      "output": "PASS research and browser datasets retain identical evidence and identities\nPASS 340 entries, 18 formulas and all source/ingredient references resolve explicitly\nPASS 24 reviewed excerpts and 316 automatic entries remain distinguished\nPASS every herb, toxicity and ingredient span matches its original code points\nPASS span validation handles non-BMP text and rejects altered excerpts\nPASS independent formula labels retain exact source snapshots\nPASS historical toxicity preserves negative polarity and context without a safety verdict\nPASS absence and negated toxicity wording do not create safety or toxicity scores\nPASS unresolved classical ingredients cannot produce 100 percent overlap\nPASS historical ingredient names and preparation boundaries remain explicit\nPASS empty selection has no distribution or warnings\nPASS mixed processing labels remain unresolved\nPASS invalid and duplicate inputs are rejected\nPASS sparse safety rules preserve independent toxicity\nPASS low relative ratio cannot suppress warning\nPASS official caution does not invent historical fuzi identity\nPASS missing meridians remain unknown\nPASS ordering and proportional scaling do not change distributions or overlap\nPASS complete formula overlap does not depend on research weights\nPASS multi-label allocation conserves total weight across all 340 entries\nPASS unrelated herbs produce no compatibility warning\n21 research model checks passed; 1554 source-span validations\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "node",
+        "checks/verify-quant.cjs"
+      ],
+      "exitCode": 0,
+      "output": "PASS unknown temperature never becomes neutral or a full-formula zero\nPASS processing alternatives retain uncertainty and editorial restatements do not create it\nPASS a zero mean of opposing labels is flagged rather than called neutral\nPASS ordinal parameters change scores transparently and reject invalid settings\nPASS lexical matches require correct Unicode source positions and skip negated claims\nPASS incomplete core materials preserve a full-composition denominator\nPASS core versus auxiliary scope, missing parse rows and historical mappings are explicit\nPASS source phrases do not pretend to be independent validation or leak into inputs\nPASS pair denominators include formulas containing neither queried herb\nPASS small and degenerate corpora do not manufacture an association through smoothing\nPASS known mirrors use duplicate groups and incomplete formulas cannot affect statistics\nPASS candidate admission requires exact core mappings, evidence and resolved historical identity\nPASS generation cannot trade off alerts against target match or novelty\nPASS real corpus handles every formula, identifies partial data and keeps independent-validation false\n14 quantitative research checks passed\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "node",
+        "checks/verify-inference.cjs"
+      ],
+      "exitCode": 0,
+      "output": "PASS source spans and supplied labels are not targets\nPASS snapshot filename and source-id text maps verify the same spans and train the same counts\nPASS literal unknown/ambiguous catalog identity remains a known text element\nPASS unknown coverage is explicit and incomplete source parsing cannot train\nPASS negation/contrast, names and unrelated branches cannot produce silver positives\nPASS workbench weights and unverified processing are ignored, not negative\nPASS 2x2 counts and smoothing use all eligible records including joint absence\nPASS perfectly co-occurring columns have a single vote and are not identifiable\nPASS a three-record element in one proxy family has insufficient independent group support\nPASS deduplication counts exact copies once; conflicting indications share a holdout group\nPASS query exclusions refit counts and nearest cases use only that training subset\nPASS empty queries and unsupported targets abstain without invented numeric results\nPASS held-out targets and exact/near compositions never train on themselves\nPASS book holdout also purges cross-book family members\nPASS shared indication context groups small explicit variants without leaking context into labels\nPASS actual source spans and all retained lexical targets verify against local snapshots\nPASS actual source branch fixes and catalog ambiguity have the intended meaning\n{\"validation\":\"family\",\"corpusRecords\":284,\"eligible\":284,\"groups\":228,\"scoredQueries\":244,\"microF1\":0.2857142857142857,\"baselineMicroF1\":0,\"brier\":0.2825799005327828,\"baselineBrier\":0.1031136431898994}\n{\"validation\":\"sourceBook\",\"corpusRecords\":284,\"eligible\":284,\"groups\":228,\"scoredQueries\":176,\"microF1\":0.18510158013544017,\"baselineMicroF1\":0,\"brier\":0.22658807425914768,\"baselineBrier\":0.08713911486792293}\nPASS actual grouped and book validations genuinely execute with no shared proxy groups\nVerified 18 inference research checks.\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "node",
+        "checks/verify-processing.cjs"
+      ],
+      "exitCode": 0,
+      "output": "PASS unspecified source retains conditional nature without pretending to be a raw product\nPASS a verified branch replaces only the fields actually documented for that branch\nPASS the lack of processed properties remains unknown and cannot become a zero temperature\nPASS profile applicability and unique identity are required before applying any branch\nPASS UTF16 positions and corrupted source identifiers cannot admit processing properties\nPASS a review flag by itself and unsupported field values are insufficient evidence\nPASS workflow claims also need source positions, while user process records have no attribute effect\nPASS invalid temperature, duration and record formats cannot enter an exported analysis\nPASS grams must be measured positive finite values rather than ratios or ancient unit conversions\nPASS one missing mass prevents whole-formula percentages without invalidating composition warnings\nPASS complete mass weights the labels by recorded grams independently of research ratios\nPASS unknown processed nature consumes mass coverage and does not become neutral\nPASS the same recorded composition changes only its ordinal values across explicit encoding scenarios\nPASS selected processing branches and partial mass use the same requested ordinal scale\nPASS invalid ordinal settings are rejected even when grams or thermal properties are unavailable\nPASS finite recorded masses cannot overflow the temperature encoding or hide an unknown row\nPASS toxicity and compatibility survive low mass, custom processes and verified processing\nPASS an empty workbench produces no fabricated mass or temperature evidence\nPASS analysis resolves isolated copies and does not mutate the source library or recorded process\nPASS inherited toxicity source positions still point to original material text after branch rebasing\nPASS every real processing profile has applicable identity and exact recorded source evidence\n21 processing and recorded-mass checks passed\n",
+      "stderr": ""
+    }
+  ],
+  "success": true,
+  "scope": "最終研究ZIP在臨時解壓目錄中，使用macOS sandbox deny network* 真實封鎖網絡後離線重建與驗證；不修改專案來源。",
+  "archiveBytes": 7112937,
+  "archiveSha256": "251ceeb5f0924b440a629a47b46bee8b80bafe525853e705b7ab70f5955c68ea",
+  "clientDate": "2026-10-04",
+  "reviewSha256": "a45d638ef932be15877fe8deac7e8646973f597d5899a668639eb7aba383d310"
+}

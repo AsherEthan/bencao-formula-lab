@@ -1,0 +1,314 @@
+{
+  "version": "processing-source-checks-v1",
+  "checks": [
+    {
+      "url": "https://zh.wikisource.org/zh-hant/%E6%9C%AC%E8%8D%89%E5%82%99%E8%A6%81",
+      "resolvedURL": "https://zh.wikisource.org/zh-hant/%E6%9C%AC%E8%8D%89%E5%82%99%E8%A6%81",
+      "httpStatus": 200,
+      "responseSha256": "7c498e7d6e56d364e2a573d290b3bfd193ccf757be75c79aa12683d0036df41c",
+      "checkedAt": "2026-10-04",
+      "contentType": "text/html",
+      "title": "本草備要 - 維基文庫，自由的圖書館",
+      "excerptChecks": [
+        {
+          "profileId": "gancao-sheng-bby",
+          "text": "生用氣平",
+          "presentInRetrievedText": true
+        },
+        {
+          "profileId": "gancao-sheng-bby",
+          "text": "味甘",
+          "presentInRetrievedText": true
+        },
+        {
+          "profileId": "gancao-sheng-bby",
+          "text": "生用氣平，補脾胃不足而瀉心火",
+          "presentInRetrievedText": true
+        },
+        {
+          "profileId": "gancao-zhi-bby",
+          "text": "補中炙用",
+          "presentInRetrievedText": true
+        },
+        {
+          "profileId": "gancao-zhi-bby",
+          "text": "炙用氣溫",
+          "presentInRetrievedText": true
+        },
+        {
+          "profileId": "gancao-zhi-bby",
+          "text": "味甘",
+          "presentInRetrievedText": true
+        },
+        {
+          "profileId": "gancao-zhi-bby",
+          "text": "炙用氣溫，補三焦元氣而散表寒",
+          "presentInRetrievedText": true
+        },
+        {
+          "profileId": "renshen-sheng-bby",
+          "text": "去蘆用",
+          "presentInRetrievedText": true
+        },
+        {
+          "profileId": "renshen-sheng-bby",
+          "text": "生甘苦微涼",
+          "presentInRetrievedText": true
+        },
+        {
+          "profileId": "renshen-shu-bby",
+          "text": "去蘆用",
+          "presentInRetrievedText": true
+        },
+        {
+          "profileId": "renshen-shu-bby",
+          "text": "熟甘溫",
+          "presentInRetrievedText": true
+        },
+        {
+          "profileId": "huangqi-sheng-bby",
+          "text": "生用固表",
+          "presentInRetrievedText": true
+        },
+        {
+          "profileId": "huangqi-mizhi-bby",
+          "text": "入補中藥槌扁，蜜炙",
+          "presentInRetrievedText": true
+        },
+        {
+          "profileId": "huangqi-mizhi-bby",
+          "text": "炙用補中，益元氣，溫三焦，壯脾胃",
+          "presentInRetrievedText": true
+        },
+        {
+          "profileId": "baizhu-migan-bby",
+          "text": "用糯米泔浸（借谷氣以和脾）",
+          "presentInRetrievedText": true
+        },
+        {
+          "profileId": "baizhu-tuchao-bby",
+          "text": "陳壁土炒（借土氣以助脾）",
+          "presentInRetrievedText": true
+        },
+        {
+          "profileId": "baizhu-mishui-bby",
+          "text": "或蜜水炒",
+          "presentInRetrievedText": true
+        },
+        {
+          "profileId": "banxia-jiangban-bby",
+          "text": "浸七日",
+          "presentInRetrievedText": true
+        },
+        {
+          "profileId": "banxia-jiangban-bby",
+          "text": "逐日換水",
+          "presentInRetrievedText": true
+        },
+        {
+          "profileId": "banxia-jiangban-bby",
+          "text": "瀝去涎",
+          "presentInRetrievedText": true
+        },
+        {
+          "profileId": "banxia-jiangban-bby",
+          "text": "切片",
+          "presentInRetrievedText": true
+        },
+        {
+          "profileId": "banxia-jiangban-bby",
+          "text": "薑汁拌",
+          "presentInRetrievedText": true
+        },
+        {
+          "profileId": "banxia-fanqu-bby",
+          "text": "一礬水煮透，兼姜糊造，名礬曲",
+          "presentInRetrievedText": true
+        },
+        {
+          "profileId": "banxia-fanqu-bby",
+          "text": "名礬曲，礬最能卻水，治清水痰",
+          "presentInRetrievedText": true
+        },
+        {
+          "profileId": "shengjiang-daozhi-bby",
+          "text": "搗汁，和黃明膠熬",
+          "presentInRetrievedText": true
+        },
+        {
+          "profileId": "shengdi-xian-bby",
+          "text": "生掘鮮者",
+          "presentInRetrievedText": true
+        },
+        {
+          "profileId": "shengdi-xian-bby",
+          "text": "搗汁飲之",
+          "presentInRetrievedText": true
+        },
+        {
+          "profileId": "shengdi-xian-bby",
+          "text": "甘苦大寒",
+          "presentInRetrievedText": true
+        },
+        {
+          "profileId": "shengdi-jiuzhi-bby",
+          "text": "或用酒制",
+          "presentInRetrievedText": true
+        },
+        {
+          "profileId": "gandi-jiuzhi-bby",
+          "text": "酒制則上行外行",
+          "presentInRetrievedText": true
+        },
+        {
+          "profileId": "gandi-jiangzhi-bby",
+          "text": "姜制則不泥膈",
+          "presentInRetrievedText": true
+        },
+        {
+          "profileId": "shudi-jiusharen-bby",
+          "text": "以好酒拌砂仁末",
+          "presentInRetrievedText": true
+        },
+        {
+          "profileId": "shudi-jiusharen-bby",
+          "text": "浸蒸曬九次用",
+          "presentInRetrievedText": true
+        },
+        {
+          "profileId": "shudi-jiusharen-bby",
+          "text": "甘而微溫",
+          "presentInRetrievedText": true
+        },
+        {
+          "profileId": "shudi-jiusharen-bby",
+          "text": "平補肝腎，養血滋陰",
+          "presentInRetrievedText": true
+        },
+        {
+          "profileId": "ganjiang-sheng-bby",
+          "text": "母姜曬乾者為乾薑",
+          "presentInRetrievedText": true
+        },
+        {
+          "profileId": "ganjiang-sheng-bby",
+          "text": "生用辛溫",
+          "presentInRetrievedText": true
+        },
+        {
+          "profileId": "ganjiang-sheng-bby",
+          "text": "生用辛溫，逐寒邪而發表",
+          "presentInRetrievedText": true
+        },
+        {
+          "profileId": "ganjiang-pao-bby",
+          "text": "炮則辛苦大熱",
+          "presentInRetrievedText": true
+        },
+        {
+          "profileId": "ganjiang-pao-bby",
+          "text": "炮則辛苦大熱，除胃冷而守中",
+          "presentInRetrievedText": true
+        },
+        {
+          "profileId": "ganjiang-hei-bby",
+          "text": "炮黑為黑姜",
+          "presentInRetrievedText": true
+        },
+        {
+          "profileId": "ganjiang-hei-bby",
+          "text": "炮黑止吐衄諸血",
+          "presentInRetrievedText": true
+        },
+        {
+          "profileId": "fuzi-sheng-bby",
+          "text": "生用發散，熟用峻補",
+          "presentInRetrievedText": true
+        },
+        {
+          "profileId": "fuzi-shu-bby",
+          "text": "生用發散，熟用峻補",
+          "presentInRetrievedText": true
+        },
+        {
+          "profileId": "fuzi-wei-bby",
+          "text": "水浸，面裹煨，令發坼，乘熱切片，炒黃",
+          "presentInRetrievedText": true
+        },
+        {
+          "profileId": "fuzi-wei-bby",
+          "text": "面裹煨，令發坼",
+          "presentInRetrievedText": true
+        },
+        {
+          "profileId": "fuzi-wei-bby",
+          "text": "乘熱切片",
+          "presentInRetrievedText": true
+        },
+        {
+          "profileId": "fuzi-wei-bby",
+          "text": "炒黃",
+          "presentInRetrievedText": true
+        },
+        {
+          "profileId": "zhizi-sheng-bby",
+          "text": "生用瀉火",
+          "presentInRetrievedText": true
+        },
+        {
+          "profileId": "zhizi-chahei-bby",
+          "text": "炒黑止血",
+          "presentInRetrievedText": true
+        },
+        {
+          "profileId": "zhizi-jiangchao-bby",
+          "text": "薑汁炒止煩嘔",
+          "presentInRetrievedText": true
+        },
+        {
+          "profileId": "baishao-jiuchao-bby",
+          "text": "酒炒用（制其寒）",
+          "presentInRetrievedText": true
+        },
+        {
+          "profileId": "baishao-cuchao-bby",
+          "text": "婦人血分醋炒",
+          "presentInRetrievedText": true
+        },
+        {
+          "profileId": "dahuang-jiujin-bby",
+          "text": "若酒浸，亦能引至高之分",
+          "presentInRetrievedText": true
+        },
+        {
+          "profileId": "dahuang-jiuzheng-bby",
+          "text": "有酒浸、酒蒸、生、熟之不同",
+          "presentInRetrievedText": true
+        },
+        {
+          "profileId": "huangqin-jiuchao-bby",
+          "text": "酒炒則上行，瀉肺火，利胸中氣",
+          "presentInRetrievedText": true
+        }
+      ],
+      "matched": 56,
+      "total": 56
+    },
+    {
+      "url": "https://mpa.hunan.gov.cn/mpa/xyjh/202504/t20250414_33711434.html",
+      "checkedAt": "2026-10-04",
+      "status": "could_not_verify_by_get",
+      "reason": "<urlopen error [SSL: BAD_ECPOINT] bad ecpoint (_ssl.c:1081)>"
+    },
+    {
+      "url": "https://app.www.gov.cn/govdata/gov/202503/26/525844/article.html",
+      "resolvedURL": "https://app.www.gov.cn/govdata/gov/202503/26/525844/article.html",
+      "httpStatus": 200,
+      "responseSha256": "81a92b34c8b729caf147a0a03dfa5227c144b98953d7603331acb2912c2d79c6",
+      "checkedAt": "2026-10-04",
+      "contentType": "text/html",
+      "title": "国家药监局 国家卫生健康委关于颁布2025年版《中华人民共和国药典》的公告"
+    }
+  ],
+  "scope": "GET and exact whitespace-normalized excerpt presence; not original edition collation or modern correspondence."
+}

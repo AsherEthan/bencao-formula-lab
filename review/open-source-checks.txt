@@ -1,0 +1,168 @@
+
+Checking checks/check-workstation-scene.mjs
+{"passed":30,"scope":"Actual Three geometry/math with mocked renderer boundary; source-routing, unknown mass, special vessels, pause/reduced-motion/fallback and resource disposal"}
+
+Checking checks/verify-herb-vector.cjs
+PASS ridge learns signed coefficients jointly and reduces a regularized training objective
+PASS source vectors preserve unknowns, conditional processing and evidence status separately from learned targets
+PASS source input is only original element presence; grams, ratios, process, supplied names and labels have no input effect
+PASS a forward prediction is sigmoid of one intercept plus the learned contributions
+PASS query family removal refits vocabulary, support, coefficients and nearest examples without self leakage
+PASS perfectly co-occurring elements have bundle coefficients but their single-element scores stay null
+PASS rare elements and single-family repeats do not acquire reportable single-herb coefficients
+PASS query-group removal can make a previously supported element unknown
+PASS unsupported target dimensions stay null instead of acquiring fabricated 16-dimensional efficacy
+PASS each held-out fold refits its coefficient and vocabulary using training groups only
+PASS baseline and Brier are independently recoverable from training-group frequencies and matching test decisions
+PASS source-book holdout removes cross-book relatives and can still emit an unscored source record
+PASS group balancing gives every family one total training weight rather than allowing variants to multiply evidence
+PASS training and prediction remain deterministic and do not mutate source observations
+PASS real collection yields 340 source vectors, 396 original element rows and every source formula OOF record
+PASS real folds keep proxy groups separate and report support coverage alongside baseline performance
+PASS staged four-of-five 桂枝 core catalog subset excludes the original entire family
+17 herb-vector model checks passed
+
+Checking checks/verify-inference.cjs
+PASS source spans and supplied labels are not targets
+PASS snapshot filename and source-id text maps verify the same spans and train the same counts
+PASS literal unknown/ambiguous catalog identity remains a known text element
+PASS unknown coverage is explicit and incomplete source parsing cannot train
+PASS negation/contrast, names and unrelated branches cannot produce silver positives
+PASS workbench weights and unverified processing are ignored, not negative
+PASS 2x2 counts and smoothing use all eligible records including joint absence
+PASS perfectly co-occurring columns have a single vote and are not identifiable
+PASS a three-record element in one proxy family has insufficient independent group support
+PASS deduplication counts exact copies once; conflicting indications share a holdout group
+PASS query exclusions refit counts and nearest cases use only that training subset
+PASS empty queries and unsupported targets abstain without invented numeric results
+PASS held-out targets and exact/near compositions never train on themselves
+PASS book holdout also purges cross-book family members
+PASS shared indication context groups small explicit variants without leaking context into labels
+PASS actual source spans and all retained lexical targets verify against local snapshots
+PASS actual source branch fixes and catalog ambiguity have the intended meaning
+{"validation":"family","corpusRecords":284,"eligible":284,"groups":228,"scoredQueries":244,"microF1":0.2857142857142857,"baselineMicroF1":0,"brier":0.2825799005327828,"baselineBrier":0.1031136431898994}
+{"validation":"sourceBook","corpusRecords":284,"eligible":284,"groups":228,"scoredQueries":176,"microF1":0.18510158013544017,"baselineMicroF1":0,"brier":0.22658807425914768,"baselineBrier":0.08713911486792293}
+PASS actual grouped and book validations genuinely execute with no shared proxy groups
+Verified 18 inference research checks.
+
+Checking checks/verify-model.cjs
+PASS research and browser datasets retain identical evidence and identities
+PASS 340 entries, 18 formulas and all source/ingredient references resolve explicitly
+PASS 24 reviewed excerpts and 316 automatic entries remain distinguished
+PASS every herb, toxicity and ingredient span matches its original code points
+PASS span validation handles non-BMP text and rejects altered excerpts
+PASS independent formula labels retain exact source snapshots
+PASS historical toxicity preserves negative polarity and context without a safety verdict
+PASS absence and negated toxicity wording do not create safety or toxicity scores
+PASS unresolved classical ingredients cannot produce 100 percent overlap
+PASS historical ingredient names and preparation boundaries remain explicit
+PASS empty selection has no distribution or warnings
+PASS mixed processing labels remain unresolved
+PASS invalid and duplicate inputs are rejected
+PASS sparse safety rules preserve independent toxicity
+PASS low relative ratio cannot suppress warning
+PASS official caution does not invent historical fuzi identity
+PASS missing meridians remain unknown
+PASS ordering and proportional scaling do not change distributions or overlap
+PASS complete formula overlap does not depend on research weights
+PASS multi-label allocation conserves total weight across all 340 entries
+PASS unrelated herbs produce no compatibility warning
+21 research model checks passed; 1554 source-span validations
+
+Checking checks/verify-processing.cjs
+PASS unspecified source retains conditional nature without pretending to be a raw product
+PASS a verified branch replaces only the fields actually documented for that branch
+PASS the lack of processed properties remains unknown and cannot become a zero temperature
+PASS profile applicability and unique identity are required before applying any branch
+PASS UTF16 positions and corrupted source identifiers cannot admit processing properties
+PASS a review flag by itself and unsupported field values are insufficient evidence
+PASS workflow claims also need source positions, while user process records have no attribute effect
+PASS invalid temperature, duration and record formats cannot enter an exported analysis
+PASS grams must be measured positive finite values rather than ratios or ancient unit conversions
+PASS one missing mass prevents whole-formula percentages without invalidating composition warnings
+PASS complete mass weights the labels by recorded grams independently of research ratios
+PASS unknown processed nature consumes mass coverage and does not become neutral
+PASS the same recorded composition changes only its ordinal values across explicit encoding scenarios
+PASS selected processing branches and partial mass use the same requested ordinal scale
+PASS invalid ordinal settings are rejected even when grams or thermal properties are unavailable
+PASS finite recorded masses cannot overflow the temperature encoding or hide an unknown row
+PASS toxicity and compatibility survive low mass, custom processes and verified processing
+PASS an empty workbench produces no fabricated mass or temperature evidence
+PASS analysis resolves isolated copies and does not mutate the source library or recorded process
+PASS inherited toxicity source positions still point to original material text after branch rebasing
+PASS every real processing profile has applicable identity and exact recorded source evidence
+21 processing and recorded-mass checks passed
+
+Checking checks/verify-quant.cjs
+PASS unknown temperature never becomes neutral or a full-formula zero
+PASS processing alternatives retain uncertainty and editorial restatements do not create it
+PASS a zero mean of opposing labels is flagged rather than called neutral
+PASS ordinal parameters change scores transparently and reject invalid settings
+PASS lexical matches require correct Unicode source positions and skip negated claims
+PASS incomplete core materials preserve a full-composition denominator
+PASS core versus auxiliary scope, missing parse rows and historical mappings are explicit
+PASS source phrases do not pretend to be independent validation or leak into inputs
+PASS pair denominators include formulas containing neither queried herb
+PASS small and degenerate corpora do not manufacture an association through smoothing
+PASS known mirrors use duplicate groups and incomplete formulas cannot affect statistics
+PASS candidate admission requires exact core mappings, evidence and resolved historical identity
+PASS generation cannot trade off alerts against target match or novelty
+PASS real corpus handles every formula, identifies partial data and keeps independent-validation false
+14 quantitative research checks passed
+
+Checking checks/verify-scene-amounts.mjs
+Scene amount checks passed: complete shares, separate bases, 7 unknown/invalid states, no input mutation, empty and large formula records.
+
+Checking checks/verify-scene-lifecycle.mjs
+Scene lifecycle checks passed: pause/play/seek, hidden/off-screen/page lifecycle, reduced-motion, resize, selection, GPU rebuild/disposal, context recovery, and 60-material no-WebGL fallback. Renderer is stubbed; real GPU appearance remains a browser integration check.
+
+Checking checks/verify-workbench-flow.cjs
+{"passed":15,"version":"workbench-flow-1.0","realDataIntegration":true}
+
+Checking checks/verify-workstation-model.cjs
+PASS preserves prior Flow mass, workflows, scene and four-step contract
+PASS formula names and preparation prose never automatically select method
+PASS unknown/powder/pill/other produce no pot operations
+PASS explicit decoction remains a researcher choice when source is a pill
+PASS unknown or invalid instructions are held instead of poured into the pot
+PASS special instructions remain distinct and excluded from ordinary first addition
+PASS wrap and preboil happen before main first decoction in the planned DAG
+PASS ordinary and wrapped materials stay in a separate basin until combination
+PASS total water is recorded once and never duplicated into basin or preboil pot
+PASS late addition has a further simmer before filtering without invented timing
+PASS preboil-only preparation does not invent an ordinary soaking basin
+PASS separate preparation has its own unrecorded vessel and parameters
+PASS dissolve is after collection, separate filtration and main filtration
+PASS second decoction exists only when a duration has been explicitly recorded
+PASS processed dry weighing is after processing and records actual input mass
+PASS raw weighing precedes processing and cannot stand in for post-process mass
+PASS unknown weighing stage does not assert post-process or converted grams
+PASS partial physical mass stays partial even with all process parameters
+PASS stale resolved attributes and weighted fractions remain rejected
+PASS invalid process parameters are reported, preserved and never normalized to safe values
+PASS missing durations, water and temperature remain null rather than suggested standards
+PASS original quantities, identity references and source processing notes stay verbatim
+PASS source workflow evidence and researcher process notes remain separate
+PASS toxicity, herb names and source keywords do not assign preparation instructions
+PASS process record parameters do not modify medicinal properties or weights
+PASS all state is immutable, including source excerpts and process parameters
+PASS all topology edges are connected to unique nodes and form an acyclic DAG
+PASS no recorded step or animation phase is marked physically completed
+{"passed":28,"modelVersion":"real-workstation-1.0","scope":"pure workstation topology, real-source integration and unknown-value preservation"}
+
+Checking tools/verify-research-assets.py
+{"catalogueEntries": 1362, "fulltexts": 14, "verifiedRawTextSpans": 1416, "verifiedProfileSourceSpans": 4, "publicLocalPaths": 0}
+
+Checking tools/verify-formula-corpus.py
+{"formulas": 284, "sourceElements": 396, "verifiedSpans": 5120, "sourceSnapshots": 3, "computedSplitReports": 2}
+
+Checking tools/verify-processing-assets.py
+{"processingProfiles": 31, "sourceHerbEntries": 15, "verifiedProcessingReferences": 138, "propertyEvidence": 45, "workflowSteps": 37, "sourceQuotes": 56, "knownNatureProfiles": 8, "unknownNatureProfiles": 23, "publicCanonicalConsistency": true, "publicLocalPaths": 0, "bundleProcessingInputsMatch": true}
+
+Checking tools/verify-herb-vector-assets.py
+{"sourceHerbs": 340, "literalElements": 396, "individualReportableElements": 133, "sourceVectorSpanReferences": 2934, "independentTargetSpanReferences": 1136, "familyOOFPredictions": 284, "sourceBookOOFPredictions": 284, "coefficientCSVRows": 6336, "forwardCSVRows": 5382, "scoredOOFDecisions": 5234, "actualRefitMatchesSavedReport": true, "publicCanonicalCSVZIPConsistency": true}
+
+Checking tools/verify-herb-images.py
+{"illustratedEntries": 340, "verifiedLocalFiles": 587, "imageKinds": {"material_photo": 17, "historical_illustration": 497, "source_photo": 50, "part_photo": 3, "botanical_illustration": 9, "food_photo": 2, "raw_ingredient_reference": 3}}
+
+All project checks passed.

@@ -1,0 +1,73 @@
+{
+  "version": "herb-vector-ridge-logistic-1.0",
+  "title": "本草來源向量與原名成分多輸出加成模型",
+  "twoVectorSpaces": {
+    "source": "340個本草來源條目的寒熱序位區間、味、歸經、8個固定功用詞軸及原文位置。缺字段為未知；有宣告值而無有效字段位置另標declared_unlinked。味與歸經逐值分literalLinkedValues與unlinkedOrNormalizedValues；部分原詞可定位不表示全部宣告／標準化值都已定位。咸／鹹等異字與編輯歸併不自動編造字面原位。條目含混合炮製性味時保留條件範圍。",
+    "learned": "396個原名文字元素在其他共方元素同時入模時對16個主治銀詞目標的ridge logistic條件係數。與來源向量語義不同，不合併為實測藥性。",
+    "mapping": "只有來源原名帶唯一catalogHerbId者能附到本草向量；未對映礦物、動物或古名仍完整保留為原名模型元素，不猜其現代基原。"
+  },
+  "inputs": "二值核心原名成分presence；方名、主治、書名、年代、銀標籤、原方量、研究份數、克數、炮製參數與工藝記錄不進入特徵。",
+  "targets": "沿用InferenceModel的indication-topic-silver-2026-10-04固定16詞字典與原文否定／目標句規則；未命中不等於臨床陰性。支持不足的目標係數為null，不以0補齊16維。",
+  "parameters": {
+    "ridge": 0.03,
+    "maxIterations": 1600,
+    "gradientTolerance": 1e-06,
+    "minTrainRecords": 30,
+    "minTrainGroups": 8,
+    "minElementPresentRecords": 3,
+    "minElementAbsentRecords": 3,
+    "minElementPresentGroups": 3,
+    "minElementAbsentGroups": 3,
+    "minTargetPositiveRecords": 5,
+    "minTargetNegativeRecords": 5,
+    "minTargetPositiveGroups": 3,
+    "minTargetNegativeGroups": 3,
+    "minQueryTextCoverage": 0.8,
+    "minQuerySupportedCoverage": 0.5,
+    "decisionThreshold": 0.5,
+    "familyFolds": 5
+  },
+  "optimization": {
+    "loss": "每個目標的組均衡平均logistic交叉熵，加0.03/2乘係數平方和；截距不懲罰。每個代理防洩漏組總權重1，組內每條記錄權重1/組條數。",
+    "baseline": "每折訓練组均衡命中量加1，除以訓練組數加2；不使用留出主治。",
+    "algorithm": "固定稀疏full-batch gradient descent，同時估計截距與全部材料束係數。step=1/[0.25×(1+組均衡平均活躍欄位數)+ridge]。最多1600步，最大絕對梯度不高於1e-6時早停。",
+    "diagnostics": "記錄迭代數、最大梯度、converged、trainingPenalizedLoss及baselineLogLoss；未達容差時標近似估計。無elapsed時間等不確定字段。",
+    "selectionPolicy": "字典、ridge、支持門檻和0.5分類閾值均預先固定；沒有按留出F1/Brier選參。提高迭代上限只為達到預定數值容差。"
+  },
+  "identifiability": {
+    "perfectCooccurrence": "在當次訓練集具有相同presence欄位的元素只學一個束係數。個別元素係數為null；查詢把此束拆開時停止推估，因模型未見單味分離情境。",
+    "rare": "少於三個出現或缺席獨立代理組的元素不入已支持模型欄位，且單味係數為null。每次查詢排組或每折留出均重算支持與完全同現。",
+    "remainingConfounding": "沒有完全同現不是因果可識別性證明。近共現、互補欄位、作者、來源、病證、原方量與工藝可能混雜；ridge給的是固定估計約定，不能當藥效強度或单味因果藥性。"
+  },
+  "forwardSimulation": {
+    "formula": "logOdds=該銀詞截距+查詢出現的已學元素／元素束係數之和；modelScore=sigmoid(logOdds)。沒有成分交互項，也沒有未學克數或工藝倍率。",
+    "queryExclusion": "真實來源方查詢排除整個既有代理防洩漏組，再重新學係數、詞彙支持、完全同現和基線；自選完整成分與來源方相同時亦排除相同成分組。源方只載入可對映本草子集時，以excludeFormulaId保留整個來源組排除。",
+    "unknown": "原名元素、目錄對映與訓練支持的涵蓋率各別報告。未對映本草目錄仍可能是已知文字元素；未訓練元素保留unknown/unsupported，不能當作無藥效。",
+    "meaning": "文獻銀詞模型分數與加成結構示例；非服用概率、個人藥效、實際曝露或真实煎服的藥性還原。"
+  },
+  "methodSources": [
+    {
+      "title": "scikit-learn Logistic regression: expit and regularized objective",
+      "url": "https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression"
+    },
+    {
+      "title": "scikit-learn Data leakage: fit only on training data",
+      "url": "https://scikit-learn.org/stable/common_pitfalls.html#data-leakage"
+    },
+    {
+      "title": "scikit-learn GroupKFold: non-overlapping groups",
+      "url": "https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GroupKFold.html"
+    },
+    {
+      "title": "scikit-learn Interpreting coefficients: correlated variables and causal limits",
+      "url": "https://scikit-learn.org/stable/auto_examples/inspection/plot_linear_model_coefficient_interpretation.html"
+    }
+  ],
+  "validation": {
+    "family": "沿用InferenceModel.prepare的同名、同成分、近成分及共享主治上下文防洩漏代理組。固定按組大小均衡分5折；每折從訓練來源重新建立支持、元素束、係數及詞頻基線。",
+    "sourceBook": "每書單獨留出，另從訓練排除任何與該書測試方同組的跨書材料；不使用書名作預測特徵。",
+    "oof": "每個來源方都有其fold及out-of-fold結果。來源標籤不合格或支持不足者保留記錄、理由與未知；不產生假真值或强制打分。",
+    "metrics": "組均衡Brier、micro/macro F1與每詞指標；只在相同可評估銀詞決策上和訓練頻率基線比較。另報方數與16詞決策涵蓋率。",
+    "remaining": "代理分組不是已校訂歷史方族；银詞不是盲法人工作業或臨床gold；低Brier不表示分類阈值有效，更不表示單味藥性已被還原。"
+  }
+}

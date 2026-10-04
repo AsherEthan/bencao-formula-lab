@@ -1,0 +1,46 @@
+{
+  "formulaCount": 284,
+  "perSourceSelected": {
+    "jc-6490b1a098ab": 84,
+    "jc-c0bbb390fb81": 100,
+    "jc-fc98e5e8b159": 100
+  },
+  "perSourceEligibleBeforeLimit": {
+    "jc-6490b1a098ab": 84,
+    "jc-c0bbb390fb81": 100,
+    "jc-fc98e5e8b159": 597
+  },
+  "perSourceQuota": 100,
+  "selectionPolicy": "deterministic chapter round-robin, preserving paragraph order within chapter; then source order in output",
+  "excludedCandidateCount": 296,
+  "excludedReasonCounts": {
+    "no_explicit_indication_link": 235,
+    "missing_or_nonliteral_ingredient_list": 107,
+    "ambiguous_printed_name_or_inline_size_preparation": 6,
+    "incomplete_ingredient_parse_or_declared_count_mismatch": 10,
+    "repeated_ingredient_name_ambiguous": 1
+  },
+  "sourceElementCount": 396,
+  "ingredientReferenceCount": 1850,
+  "catalogMappingCounts": {
+    "exact_text": 1212,
+    "ambiguous_text": 66,
+    "unresolved": 572
+  },
+  "catalogElementMappingCounts": {
+    "exact_text": 139,
+    "ambiguous_text": 3,
+    "unresolved": 254
+  },
+  "catalogMappingCoverage": 0.6551351351351351,
+  "literalElementCoverage": 1.0,
+  "validatedSourceSpanCount": 5120,
+  "leakageGroupCount": 237,
+  "independentIndicationRecordCount": 284,
+  "ingredientParsingCompleteCount": 284,
+  "uniqueElementSetCount": 262,
+  "uniqueSourceCompositionCount": 282,
+  "sameNameDifferentCompositionCount": 9,
+  "sameNameDifferentSourceAnnotationCount": 35,
+  "familyAssignmentScope": "union of lexical family proxy and exact element-set duplicates; genealogy not verified"
+}

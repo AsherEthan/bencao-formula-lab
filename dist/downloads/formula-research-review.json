@@ -1,0 +1,1583 @@
+{
+  "version": "formula-elements-review-3.0",
+  "reviewedAt": "2026-10-04",
+  "language": "zh-Hant",
+  "scope": "複方元素 presence 與可追溯古籍主治詞標記的研究模型；閱讀本地 framework、quant-model 與原文，另核四項 primary 文獻／官方規格。非臨床效力、藥性因果辨識或配伍安全驗證。",
+  "sourceVerificationPolicy": "以下來源已實際讀取題名及相關內容。HIGH 表示來源確實陳述該事實；applicationInference 另標為推論。PMC 網頁本次遇到 CAPTCHA，正文改由 Europe PMC 官方 fullTextXML HTTP 200 取得；不把搜尋摘要冒稱已讀正文。",
+  "sources": [
+    {
+      "id": "function-model-2017",
+      "title": "Prescription Function Prediction Using Topic Model and Multilabel Classifiers",
+      "authors": [
+        "Lidong Wang",
+        "Yin Zhang",
+        "Yun Zhang",
+        "Xiaodong Xu",
+        "Shihua Cao"
+      ],
+      "year": 2017,
+      "doi": "10.1155/2017/8279109",
+      "kind": "original computational study",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1155/2017/8279109",
+      "fullTextUrl": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5662811/fullTextXML",
+      "verification": {
+        "publisherPageReadable": true,
+        "fullTextHttpStatus": 200,
+        "fullTextBytes": 151488,
+        "titleMatched": true,
+        "verifiedAt": "2026-10-04",
+        "method": "Wiley article page plus Europe PMC original article XML; methods, setup and discussion read"
+      },
+      "confidence": "HIGH",
+      "summary": "以 3,055 方、972 味、20 個功效標籤比較 supervised LPH topic model 及多標籤分類器；使用 4-fold CV。另一路特徵含 herb TFIDF、劑量標準化與本草屬性。作者將結果定位在臨床試驗之前的候選探索。",
+      "limits": "標籤分類表現不等於臨床療效；文中該驗證未交代按抄本／方族分組，不能沿用其分數作本平台預期表現。",
+      "applicationInference": "本平台可借用組成到傳統標籤的任務定義，但須自訂可追溯標籤與 group split；presence-only 必須公開未納入劑量。"
+    },
+    {
+      "id": "network-herb-pairs-2021",
+      "title": "Network-based modeling of herb combinations in traditional Chinese medicine",
+      "authors": [
+        "Yinyin Wang",
+        "Hongbin Yang",
+        "Linxiao Chen",
+        "Mohieddin Jafari",
+        "Jing Tang"
+      ],
+      "year": 2021,
+      "doi": "10.1093/bib/bbab106",
+      "kind": "original network pharmacology study",
+      "url": "https://researchportal.helsinki.fi/fi/publications/network-based-modeling-of-herb-combinations-in-traditional-chines/",
+      "fullTextUrl": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8425426/fullTextXML",
+      "verification": {
+        "institutionPageReadable": true,
+        "fullTextHttpStatus": 200,
+        "fullTextBytes": 154001,
+        "titleMatched": true,
+        "verifiedAt": "2026-10-04",
+        "method": "Helsinki university bibliographic page plus Europe PMC original article XML; methods, validation and limitations read"
+      },
+      "confidence": "HIGH",
+      "summary": "以 TCMID 常見藥對和未出現隨機藥對作網絡比較，另用 268 組傳統文獻藥對驗證。作者明示實際成分濃度多未知、等權可能偏誤、頻率選常見對有局限、缺靶點資料需排除。",
+      "limits": "資料庫共現與網絡距離不直接測量協同效應。網絡無法涵蓋所有作用機制；需後續實驗。文獻藥對與隨機未出現對也不是臨床有效／無效標籤。",
+      "applicationInference": "presence-only 的元素共現不能命名為協同、藥效增強或安全；元素名稱、部位、炮製、劑量缺失可能形成混雜或不可觀測交互。"
+    },
+    {
+      "id": "leakage-2023",
+      "title": "Leakage and the reproducibility crisis in machine-learning-based science",
+      "authors": [
+        "Sayash Kapoor",
+        "Arvind Narayanan"
+      ],
+      "year": 2023,
+      "doi": "10.1016/j.patter.2023.100804",
+      "kind": "original methodological study",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10499856/fullTextXML",
+      "readablePreprintUrl": "https://arxiv.org/abs/2207.07048",
+      "preprintNote": "2022 preprint; counts and version may differ from 2023 published article. Published body used for this review.",
+      "verification": {
+        "fullTextHttpStatus": 200,
+        "fullTextBytes": 158543,
+        "titleMatched": true,
+        "preprintPageReadable": true,
+        "verifiedAt": "2026-10-04",
+        "method": "Europe PMC published article XML; leakage taxonomy L1 and L3 read; arXiv author preprint page verified"
+      },
+      "confidence": "HIGH",
+      "summary": "將預處理前訓測不分、樣本非獨立，以及測試分布偏離科學聲稱列為洩漏來源。對有依賴的樣本建議策略分組／block CV，並明示未知依賴結構難以全面處理。",
+      "limits": "不是 TCM 專項試驗，也未提供本平台可直接採用的方族閾值。",
+      "applicationInference": "同成分抄本、同方增減、共同來源／作者需依目標泛化聲稱分組；留出方族測新方族，留出來源書測新來源，兩種報告不能混為同一外推能力。"
+    },
+    {
+      "id": "inverse-lstsq-spec",
+      "title": "numpy.linalg.lstsq — NumPy v2.5 Manual",
+      "authors": [
+        "NumPy Developers"
+      ],
+      "year": 2026,
+      "kind": "official mathematical software specification",
+      "url": "https://numpy.org/doc/stable/reference/generated/numpy.linalg.lstsq.html",
+      "verification": {
+        "pageReadable": true,
+        "titleMatched": true,
+        "verifiedAt": "2026-10-04",
+        "method": "official documentation parameters, multiple minimizers, rank and singular values read"
+      },
+      "confidence": "HIGH",
+      "summary": "最小平方法可能有多個最小化解；函式以最小二範數選一解，並回傳矩陣 rank、singular values。",
+      "limits": "是線性逆問題規格；不能藉此假設古方功效是可加的線性系統，也不是 Naive Bayes 臨床有效性來源。",
+      "applicationInference": "若兩元素在所有方永遠同時出現，設計矩陣兩列特徵欄相同，beta_A+t、beta_B-t 可產生相同線性預測。平滑或正則化只選一組數值，不能創造元素獨立作用的識別。"
+    }
+  ],
+  "reviewedExistingAssets": [
+    {
+      "path": "research/methodology/frameworks.json",
+      "finding": "已有身份／炮製／原文 span、unknown mask、來源與方族分組、獨立標籤與一致性檢查的區分；應保留。內文目前四方的限制敘述需隨實際資料版本更新，不能以字串宣稱已完成驗證。"
+    },
+    {
+      "path": "dist/quant-model.js",
+      "finding": "既有八軸是本草字詞索引；熱性為 ordinal 研究編碼。等權／研究比例不代表古方重量或曝露；同集合去重不等於歷史方族已校勘。四項 comparison reference 與 validation status 需以實際執行的審核為準。"
+    },
+    {
+      "path": "dist/inference-model.js",
+      "finding": "已唯讀執行1.2原名文字元素模型的family及sourceBook留出；銀詞概率評估不是臨床。原名身份與catalog映射歧義已分開，完全同現欄合併為證據bundle，仍不能獨立識別元素因果。"
+    }
+  ],
+  "claimBoundaries": {
+    "canSupport": [
+      {
+        "claim": "顯示成分身份、原文主治片段、詞典命中及其來源；可追溯且不需要模型學會臨床效力。",
+        "evidence": "local source spans and frozen extraction contract"
+      },
+      {
+        "claim": "在完整原名文字元素解析的限定資料內，描述元素與凍結主治詞標記的條件關聯、2x2支持數及平滑分數；catalog藥物身份連接另列coverage。",
+        "evidence": "function-model-2017; inference for current presence-only model"
+      },
+      {
+        "claim": "真正跑過按方族／近似組成圖分組的 held-out folds 後，衡量對同一銀標籤規則之泛化，相對 training-frequency baseline 報 coverage。",
+        "evidence": "leakage-2023; inference for current split"
+      },
+      {
+        "claim": "同組成相似方可作原文近似案例檢索，公開核心解析與標籤涵蓋率。",
+        "evidence": "source-grounded retrieval; not efficacy evidence"
+      }
+    ],
+    "cannotSupport": [
+      "把古籍傳統主治／功效詞標記稱為患者臨床疗效、有效率、治病證據或安全性。",
+      "由複方統計唯一反推單味固有藥性、劑量反應、因果作用或去除某味會產生的效果。",
+      "把共現、LLR、Naive Bayes、網絡接近度稱為配伍協同、相反、相畏或毒性解除。",
+      "把未命中詞典當成該功效不存在；它只表示在選定片段沒有該規則詞標記。",
+      "將 presence 或等權元素指數稱為原方比例、炮製後成分含量、患者暴露量或可用劑量。",
+      "將 1,362 目錄條目、14 份正文副本或本次解析方數稱為讀遍全部醫籍／模型已全文學習。",
+      "只有實作分組欄位或設定 held_out 就宣稱完成外部、臨床或新方族驗證。"
+    ]
+  },
+  "designReview": {
+    "agreementWithModelReview": "最終1.2模型採核心原名文字元素presence與可核加工註記，catalog藥物ID連接僅另報coverage；方名／方義／來源不作特徵。主治clauses由source-linked片段產銀標籤，未解析／unscoped段不訓練；支持數／abstention公開且不稱協同或因果。",
+    "requiredGuards": [
+      "所有詞典同義詞先凍結並版本化；不可看驗證集錯誤後加入同義詞再用同一折宣稱提升。若修改詞典，建立新版本並重新估計。",
+      "每個標籤須保存命中的 indication span；除去方名、成分清單、方解中單味藥功效後才產生銀標籤。原文否定、反事實、禁忌上下文不應作正例。",
+      "去重和分組必須在 split 前完成，訓練 fold 的頻率、平滑、閾值或後續校準不能讀 test labels。",
+      "方族自動欄位要標為 heuristic split group，不冒稱經史校勘譜系；使用連通組時公開 Jaccard 閾值、core size 限制、family seeds、超大連通組及 fold assignment。",
+      "同成分不同劑量／炮製不一定是同一歷史方；可為防洩漏共享 fold，同時保留不同文獻記錄與定義。",
+      "同／近似集合與方族的分組覆蓋範圍、來源／作者混雜及 excluded records 都應計數；單一來源書取得的高分不能聲稱跨醫家泛化。",
+      "Naive Bayes 的條件獨立假設會重複計入相關元素證據；展示 co-occurrence／always-together flags，不把後驗分數解釋為 clinical confidence。",
+      "已核共同主治context的明示分支須union到同split group，包含小方族（2→3元素）及替換一味，不能只靠高Jaccard門檻。"
+    ],
+    "reverseInference": "名稱宜為「元素—主治詞標記關聯」。先報 support、正例／未標記對照、同時出現的元素組，以及來源內／跨來源穩定性；不命名固有藥性估計。若日後擬合線性逆模型，額外報設計矩陣 rank、condition／singular values 與 regularization sensitivity。",
+    "validationMetrics": "micro／macro F1、Brier 可衡量 frozen silver labels；Brier 應註明詞標記概率而非治療有效概率。每 label／fold positives、unmarked、support threshold、abstained／evaluable coverage、frequency baseline 和實際 run hash 必須保存。未標記對照不是臨床陰性。"
+  },
+  "fieldRecommendations": [
+    {
+      "group": "source identity",
+      "fields": [
+        "recordId",
+        "sourceBookId",
+        "editionLabel",
+        "sourceUrl",
+        "snapshotSha256",
+        "sourceSpan",
+        "offsetUnit",
+        "parserVersion",
+        "reviewStatus"
+      ],
+      "reason": "區分書目／版本／轉錄與截取，所有 spans 以凍結原文校驗。"
+    },
+    {
+      "group": "ingredient identity",
+      "fields": [
+        "ingredientRaw",
+        "herbId",
+        "mappingStatus",
+        "mappingEvidence",
+        "historicalName",
+        "partRaw",
+        "processingRaw",
+        "coreOrAuxiliary",
+        "variantNote",
+        "ambiguityReason"
+      ],
+      "reason": "exact 或明確 reviewed alias 才映射；近似現代同名不等於歷史同物。方劑原文一味可不對應現有本草 ID。unknown 保留 null，不自動猜。"
+    },
+    {
+      "group": "quantity and preparation",
+      "fields": [
+        "quantityRaw",
+        "quantityValue",
+        "unitRaw",
+        "equalPartsGroup",
+        "quantityScope",
+        "unitSystemSource",
+        "ratioBasis",
+        "quantityKnown",
+        "preparationRaw",
+        "administrationRaw"
+      ],
+      "reason": "保留兩／升／枚／各等分與傳承版本。重量、容積、計數不直接相加。未校勘年代制式與材質密度不轉成現代 g；unknown 不用 0，也不默認等分。模型 presence-only 時不納入這些量。"
+    },
+    {
+      "group": "indication labels",
+      "fields": [
+        "indicationRaw",
+        "indicationSpans",
+        "silverLabelId",
+        "matchedTerm",
+        "matchedSpan",
+        "dictionaryVersion",
+        "negationFlag",
+        "labelStatus",
+        "independentReviewerStatus"
+      ],
+      "reason": "標記層與正文、成分分離；無命中狀態 unmarked；詞典標記與人工獨立 gold 不共用名稱。"
+    },
+    {
+      "group": "dependence and evaluation",
+      "fields": [
+        "compositionSignature",
+        "duplicateGroupId",
+        "familyId",
+        "familyMethod",
+        "splitGroupId",
+        "sourceAuthor",
+        "sourceEra",
+        "foldId",
+        "mappingCoverage",
+        "exclusionReason",
+        "trainingSnapshotHash",
+        "validationRunHash"
+      ],
+      "reason": "同／近似成分、同抄本共 fold；自動分組非歷史定論。來源字段只作 confounding 分析，不作功效模型輸入。"
+    }
+  ],
+  "localTextChecks": [
+    {
+      "bookId": "jc-6490b1a098ab",
+      "title": "傷寒論（宋本）",
+      "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html",
+      "sourceFile": "research/corpus/jc-6490b1a098ab.txt",
+      "sha256": "4ce0d82e222fe0bfeb37a3d7942886bfdfa2a266979691d028ad095239a1d9f4",
+      "offset": 11515,
+      "endOffset": 11562,
+      "offsetUnit": "Unicode codepoint",
+      "quote": "桂枝（三兩，去皮）芍藥（三兩）甘草（二兩，炙）生薑（三兩，切）大棗（十二枚，擘）右五味，㕮咀三",
+      "finding": "量含三兩、二兩與十二枚；去皮、炙、切、擘為原文炮製。presence 或等權不能冒稱原方劑量。",
+      "confidence": "HIGH",
+      "evidenceType": "historical text; not clinical validation"
+    },
+    {
+      "bookId": "jc-c0bbb390fb81",
+      "title": "金匱要略方論",
+      "url": "https://jicheng.tw/tcm/book/%E9%87%91%E5%8C%B1%E8%A6%81%E7%95%A5%E6%96%B9%E8%AB%96/index.html",
+      "sourceFile": "research/corpus/jc-c0bbb390fb81.txt",
+      "sha256": "7b4c1d649f6706e667a76aaeba71dc1f08688555c19c1b8611593219c54abfbd",
+      "offset": 16716,
+      "endOffset": 16794,
+      "offsetUnit": "Unicode codepoint",
+      "quote": "酸棗仁湯方：酸棗仁（二升）甘草（一兩）知母（二兩）茯苓（二兩）芎藭（二兩）（深師有生薑二兩）右五味，以水八升，煮酸棗仁，得六升，內諸藥，煮取三升，分溫三服。",
+      "finding": "正文五味之外另有「深師有生薑二兩」版本註；不能把附註生薑默認加進本版本核心組成。",
+      "confidence": "HIGH",
+      "evidenceType": "historical text; not clinical validation"
+    },
+    {
+      "bookId": "jc-fc98e5e8b159",
+      "title": "太平惠民和劑局方",
+      "url": "https://jicheng.tw/tcm/book/%E5%A4%AA%E5%B9%B3%E6%83%A0%E6%B0%91%E5%92%8C%E5%8A%91%E5%B1%80%E6%96%B9/index.html",
+      "sourceFile": "research/corpus/jc-fc98e5e8b159.txt",
+      "sha256": "c20c29d64abbdfc75ea302a66327e3d51253fb8b118e91c8f1474b04f9a3925e",
+      "offset": 59083,
+      "endOffset": 59250,
+      "offsetUnit": "Unicode codepoint",
+      "quote": "四君子湯\n\n治榮衛氣虛，臟腑怯弱，心腹脹滿，全不思食，腸鳴泄瀉，嘔噦吐逆，大宜服之。\n\n人參（去蘆）　甘草（炙）　茯苓（去皮）　白朮（各等分）\n\n上為細末。每服二錢，水一盞，煎至七分，通口服，不拘時，入鹽少許，白湯點亦得。常服溫和脾胃，進益飲食，闢寒邪瘴霧氣。\n\n鹽煎散\n\n治證與前鹽煎散同。\n\n良薑（炒）　蒼朮（去皮，各十二兩）　縮",
+      "finding": "核心四味各等分，但每服二錢與製劑步驟不同；研究等權僅在明示等分範圍內有文本根據。",
+      "confidence": "HIGH",
+      "evidenceType": "historical text; not clinical validation"
+    },
+    {
+      "bookId": "jc-fc98e5e8b159",
+      "title": "太平惠民和劑局方",
+      "url": "https://jicheng.tw/tcm/book/%E5%A4%AA%E5%B9%B3%E6%83%A0%E6%B0%91%E5%92%8C%E5%8A%91%E5%B1%80%E6%96%B9/index.html",
+      "sourceFile": "research/corpus/jc-fc98e5e8b159.txt",
+      "sha256": "c20c29d64abbdfc75ea302a66327e3d51253fb8b118e91c8f1474b04f9a3925e",
+      "offset": 64926,
+      "endOffset": 65134,
+      "offsetUnit": "Unicode codepoint",
+      "quote": "二陳湯\n\n治痰飲為患，或嘔吐噁心，或頭眩心悸，或中脘不快，或發為寒熱，或因食生冷，脾胃不和。\n\n半夏（湯洗七次）　橘紅（各五兩）　白茯苓（三兩）　甘草（炙，一兩半）\n\n上為㕮咀。每服四錢，用水一錢，生薑七片，烏梅一個，同煎六分，去滓，熱服，不拘時候。\n\n溫肺湯\n\n治肺虛，久咳寒飲，發則喘咳，不能坐臥，嘔吐痰沫，不思飲食。\n\n白芍藥（六兩）　五味子（去梗，炒）　乾薑（炮）　肉桂（去粗皮）　半夏（煮熟，焙）　陳皮（去",
+      "finding": "四味量不等，生薑、烏梅出現在同煎服法；核心與煎服輔料必須分欄，否則反推元素身份不一致。",
+      "confidence": "HIGH",
+      "evidenceType": "historical text; not clinical validation"
+    }
+  ],
+  "datasetAudit": {
+    "status": "completed_for_frozen_source_and_model_versions",
+    "datasetPath": "research/formulas-v3/formulas.json",
+    "datasetSHA256": "ab0aed8f0a1f0dd64577b683d85c62934879add09cad904c31519c12916cbb37",
+    "datasetVersion": "formula-corpus-v3",
+    "recordCount": 284,
+    "sourceCount": 3,
+    "literalElementCount": 396,
+    "ingredientReferenceCount": 1850,
+    "automatedChecks": {
+      "spanCount": 5120,
+      "spanMismatchCount": 0,
+      "spanErrors": [],
+      "snapshotSHA256Matches": {
+        "jc-6490b1a098ab": true,
+        "jc-c0bbb390fb81": true,
+        "jc-fc98e5e8b159": true
+      },
+      "uniqueRecordIds": true,
+      "exactMappingNameMismatchCount": 0,
+      "mappingErrors": [],
+      "sourceURLAnchorMismatchCount": 0,
+      "anchorErrors": [],
+      "allCoreCatalogExactMappedRecordCount": 50,
+      "mappingCounts": {
+        "exact_text": 1212,
+        "ambiguous_text": 66,
+        "unresolved": 572
+      },
+      "nestedFormulaRecordCount": 0,
+      "sameElementSetDifferentFamilyCount": 0
+    },
+    "sampleReviewMethod": "第二 agent 逐例閱讀已下載 sourcePlainText／recordSpan／主治及成分 spans，並在可疑來源缺字處對回 raw HTML；這是獨立 agent 抽查，不是人類中醫專家校勘，不產生 gold labels。",
+    "sampleReviews": [
+      {
+        "formulaId": "formula-v3-a6d216e40f09ef41",
+        "name": "桂枝湯",
+        "sourceId": "jc-6490b1a098ab",
+        "sourceURL": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#12",
+        "indicationSpans": [
+          {
+            "field": "indication",
+            "text": "太陽中風，陽浮而陰弱，陽浮者，熱自發，陰弱者，汗自出。嗇嗇惡寒，淅淅惡風，翕翕發熱，鼻鳴乾嘔者，桂枝湯主之。",
+            "start": 11278,
+            "end": 11332,
+            "basis": "sourcePlainText",
+            "offsetUnit": "unicode_code_point",
+            "file": "snapshots/jc-6490b1a098ab.txt"
+          }
+        ],
+        "ingredientSpan": {
+          "field": "ingredientList",
+          "text": "桂枝（三兩，去皮） 芍藥（三兩） 甘草（二兩，炙） 生薑（三兩，切） 大棗（十二枚，擘）",
+          "start": 11338,
+          "end": 11382,
+          "basis": "sourcePlainText",
+          "offsetUnit": "unicode_code_point",
+          "file": "snapshots/jc-6490b1a098ab.txt"
+        },
+        "reviewKind": "independent_agent_read_not_human_gold",
+        "finding": "第二輪閱讀核對；本方主治clause與緊接方標題的核心成分可回查。不是臨床真值或專家gold。"
+      },
+      {
+        "formulaId": "formula-v3-3490dc6704cce0bd",
+        "name": "桂枝加葛根湯",
+        "sourceId": "jc-6490b1a098ab",
+        "sourceURL": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#14",
+        "indicationSpans": [
+          {
+            "field": "indication",
+            "text": "太陽病，項背強𠘧𠘧，反汗出惡風者，桂枝加葛根湯主之。",
+            "start": 11600,
+            "end": 11626,
+            "basis": "sourcePlainText",
+            "offsetUnit": "unicode_code_point",
+            "file": "snapshots/jc-6490b1a098ab.txt"
+          }
+        ],
+        "ingredientSpan": {
+          "field": "ingredientList",
+          "text": "葛根（四兩） 桂枝（二兩，去皮） 芍藥（二兩） 生薑（三兩，切） 甘草（二兩，炙） 大棗（十二枚，擘） 麻黃（三兩，去節）",
+          "start": 11635,
+          "end": 11696,
+          "basis": "sourcePlainText",
+          "offsetUnit": "unicode_code_point",
+          "file": "snapshots/jc-6490b1a098ab.txt"
+        },
+        "reviewKind": "independent_agent_read_not_human_gold",
+        "finding": "第二輪閱讀核對；本方主治clause與緊接方標題的核心成分可回查。不是臨床真值或專家gold。"
+      },
+      {
+        "formulaId": "formula-v3-301cdb3cf4f48683",
+        "name": "桂枝去芍藥加附子湯",
+        "sourceId": "jc-6490b1a098ab",
+        "sourceURL": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#22",
+        "indicationSpans": [
+          {
+            "field": "indication",
+            "text": "若微寒者，桂枝去芍藥加附子湯主之。",
+            "start": 12226,
+            "end": 12243,
+            "basis": "sourcePlainText",
+            "offsetUnit": "unicode_code_point",
+            "file": "snapshots/jc-6490b1a098ab.txt"
+          }
+        ],
+        "ingredientSpan": {
+          "field": "ingredientList",
+          "text": "桂枝（三兩，去皮） 甘草（二兩，炙） 生薑（三兩，切） 大棗（十二枚，擘） 附子（一枚，炮，去皮，破八片）",
+          "start": 12255,
+          "end": 12308,
+          "basis": "sourcePlainText",
+          "offsetUnit": "unicode_code_point",
+          "file": "snapshots/jc-6490b1a098ab.txt"
+        },
+        "reviewKind": "independent_agent_read_not_human_gold",
+        "finding": "第二輪閱讀核對；本方主治clause與緊接方標題的核心成分可回查。不是臨床真值或專家gold。"
+      },
+      {
+        "formulaId": "formula-v3-7612aa25ce5d58a4",
+        "name": "葛根湯",
+        "sourceId": "jc-6490b1a098ab",
+        "sourceURL": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#31",
+        "indicationSpans": [
+          {
+            "field": "indication",
+            "text": "太陽病，項背強𠘧𠘧，無汗惡風，葛根湯主之。",
+            "start": 13883,
+            "end": 13904,
+            "basis": "sourcePlainText",
+            "offsetUnit": "unicode_code_point",
+            "file": "snapshots/jc-6490b1a098ab.txt"
+          }
+        ],
+        "ingredientSpan": {
+          "field": "ingredientList",
+          "text": "葛根（四兩） 麻黃（三兩，去節） 桂枝（二兩，去皮） 生薑（三兩，切） 甘草（二兩，炙） 芍藥（二兩） 大棗（十二枚，擘）",
+          "start": 13910,
+          "end": 13971,
+          "basis": "sourcePlainText",
+          "offsetUnit": "unicode_code_point",
+          "file": "snapshots/jc-6490b1a098ab.txt"
+        },
+        "reviewKind": "independent_agent_read_not_human_gold",
+        "finding": "第二輪閱讀核對；本方主治clause與緊接方標題的核心成分可回查。不是臨床真值或專家gold。"
+      },
+      {
+        "formulaId": "formula-v3-4fc5ffae58cea92c",
+        "name": "大青龍湯",
+        "sourceId": "jc-6490b1a098ab",
+        "sourceURL": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#38",
+        "indicationSpans": [
+          {
+            "field": "indication",
+            "text": "太陽中風，脈浮緊，發熱惡寒，身疼痛，不汗出而煩躁者，大青龍湯主之。",
+            "start": 14545,
+            "end": 14578,
+            "basis": "sourcePlainText",
+            "offsetUnit": "unicode_code_point",
+            "file": "snapshots/jc-6490b1a098ab.txt"
+          }
+        ],
+        "ingredientSpan": {
+          "field": "ingredientList",
+          "text": "麻黃（六兩，去節） 桂枝（二兩，去皮） 甘草（二兩，炙） 杏仁（四十枚，去皮尖） 生薑（三兩，切） 大棗（十枚，擘） 石膏（如雞子大，碎）",
+          "start": 14617,
+          "end": 14686,
+          "basis": "sourcePlainText",
+          "offsetUnit": "unicode_code_point",
+          "file": "snapshots/jc-6490b1a098ab.txt"
+        },
+        "reviewKind": "independent_agent_read_not_human_gold",
+        "finding": "第二輪閱讀核對；本方主治clause與緊接方標題的核心成分可回查。不是臨床真值或專家gold。"
+      },
+      {
+        "formulaId": "formula-v3-7eb13e9e2297e9d8",
+        "name": "茯苓甘草湯",
+        "sourceId": "jc-6490b1a098ab",
+        "sourceURL": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#73",
+        "indicationSpans": [
+          {
+            "field": "indication",
+            "text": "不渴者，茯苓甘草湯主之。",
+            "start": 17327,
+            "end": 17339,
+            "basis": "sourcePlainText",
+            "offsetUnit": "unicode_code_point",
+            "file": "snapshots/jc-6490b1a098ab.txt"
+          }
+        ],
+        "ingredientSpan": {
+          "field": "ingredientList",
+          "text": "茯苓（二兩） 桂枝（二兩，去皮） 甘草（一兩，炙） 生薑（三兩，切）",
+          "start": 17347,
+          "end": 17381,
+          "basis": "sourcePlainText",
+          "offsetUnit": "unicode_code_point",
+          "file": "snapshots/jc-6490b1a098ab.txt"
+        },
+        "reviewKind": "independent_agent_read_not_human_gold",
+        "finding": "第二輪閱讀核對；本方主治clause與緊接方標題的核心成分可回查。不是臨床真值或專家gold。"
+      },
+      {
+        "formulaId": "formula-v3-2c2721c7c01400a9",
+        "name": "梔子豉湯",
+        "sourceId": "jc-6490b1a098ab",
+        "sourceURL": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#76",
+        "indicationSpans": [
+          {
+            "field": "indication",
+            "text": "發汗吐下後，虛煩不得眠，若劇者，必反復顛倒，心中懊憹，梔子豉湯主之。",
+            "start": 17541,
+            "end": 17575,
+            "basis": "sourcePlainText",
+            "offsetUnit": "unicode_code_point",
+            "file": "snapshots/jc-6490b1a098ab.txt"
+          }
+        ],
+        "ingredientSpan": {
+          "field": "ingredientList",
+          "text": "梔子（十四個，擘） 香豉（四合，綿裹）",
+          "start": 17609,
+          "end": 17628,
+          "basis": "sourcePlainText",
+          "offsetUnit": "unicode_code_point",
+          "file": "snapshots/jc-6490b1a098ab.txt"
+        },
+        "reviewKind": "independent_agent_read_not_human_gold",
+        "finding": "第二輪閱讀核對；本方主治clause與緊接方標題的核心成分可回查。不是臨床真值或專家gold。"
+      },
+      {
+        "formulaId": "formula-v3-13703a1ac3cfdea5",
+        "name": "梔子甘草豉湯",
+        "sourceId": "jc-6490b1a098ab",
+        "sourceURL": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#76",
+        "indicationSpans": [
+          {
+            "field": "indication",
+            "text": "若少氣者，梔子甘草豉湯主之；",
+            "start": 17575,
+            "end": 17589,
+            "basis": "sourcePlainText",
+            "offsetUnit": "unicode_code_point",
+            "file": "snapshots/jc-6490b1a098ab.txt"
+          }
+        ],
+        "ingredientSpan": {
+          "field": "ingredientList",
+          "text": "梔子（十四個，擘） 甘草（二兩，炙） 香豉（四合，綿裹）",
+          "start": 17686,
+          "end": 17714,
+          "basis": "sourcePlainText",
+          "offsetUnit": "unicode_code_point",
+          "file": "snapshots/jc-6490b1a098ab.txt"
+        },
+        "reviewKind": "independent_agent_read_not_human_gold",
+        "finding": "第二輪閱讀核對；本方主治clause與緊接方標題的核心成分可回查。不是臨床真值或專家gold。"
+      },
+      {
+        "formulaId": "formula-v3-6d7efd71f6f432bf",
+        "name": "梔子生薑豉湯",
+        "sourceId": "jc-6490b1a098ab",
+        "sourceURL": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#76",
+        "indicationSpans": [
+          {
+            "field": "indication",
+            "text": "若嘔者，梔子生薑豉湯主之。",
+            "start": 17589,
+            "end": 17602,
+            "basis": "sourcePlainText",
+            "offsetUnit": "unicode_code_point",
+            "file": "snapshots/jc-6490b1a098ab.txt"
+          }
+        ],
+        "ingredientSpan": {
+          "field": "ingredientList",
+          "text": "梔子（十四個，擘） 生薑（五兩，切） 香豉（四合，綿裹）",
+          "start": 17774,
+          "end": 17802,
+          "basis": "sourcePlainText",
+          "offsetUnit": "unicode_code_point",
+          "file": "snapshots/jc-6490b1a098ab.txt"
+        },
+        "reviewKind": "independent_agent_read_not_human_gold",
+        "finding": "第二輪閱讀核對；本方主治clause與緊接方標題的核心成分可回查。不是臨床真值或專家gold。"
+      },
+      {
+        "formulaId": "formula-v3-a4bc7deaa7f7ea49",
+        "name": "甘草瀉心湯",
+        "sourceId": "jc-6490b1a098ab",
+        "sourceURL": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#158",
+        "indicationSpans": [
+          {
+            "field": "indication",
+            "text": "傷寒中風，醫反下之，其人下利，日數十行，穀不化，腹中雷鳴，心下痞鞕而滿，乾嘔，心煩不得安。醫見心下痞，謂病不盡，復下之，其痞益甚，此非結熱，但以胃中虛，客氣上逆，故使鞕也，甘草瀉心湯主之。",
+            "start": 24869,
+            "end": 24963,
+            "basis": "sourcePlainText",
+            "offsetUnit": "unicode_code_point",
+            "file": "snapshots/jc-6490b1a098ab.txt"
+          }
+        ],
+        "ingredientSpan": {
+          "field": "ingredientList",
+          "text": "甘草（四兩，炙） 黃芩（三兩） 半夏（半升，洗） 大棗（十二枚，擘） 黃連（一兩） 乾薑（三兩）",
+          "start": 24971,
+          "end": 25019,
+          "basis": "sourcePlainText",
+          "offsetUnit": "unicode_code_point",
+          "file": "snapshots/jc-6490b1a098ab.txt"
+        },
+        "reviewKind": "independent_agent_read_not_human_gold",
+        "finding": "第二輪閱讀核對；本方主治clause與緊接方標題的核心成分可回查。不是臨床真值或專家gold。"
+      },
+      {
+        "formulaId": "formula-v3-c09aafa412f9e459",
+        "name": "去桂加白朮湯",
+        "sourceId": "jc-6490b1a098ab",
+        "sourceURL": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#174",
+        "indicationSpans": [
+          {
+            "field": "indication",
+            "text": "若其人大便鞕，小便自利者，去桂加白朮湯主之。",
+            "start": 26335,
+            "end": 26357,
+            "basis": "sourcePlainText",
+            "offsetUnit": "unicode_code_point",
+            "file": "snapshots/jc-6490b1a098ab.txt"
+          }
+        ],
+        "ingredientSpan": {
+          "field": "ingredientList",
+          "text": "附子（三枚，炮，去皮，破） 白朮（四兩） 生薑（三兩，切） 甘草（二兩，炙） 大棗（十二枚，擘）",
+          "start": 26448,
+          "end": 26496,
+          "basis": "sourcePlainText",
+          "offsetUnit": "unicode_code_point",
+          "file": "snapshots/jc-6490b1a098ab.txt"
+        },
+        "reviewKind": "independent_agent_read_not_human_gold",
+        "finding": "第二輪閱讀核對；本方主治clause與緊接方標題的核心成分可回查。不是臨床真值或專家gold。"
+      },
+      {
+        "formulaId": "formula-v3-30ae8aa9beafd45a",
+        "name": "桂枝加芍藥湯",
+        "sourceId": "jc-6490b1a098ab",
+        "sourceURL": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#279",
+        "indicationSpans": [
+          {
+            "field": "indication",
+            "text": "本太陽病，醫反下之，因爾腹滿時痛者，屬太陰也，桂枝加芍藥湯主之；",
+            "start": 32313,
+            "end": 32345,
+            "basis": "sourcePlainText",
+            "offsetUnit": "unicode_code_point",
+            "file": "snapshots/jc-6490b1a098ab.txt"
+          }
+        ],
+        "ingredientSpan": {
+          "field": "ingredientList",
+          "text": "桂枝（三兩，去皮） 芍藥（六兩） 甘草（二兩，炙） 大棗（十二枚，擘） 生薑（三兩，切）",
+          "start": 32368,
+          "end": 32412,
+          "basis": "sourcePlainText",
+          "offsetUnit": "unicode_code_point",
+          "file": "snapshots/jc-6490b1a098ab.txt"
+        },
+        "reviewKind": "independent_agent_read_not_human_gold",
+        "finding": "第二輪閱讀核對；本方主治clause與緊接方標題的核心成分可回查。不是臨床真值或專家gold。"
+      },
+      {
+        "formulaId": "formula-v3-eddbf5ecaf23f6b2",
+        "name": "桂枝加大黃湯",
+        "sourceId": "jc-6490b1a098ab",
+        "sourceURL": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#279",
+        "indicationSpans": [
+          {
+            "field": "indication",
+            "text": "大實痛者，桂枝加大黃湯主之。",
+            "start": 32345,
+            "end": 32359,
+            "basis": "sourcePlainText",
+            "offsetUnit": "unicode_code_point",
+            "file": "snapshots/jc-6490b1a098ab.txt"
+          }
+        ],
+        "ingredientSpan": {
+          "field": "ingredientList",
+          "text": "桂枝（三兩，去皮） 大黃（二兩） 芍藥（六兩） 生薑（三兩，切） 甘草（二兩，炙） 大棗（十二枚，擘）",
+          "start": 32456,
+          "end": 32507,
+          "basis": "sourcePlainText",
+          "offsetUnit": "unicode_code_point",
+          "file": "snapshots/jc-6490b1a098ab.txt"
+        },
+        "reviewKind": "independent_agent_read_not_human_gold",
+        "finding": "第二輪閱讀核對；本方主治clause與緊接方標題的核心成分可回查。不是臨床真值或專家gold。"
+      },
+      {
+        "formulaId": "formula-v3-859a1f866abae337",
+        "name": "理中丸",
+        "sourceId": "jc-6490b1a098ab",
+        "sourceURL": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#386",
+        "indicationSpans": [
+          {
+            "field": "indication",
+            "text": "寒多不用水者，理中丸主之。",
+            "start": 38368,
+            "end": 38381,
+            "basis": "sourcePlainText",
+            "offsetUnit": "unicode_code_point",
+            "file": "snapshots/jc-6490b1a098ab.txt"
+          }
+        ],
+        "ingredientSpan": {
+          "field": "ingredientList",
+          "text": "人參 乾薑 甘草（炙） 白朮（各三兩）",
+          "start": 38387,
+          "end": 38406,
+          "basis": "sourcePlainText",
+          "offsetUnit": "unicode_code_point",
+          "file": "snapshots/jc-6490b1a098ab.txt"
+        },
+        "reviewKind": "independent_agent_read_not_human_gold",
+        "finding": "第二輪閱讀核對；本方主治clause與緊接方標題的核心成分可回查。不是臨床真值或專家gold。"
+      },
+      {
+        "formulaId": "formula-v3-14ab974668e03d09",
+        "name": "葛根湯",
+        "sourceId": "jc-c0bbb390fb81",
+        "sourceURL": "https://jicheng.tw/tcm/book/%E9%87%91%E5%8C%B1%E8%A6%81%E7%95%A5%E6%96%B9%E8%AB%96/index.html#2.12",
+        "indicationSpans": [
+          {
+            "field": "indication",
+            "text": "太陽病，無汗而小便反少，氣上衝胸，口噤不得語，欲作剛痙，葛根湯主之。",
+            "start": 3178,
+            "end": 3212,
+            "basis": "sourcePlainText",
+            "offsetUnit": "unicode_code_point",
+            "file": "snapshots/jc-c0bbb390fb81.txt"
+          }
+        ],
+        "ingredientSpan": {
+          "field": "ingredientList",
+          "text": "葛根（四兩） 麻黃（三兩，去節） 桂枝（二兩，去皮） 芍藥（二兩） 甘草（二兩，炙） 生薑（三兩，切） 大棗（十二枚，擘）",
+          "start": 3219,
+          "end": 3280,
+          "basis": "sourcePlainText",
+          "offsetUnit": "unicode_code_point",
+          "file": "snapshots/jc-c0bbb390fb81.txt"
+        },
+        "reviewKind": "independent_agent_read_not_human_gold",
+        "finding": "第二輪閱讀核對；本方主治clause與緊接方標題的核心成分可回查。不是臨床真值或專家gold。"
+      },
+      {
+        "formulaId": "formula-v3-92fd5e8bb283dfb3",
+        "name": "甘草瀉心湯",
+        "sourceId": "jc-c0bbb390fb81",
+        "sourceURL": "https://jicheng.tw/tcm/book/%E9%87%91%E5%8C%B1%E8%A6%81%E7%95%A5%E6%96%B9%E8%AB%96/index.html#3.10",
+        "indicationSpans": [
+          {
+            "field": "indication",
+            "text": "狐𧌒之為病，狀如傷寒，默默欲眠，目不得閉，臥起不安，蝕於喉為𧌒，蝕於陰為狐，不欲飲食，惡聞食臭，其面目乍赤、乍黑、乍白。蝕於上部則聲喝（一作嗄），甘草瀉心湯主之。",
+            "start": 6115,
+            "end": 6196,
+            "basis": "sourcePlainText",
+            "offsetUnit": "unicode_code_point",
+            "file": "snapshots/jc-c0bbb390fb81.txt"
+          }
+        ],
+        "ingredientSpan": {
+          "field": "ingredientList",
+          "text": "甘草（四兩） 黃芩（三兩） 人參（三兩） 乾薑（三兩） 黃連（一兩） 大棗（十二枚） 半夏（半升）",
+          "start": 6205,
+          "end": 6254,
+          "basis": "sourcePlainText",
+          "offsetUnit": "unicode_code_point",
+          "file": "snapshots/jc-c0bbb390fb81.txt"
+        },
+        "reviewKind": "independent_agent_read_not_human_gold",
+        "finding": "第二輪閱讀核對；本方主治clause與緊接方標題的核心成分可回查。不是臨床真值或專家gold。"
+      },
+      {
+        "formulaId": "formula-v3-b9e4aaac189b253a",
+        "name": "枳實薤白桂枝湯",
+        "sourceId": "jc-c0bbb390fb81",
+        "sourceURL": "https://jicheng.tw/tcm/book/%E9%87%91%E5%8C%B1%E8%A6%81%E7%95%A5%E6%96%B9%E8%AB%96/index.html#9.5",
+        "indicationSpans": [
+          {
+            "field": "indication",
+            "text": "胸痹心中痞，留氣結在胸，胸滿，脅下逆搶心，枳實薤白桂枝湯主之；",
+            "start": 14432,
+            "end": 14463,
+            "basis": "sourcePlainText",
+            "offsetUnit": "unicode_code_point",
+            "file": "snapshots/jc-c0bbb390fb81.txt"
+          }
+        ],
+        "ingredientSpan": {
+          "field": "ingredientList",
+          "text": "枳實（四枚） 厚朴（四兩） 薤白（半斤） 桂枝（一兩） 栝蔞（一枚，搗）",
+          "start": 14481,
+          "end": 14517,
+          "basis": "sourcePlainText",
+          "offsetUnit": "unicode_code_point",
+          "file": "snapshots/jc-c0bbb390fb81.txt"
+        },
+        "reviewKind": "independent_agent_read_not_human_gold",
+        "finding": "第二輪閱讀核對；本方主治clause與緊接方標題的核心成分可回查。不是臨床真值或專家gold。"
+      },
+      {
+        "formulaId": "formula-v3-075eedf398ebf35d",
+        "name": "大青龍湯",
+        "sourceId": "jc-c0bbb390fb81",
+        "sourceURL": "https://jicheng.tw/tcm/book/%E9%87%91%E5%8C%B1%E8%A6%81%E7%95%A5%E6%96%B9%E8%AB%96/index.html#12.23",
+        "indicationSpans": [
+          {
+            "field": "indication",
+            "text": "病溢飲者，當發其汗，大青龍湯主之；",
+            "start": 19414,
+            "end": 19431,
+            "basis": "sourcePlainText",
+            "offsetUnit": "unicode_code_point",
+            "file": "snapshots/jc-c0bbb390fb81.txt"
+          }
+        ],
+        "ingredientSpan": {
+          "field": "ingredientList",
+          "text": "麻黃（六兩，去節） 桂枝（三兩，去皮） 甘草（二兩，炙） 杏仁（四十個，去皮尖） 生薑（三兩，切） 大棗（十二枚） 石膏（如雞子大，碎）",
+          "start": 19447,
+          "end": 19515,
+          "basis": "sourcePlainText",
+          "offsetUnit": "unicode_code_point",
+          "file": "snapshots/jc-c0bbb390fb81.txt"
+        },
+        "reviewKind": "independent_agent_read_not_human_gold",
+        "finding": "第二輪閱讀核對；本方主治clause與緊接方標題的核心成分可回查。不是臨床真值或專家gold。"
+      },
+      {
+        "formulaId": "formula-v3-27f5ba42783a8a51",
+        "name": "木防己湯",
+        "sourceId": "jc-c0bbb390fb81",
+        "sourceURL": "https://jicheng.tw/tcm/book/%E9%87%91%E5%8C%B1%E8%A6%81%E7%95%A5%E6%96%B9%E8%AB%96/index.html#12.24",
+        "indicationSpans": [
+          {
+            "field": "indication",
+            "text": "膈間支飲，其人喘滿，心下痞堅，面色黧黑，其脈沉緊，得之數十日，醫吐下之不愈，木防己湯主之。",
+            "start": 19681,
+            "end": 19726,
+            "basis": "sourcePlainText",
+            "offsetUnit": "unicode_code_point",
+            "file": "snapshots/jc-c0bbb390fb81.txt"
+          }
+        ],
+        "ingredientSpan": {
+          "field": "ingredientList",
+          "text": "木防己（三兩） 石膏（十二枚雞子大） 桂枝（三兩） 人參（四兩）",
+          "start": 19769,
+          "end": 19801,
+          "basis": "sourcePlainText",
+          "offsetUnit": "unicode_code_point",
+          "file": "snapshots/jc-c0bbb390fb81.txt"
+        },
+        "reviewKind": "independent_agent_read_not_human_gold",
+        "finding": "第二輪閱讀核對；本方主治clause與緊接方標題的核心成分可回查。不是臨床真值或專家gold。"
+      },
+      {
+        "formulaId": "formula-v3-11e664d5a8d1073f",
+        "name": "蒲灰散",
+        "sourceId": "jc-c0bbb390fb81",
+        "sourceURL": "https://jicheng.tw/tcm/book/%E9%87%91%E5%8C%B1%E8%A6%81%E7%95%A5%E6%96%B9%E8%AB%96/index.html#13.11",
+        "indicationSpans": [
+          {
+            "field": "indication",
+            "text": "小便不利，蒲灰散主之；",
+            "start": 21908,
+            "end": 21919,
+            "basis": "sourcePlainText",
+            "offsetUnit": "unicode_code_point",
+            "file": "snapshots/jc-c0bbb390fb81.txt"
+          }
+        ],
+        "ingredientSpan": {
+          "field": "ingredientList",
+          "text": "蒲灰（七分） 滑石（三分）",
+          "start": 21941,
+          "end": 21954,
+          "basis": "sourcePlainText",
+          "offsetUnit": "unicode_code_point",
+          "file": "snapshots/jc-c0bbb390fb81.txt"
+        },
+        "reviewKind": "independent_agent_read_not_human_gold",
+        "finding": "第二輪閱讀核對；本方主治clause與緊接方標題的核心成分可回查。不是臨床真值或專家gold。"
+      },
+      {
+        "formulaId": "formula-v3-f5c3cd0baa2effe0",
+        "name": "梔子豉湯",
+        "sourceId": "jc-c0bbb390fb81",
+        "sourceURL": "https://jicheng.tw/tcm/book/%E9%87%91%E5%8C%B1%E8%A6%81%E7%95%A5%E6%96%B9%E8%AB%96/index.html#17.44",
+        "indicationSpans": [
+          {
+            "field": "indication",
+            "text": "下利後更煩，按之心下濡者，為虛煩也，梔子豉湯主之。",
+            "start": 30633,
+            "end": 30658,
+            "basis": "sourcePlainText",
+            "offsetUnit": "unicode_code_point",
+            "file": "snapshots/jc-c0bbb390fb81.txt"
+          }
+        ],
+        "ingredientSpan": {
+          "field": "ingredientList",
+          "text": "梔子（十四枚） 香豉（四合，綿裹）",
+          "start": 30666,
+          "end": 30683,
+          "basis": "sourcePlainText",
+          "offsetUnit": "unicode_code_point",
+          "file": "snapshots/jc-c0bbb390fb81.txt"
+        },
+        "reviewKind": "independent_agent_read_not_human_gold",
+        "finding": "第二輪閱讀核對；本方主治clause與緊接方標題的核心成分可回查。不是臨床真值或專家gold。"
+      }
+    ],
+    "findings": [
+      {
+        "id": "nested-composition-missing-main-herb",
+        "priority": "high",
+        "status": "resolved_in_second_pass",
+        "formulaIds": [
+          "formula-v3-fba44dd6a18247bd"
+        ],
+        "finding": "烏頭桂枝湯 recordSpan 16652–16801 含烏頭一味與後續桂枝湯方；擷取只抓桂枝湯五味，漏核心烏頭，卻標完整解析。",
+        "requiredAction": "分割 nested／referenced recipe 或保守排除，不能以後段方清單代整個複合方。",
+        "resolution": "修後烏頭桂枝混合／引用方排除，7個nested record均截至下個方標題；原文保留，未補猜。"
+      },
+      {
+        "id": "indication-branch-contamination",
+        "priority": "high",
+        "status": "resolved_in_second_pass",
+        "formulaIds": [
+          "formula-v3-7eb13e9e2297e9d8",
+          "formula-v3-2c2721c7c01400a9",
+          "formula-v3-13703a1ac3cfdea5",
+          "formula-v3-6d7efd71f6f432bf",
+          "formula-v3-30ae8aa9beafd45a",
+          "formula-v3-eddbf5ecaf23f6b2",
+          "formula-v3-859a1f866abae337"
+        ],
+        "finding": "11筆主治原段落明示兩個或以上已收方名。例茯苓甘草湯全文同时含五苓散渴與本方不渴；梔子三方共同大段含不同少氣／嘔分支。spans真實不等於 target-specific labels真實。",
+        "requiredAction": "閲覽保留context，銀標只讀本方明示主治clause；無法解析或否定／禁忌範圍不清時exclude/abstain。",
+        "resolution": "profileEvidence已分離本方命名主之clause，閲覽context另欄不標記。核梔子三方、茯苓不渴、桂枝加芍／大黃、理中及大青龍分支均正確截取。"
+      },
+      {
+        "id": "contraindication-and-negation-labels",
+        "priority": "high",
+        "status": "resolved_in_second_pass",
+        "formulaIds": [
+          "formula-v3-4fc5ffae58cea92c",
+          "formula-v3-a4bc7deaa7f7ea49"
+        ],
+        "finding": "大青龍主治後有「不可服之」與服後厥逆；甘草瀉心有「此非結熱」。不能將禁忌或否定命中算成功效positive。也不能只泛用刪不字，因小便不利／不得眠等是肯定病狀。",
+        "requiredAction": "公開 label span eligibility 與上下文範圍；未完善文意時保守排含否定疑義的標記。",
+        "resolution": "大青龍後禁服尾段已從本方標記段去除；模型1.1修正局部詞典否定不跨而等詞，保留規則非完整語義解析的限制。"
+      },
+      {
+        "id": "source-text-ambiguity",
+        "priority": "high",
+        "status": "resolved_in_second_pass",
+        "formulaIds": [
+          "formula-v3-6c36ca915c1b5bd8",
+          "formula-v3-1e82f3d4d2e80fa5"
+        ],
+        "finding": "流氣飲「山（去皮）」、萬金膏「白芨木鱉子仁」确實出现在raw HTML，不是snapshot漏字。前者身份不明，後者疑兩味缺分隔，現不應complete parsingtrue。",
+        "requiredAction": "排源文疑義或標ambiguity；不據外部常識改文字或偷補分隔。",
+        "resolution": "流氣飲山、萬金膏連寫名及另外擷取者自查疑義已排除，不改來源文字。"
+      },
+      {
+        "id": "family-heuristic-insufficient",
+        "priority": "high",
+        "status": "resolved_in_second_pass",
+        "finding": "目前加字優先cut使桂枝去芍藥加附子保留桂枝去芍藥；桂枝湯與桂枝分開。6組同文字元素集合各跨不同familyId。",
+        "requiredAction": "修最早加去合stem並統一suffix；split仍須union same element set與近似composition graph，familyId單獨不足。",
+        "sameSetDifferentFamilyGroups": [
+          [
+            {
+              "id": "formula-v3-a6d216e40f09ef41",
+              "name": "桂枝湯",
+              "familyBaseName": "桂枝湯"
+            },
+            {
+              "id": "formula-v3-30ae8aa9beafd45a",
+              "name": "桂枝加芍藥湯",
+              "familyBaseName": "桂枝"
+            },
+            {
+              "id": "formula-v3-0ad8fe7061c8d9a7",
+              "name": "桂枝加桂湯",
+              "familyBaseName": "桂枝"
+            },
+            {
+              "id": "formula-v3-fba44dd6a18247bd",
+              "name": "烏頭桂枝湯",
+              "familyBaseName": "烏頭桂枝湯"
+            }
+          ],
+          [
+            {
+              "id": "formula-v3-3490dc6704cce0bd",
+              "name": "桂枝加葛根湯",
+              "familyBaseName": "桂枝"
+            },
+            {
+              "id": "formula-v3-7612aa25ce5d58a4",
+              "name": "葛根湯",
+              "familyBaseName": "葛根湯"
+            },
+            {
+              "id": "formula-v3-14ab974668e03d09",
+              "name": "葛根湯",
+              "familyBaseName": "葛根湯"
+            }
+          ],
+          [
+            {
+              "id": "formula-v3-301cdb3cf4f48683",
+              "name": "桂枝去芍藥加附子湯",
+              "familyBaseName": "桂枝去芍藥"
+            },
+            {
+              "id": "formula-v3-211a4facd13ab8fd",
+              "name": "桂枝附子湯",
+              "familyBaseName": "桂枝附子湯"
+            },
+            {
+              "id": "formula-v3-d478d484e9665a4c",
+              "name": "桂枝附子湯",
+              "familyBaseName": "桂枝附子湯"
+            }
+          ],
+          [
+            {
+              "id": "formula-v3-655bf1a5f5a8db65",
+              "name": "茯苓桂枝白朮甘草湯",
+              "familyBaseName": "茯苓桂枝白朮甘草湯"
+            },
+            {
+              "id": "formula-v3-653de5145e05e4b4",
+              "name": "苓桂朮甘湯",
+              "familyBaseName": "苓桂朮甘湯"
+            }
+          ],
+          [
+            {
+              "id": "formula-v3-4825d0a5ff2ae92c",
+              "name": "通脈四逆湯",
+              "familyBaseName": "通脈四逆湯"
+            },
+            {
+              "id": "formula-v3-ed00370aaeb22044",
+              "name": "四逆湯",
+              "familyBaseName": "四逆湯"
+            }
+          ],
+          [
+            {
+              "id": "formula-v3-8b004044b933af88",
+              "name": "厚朴三物湯",
+              "familyBaseName": "厚朴三物湯"
+            },
+            {
+              "id": "formula-v3-7ff3ca2294797b0e",
+              "name": "厚朴大黃湯",
+              "familyBaseName": "厚朴大黃湯"
+            }
+          ]
+        ],
+        "resolution": "已改按最早加去合並補suffix，familyId union exact element sets；第二輪同集合跨family錯誤為0。模型另union Jaccard>=.8且shared>=3的連通組。仍非完整歷史譜系。"
+      },
+      {
+        "id": "mapping-safe-literal-scope",
+        "priority": "medium",
+        "status": "checked_with_limit",
+        "finding": "exact_text全部對上340本草catalog name或sourceName，未用aliases或包含比對合併；大棗／山藥／澤瀉的catalog候選重複仍留null，文字元素身份與catalog連接分開。catalog exact核心全覆蓋50/284；新模型使用396原名文字元素，不宣稱均為340本草屬性或現代物種。"
+      },
+      {
+        "id": "always-together-identifiability",
+        "priority": "medium",
+        "status": "checked_with_limit",
+        "finding": "本原名資料大戟/芫花、水蛭/虻蟲有同現支持。模型合併完全同現欄作bundle且增minElementGroups=3；不足元素自身分組者只展頻數，仍不能分離因果。",
+        "requiredAction": "展示共同支持組或不可分離flag，不解釋為独立药性。"
+      },
+      {
+        "id": "sampling-and-review-status",
+        "priority": "medium",
+        "status": "checked_with_limit",
+        "finding": "三書84/100/100、最多100章節輪選，總284為有界方便樣本；sourceElements396／refs1850。全部仍auto extraction待逐條專家審核；位置全通過不是human gold。"
+      },
+      {
+        "id": "shared-context-family-leakage",
+        "priority": "high",
+        "status": "resolved_in_audited_model",
+        "finding": "獨立實跑發現同原文context明示分支仍跨折：傷寒梔子豉/甘草豉fold5、生薑豉fold4；桂枝附子fold1、去桂加白朮fold4。自訂proxy groupOverlap=0不能證所有方族獨立。小集合近似門檻未涵蓋這些已知依賴。",
+        "requiredAction": "模型額外union sourceId+indicationContextEvidence相同span/hash或可核seed family，只作split依賴、不作特徵／標籤。修後重新CV與hash。",
+        "limitation": "共同context分組仍是保守依賴代理，不能保證捕捉所有跨書歷史親緣。",
+        "resolution": "已額外union同來源共同context span，實核梔子三分支同fold及桂枝附子／去桂加白朮同fold；全部fold的source-context dependencyOverlap=0。"
+      },
+      {
+        "id": "probability-baseline-not-improved",
+        "priority": "medium",
+        "status": "documented_research_limit",
+        "finding": "最終family及來源留出的Brier較每折training-frequency baseline差；不能僅以F1升高宣稱模型整體勝基線，更不能叫高可信藥性。",
+        "requiredAction": "同報F1/Brier/coverage及基線，前台結果命名描述性銀詞關聯指標。"
+      }
+    ],
+    "remainingChecks": [
+      "本次有界抽查與自動位置驗證已完成；擴資料或修改抽取／詞典／模型後須重新hash、群組与validation。",
+      "尚無逐方影印本校勘、醫學專家獨立gold或臨床資料；不能說已完成這些驗證。"
+    ],
+    "limitations": [
+      "抽查發現不保證其餘所有語義問題都排除。",
+      "此處reference snapshot offset不同於早期research/corpus全文offset；每筆span必須使用其指定snapshot。"
+    ],
+    "sampleReviewRecordCount": 21,
+    "firstPass": {
+      "datasetSHA256": "42c7927469ff18d4ebf56951fb3f2e3da0c0a1db9feb768f9dd95aa760ac56c4",
+      "recordCount": 284,
+      "elementCount": 411,
+      "refs": 1889,
+      "spans": 4914,
+      "note": "首輪draft发现語義及來源疑義後已修正；下面為第二輪凍結資料審計。"
+    },
+    "contentRevision": "a2ead3056be62ca274f5ceda9a19225643c381310c0034faa134ec663f8e7ef2",
+    "modelAudit": {
+      "modelPath": "dist/inference-model.js",
+      "modelVersion": "source-element-inference-1.2",
+      "modelSHA256": "c9b751cc5eca680816f65abf2654c1b80274eaabac27647deb17b2b5b70654c8",
+      "dictionaryVersion": "indication-topic-silver-2026-10-04",
+      "config": {
+        "alpha": 1,
+        "minTrainRecords": 30,
+        "minTrainGroups": 8,
+        "minLabelPositive": 5,
+        "minLabelNegative": 5,
+        "minLabelPositiveGroups": 3,
+        "minLabelNegativeGroups": 3,
+        "minElementSupport": 3,
+        "minElementGroups": 3,
+        "minQueryTextCoverage": 0.8,
+        "minQuerySupportedCoverage": 0.5,
+        "threshold": 0.5,
+        "familySimilarity": 0.8,
+        "minFamilyShared": 3,
+        "folds": 5
+      },
+      "sourceSnapshotsLoadedAndSpansRuntimeVerified": true,
+      "trainingSummary": {
+        "records": 284,
+        "eligible": 284,
+        "groups": 228,
+        "duplicates": 0,
+        "excluded": [],
+        "labelSource": "凍結主治原文詞典的自動銀標籤；非人工 gold",
+        "modernIdentity": "未核定"
+      },
+      "familyValidation": {
+        "performed": true,
+        "status": "已執行分組留出；評估來源銀詞而非療效",
+        "coverage": {
+          "testRecords": 284,
+          "scoredQueryRecords": 244,
+          "queryCoverage": 0.8591549295774648,
+          "scoredLabelDecisions": 2971,
+          "possibleLabelDecisions": 4544,
+          "labelDecisionCoverage": 0.6538292253521126
+        },
+        "metrics": {
+          "microF1": 0.2857142857142857,
+          "macroF1": 0.28223158633534096,
+          "brier": 0.2825799005327828
+        },
+        "baselineMetrics": {
+          "microF1": 0,
+          "macroF1": 0,
+          "brier": 0.1031136431898994
+        },
+        "comparedToBaseline": {
+          "microF1Difference": 0.2857142857142857,
+          "brierDifference": 0.1794662573428834,
+          "meaning": "同一批可評估銀詞決策與每折訓練頻率基線比較；差值不證明臨床能力"
+        },
+        "folds": [
+          {
+            "fold": 1,
+            "trainRecords": 227,
+            "trainGroups": 191,
+            "testRecords": 57,
+            "testGroups": 37,
+            "trainIdsSHA256": "f46c8f45d4116c503ad442ffe37962d47e9d5751cb87dcbf4f0c49edb258d12d",
+            "testIdsSHA256": "fcee4a276149ea4606e98b78b7eec06b373355d252456cf71b41689e4959fd23",
+            "supportedTargets": [
+              "deficiency",
+              "cold",
+              "heat",
+              "phlegm",
+              "water",
+              "blood",
+              "qi_flow",
+              "diarrhea",
+              "cough",
+              "pain",
+              "vomit",
+              "spirit"
+            ],
+            "groupOverlap": [],
+            "dependencyOverlapCount": 0
+          },
+          {
+            "fold": 2,
+            "trainRecords": 227,
+            "trainGroups": 181,
+            "testRecords": 57,
+            "testGroups": 47,
+            "trainIdsSHA256": "1bd6d42190e109a4f121da0800bcc3e865447e29a7141b587e8cb6e0019a2c77",
+            "testIdsSHA256": "97a3057798bcd87669c3a3da542aa127f344cd22022519dfd7a8fb9db5ea3bf2",
+            "supportedTargets": [
+              "deficiency",
+              "cold",
+              "heat",
+              "phlegm",
+              "water",
+              "blood",
+              "qi_flow",
+              "diarrhea",
+              "cough",
+              "pain",
+              "vomit",
+              "spirit"
+            ],
+            "groupOverlap": [],
+            "dependencyOverlapCount": 0
+          },
+          {
+            "fold": 3,
+            "trainRecords": 227,
+            "trainGroups": 180,
+            "testRecords": 57,
+            "testGroups": 48,
+            "trainIdsSHA256": "89e6ab946eac8624007b657d3f762319691c7387647511ad2c11921b99a5c5f9",
+            "testIdsSHA256": "8c1a37cad8adbfd59ff9cd1627610675899412b9efe9ee3889064c254e97d8a3",
+            "supportedTargets": [
+              "deficiency",
+              "cold",
+              "heat",
+              "phlegm",
+              "water",
+              "blood",
+              "qi_flow",
+              "diarrhea",
+              "cough",
+              "pain",
+              "vomit",
+              "spirit"
+            ],
+            "groupOverlap": [],
+            "dependencyOverlapCount": 0
+          },
+          {
+            "fold": 4,
+            "trainRecords": 227,
+            "trainGroups": 180,
+            "testRecords": 57,
+            "testGroups": 48,
+            "trainIdsSHA256": "e1649bb2e7fd68ec489ed0ff2cbf160d627f4f058cc86d8b9135520415a81b91",
+            "testIdsSHA256": "bcefa96ad951c76f9b4a3d37510f8aaea47316ad917050bf1a7f4297d4f17e4b",
+            "supportedTargets": [
+              "deficiency",
+              "cold",
+              "heat",
+              "phlegm",
+              "water",
+              "blood",
+              "qi_flow",
+              "diarrhea",
+              "cough",
+              "pain",
+              "vomit",
+              "spirit"
+            ],
+            "groupOverlap": [],
+            "dependencyOverlapCount": 0
+          },
+          {
+            "fold": 5,
+            "trainRecords": 228,
+            "trainGroups": 180,
+            "testRecords": 56,
+            "testGroups": 48,
+            "trainIdsSHA256": "f34c24c85212d947d0dcc6df3727539ee3e6ce5aada8d1b67cef55c46e2cb4f7",
+            "testIdsSHA256": "ac17569ae6f3b06a85000ec7365c8981db7aec3a311287b7df9d8efae1e6948e",
+            "supportedTargets": [
+              "deficiency",
+              "cold",
+              "heat",
+              "phlegm",
+              "water",
+              "blood",
+              "qi_flow",
+              "diarrhea",
+              "cough",
+              "pain",
+              "vomit",
+              "sores",
+              "spirit"
+            ],
+            "groupOverlap": [],
+            "dependencyOverlapCount": 0
+          }
+        ]
+      },
+      "sourceBookValidation": {
+        "performed": true,
+        "status": "已執行分組留出；評估來源銀詞而非療效",
+        "coverage": {
+          "testRecords": 284,
+          "scoredQueryRecords": 176,
+          "queryCoverage": 0.6197183098591549,
+          "scoredLabelDecisions": 2263,
+          "possibleLabelDecisions": 4544,
+          "labelDecisionCoverage": 0.4980193661971831
+        },
+        "metrics": {
+          "microF1": 0.18510158013544017,
+          "macroF1": 0.18213717394025483,
+          "brier": 0.22658807425914768
+        },
+        "baselineMetrics": {
+          "microF1": 0,
+          "macroF1": 0,
+          "brier": 0.08713911486792293
+        },
+        "comparedToBaseline": {
+          "microF1Difference": 0.18510158013544017,
+          "brierDifference": 0.13944895939122476,
+          "meaning": "同一批可評估銀詞決策與每折訓練頻率基線比較；差值不證明臨床能力"
+        },
+        "folds": [
+          {
+            "fold": 1,
+            "trainRecords": 181,
+            "trainGroups": 128,
+            "testRecords": 100,
+            "testGroups": 100,
+            "trainIdsSHA256": "883677631420f959ed004e08264d2ab5d2c175d507476df331dd2211a97720a9",
+            "testIdsSHA256": "c15a51a197c166f28c32b7b7f50e3a8f7abe533e27d157fc60c738241d6484df",
+            "supportedTargets": [
+              "deficiency",
+              "cold",
+              "heat",
+              "phlegm",
+              "water",
+              "blood",
+              "qi_flow",
+              "diarrhea",
+              "cough",
+              "pain",
+              "vomit",
+              "spirit"
+            ],
+            "groupOverlap": [],
+            "dependencyOverlapCount": 0
+          },
+          {
+            "fold": 2,
+            "trainRecords": 142,
+            "trainGroups": 140,
+            "testRecords": 100,
+            "testGroups": 88,
+            "trainIdsSHA256": "12c5a7eb908c612237cae143269573271abbeb9211da595c54871946e7b59a1f",
+            "testIdsSHA256": "c3b34f179a6673e8b925ff4548255727947f6b0f069a879549fcddc129d75fbd",
+            "supportedTargets": [
+              "deficiency",
+              "cold",
+              "heat",
+              "phlegm",
+              "water",
+              "blood",
+              "qi_flow",
+              "diarrhea",
+              "cough",
+              "pain",
+              "vomit",
+              "sores",
+              "spirit"
+            ],
+            "groupOverlap": [],
+            "dependencyOverlapCount": 0
+          },
+          {
+            "fold": 3,
+            "trainRecords": 171,
+            "trainGroups": 168,
+            "testRecords": 84,
+            "testGroups": 60,
+            "trainIdsSHA256": "d67b34df8b58fdb8fc9f79b5e1c96b29dfbf12a5ce4a1d89c7ed7af77062a62f",
+            "testIdsSHA256": "97e0588bbc9c536013be88fdf6f4df1e8fbd5c892a3e978cad39956d744d9a54",
+            "supportedTargets": [
+              "deficiency",
+              "cold",
+              "heat",
+              "phlegm",
+              "water",
+              "blood",
+              "qi_flow",
+              "diarrhea",
+              "cough",
+              "pain",
+              "vomit",
+              "sores",
+              "spirit"
+            ],
+            "groupOverlap": [],
+            "dependencyOverlapCount": 0
+          }
+        ]
+      },
+      "explicitSharedContextFamilyCases": [
+        {
+          "id": "formula-v3-2c2721c7c01400a9",
+          "name": "梔子豉湯",
+          "sourceBook": "傷寒論（宋本）",
+          "groupId": "group-b764cc28",
+          "familyTestFolds": [
+            5
+          ],
+          "contextGroupKeys": [
+            "jc-6490b1a098ab:17516:17602"
+          ]
+        },
+        {
+          "id": "formula-v3-13703a1ac3cfdea5",
+          "name": "梔子甘草豉湯",
+          "sourceBook": "傷寒論（宋本）",
+          "groupId": "group-b764cc28",
+          "familyTestFolds": [
+            5
+          ],
+          "contextGroupKeys": [
+            "jc-6490b1a098ab:17516:17602"
+          ]
+        },
+        {
+          "id": "formula-v3-6d7efd71f6f432bf",
+          "name": "梔子生薑豉湯",
+          "sourceBook": "傷寒論（宋本）",
+          "groupId": "group-b764cc28",
+          "familyTestFolds": [
+            5
+          ],
+          "contextGroupKeys": [
+            "jc-6490b1a098ab:17516:17602"
+          ]
+        },
+        {
+          "id": "formula-v3-211a4facd13ab8fd",
+          "name": "桂枝附子湯",
+          "sourceBook": "傷寒論（宋本）",
+          "groupId": "group-e2af84ee",
+          "familyTestFolds": [
+            1
+          ],
+          "contextGroupKeys": [
+            "jc-6490b1a098ab:26293:26357"
+          ]
+        },
+        {
+          "id": "formula-v3-c09aafa412f9e459",
+          "name": "去桂加白朮湯",
+          "sourceBook": "傷寒論（宋本）",
+          "groupId": "group-e2af84ee",
+          "familyTestFolds": [
+            1
+          ],
+          "contextGroupKeys": [
+            "jc-6490b1a098ab:26293:26357"
+          ]
+        },
+        {
+          "id": "formula-v3-d478d484e9665a4c",
+          "name": "桂枝附子湯",
+          "sourceBook": "金匱要略方論",
+          "groupId": "group-e2af84ee",
+          "familyTestFolds": [
+            1
+          ],
+          "contextGroupKeys": [
+            "jc-c0bbb390fb81:4311:4373"
+          ]
+        },
+        {
+          "id": "formula-v3-f5c3cd0baa2effe0",
+          "name": "梔子豉湯",
+          "sourceBook": "金匱要略方論",
+          "groupId": "group-b764cc28",
+          "familyTestFolds": [
+            5
+          ],
+          "contextGroupKeys": [
+            "jc-c0bbb390fb81:30633:30658"
+          ]
+        }
+      ],
+      "lowElementGroupCases": [
+        {
+          "elementId": "historical-element-d4a899310d29a2b8",
+          "name": "大戟",
+          "support": 3,
+          "elementPresentGroups": 2,
+          "status": "樣本不足；只展示頻數",
+          "supportedTargets": 0
+        },
+        {
+          "elementId": "historical-element-ee8a0fdb4c13e2ce",
+          "name": "水蛭",
+          "support": 3,
+          "elementPresentGroups": 2,
+          "status": "樣本不足；只展示頻數",
+          "supportedTargets": 0
+        },
+        {
+          "elementId": "historical-element-493b1508fb035582",
+          "name": "芫花",
+          "support": 3,
+          "elementPresentGroups": 2,
+          "status": "樣本不足；只展示頻數",
+          "supportedTargets": 0
+        },
+        {
+          "elementId": "historical-element-25a9c600a73b1f48",
+          "name": "虻蟲",
+          "support": 3,
+          "elementPresentGroups": 2,
+          "status": "樣本不足；只展示頻數",
+          "supportedTargets": 0
+        },
+        {
+          "elementId": "historical-element-12a9b3a747f13dec",
+          "name": "豬苓",
+          "support": 3,
+          "elementPresentGroups": 2,
+          "status": "樣本不足；只展示頻數",
+          "supportedTargets": 0
+        },
+        {
+          "elementId": "historical-element-677fac6bc37e0a67",
+          "name": "香豉",
+          "support": 5,
+          "elementPresentGroups": 2,
+          "status": "樣本不足；只展示頻數",
+          "supportedTargets": 0
+        }
+      ],
+      "interpretation": "真正執行的group-heldout只驗凍結主治詞標記。Brier較頻率基線差，不支持整體優於基線或已校準概率聲稱；microF1與全不命中的低頻基線比較亦需同報coverage，非臨床能力。",
+      "remainingLimits": [
+        "上述依賴檢查涵蓋同集合、來源註記重複、已供familyId、Jaccard門檻及共同來源context；未完成所有跨書歷史方族校勘。",
+        "所有銀標籤為詞典自動標記；negation規則與同義詞覆盖仍有限，不能叫人工gold。",
+        "資料僅三書，便利樣本；單味因果、物種、劑量、交互及安全仍不可由此識別。"
+      ]
+    }
+  },
+  "limitations": [
+    "四項來源是針對模型方法與限制的有界研究，不是全部 TCM 複方研究的系統綜述。",
+    "古籍片段核對是來源忠實度，不是現代物種鉴定、藥品品質或臨床驗證。",
+    "本次閱讀的 existing model 與 framework 可能在其他 agent 修改；最終資料審計須記錄檔案 hash／版本。"
+  ]
+}

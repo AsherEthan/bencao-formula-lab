@@ -1,0 +1,137 @@
+{
+  "schemaVersion": "herb-vector-offline-validation-1",
+  "verifiedOn": "2026-10-04",
+  "verifiedBy": "processing_audit",
+  "allPassed": true,
+  "sourceZIP": {
+    "path": "dist/downloads/tcm-research-library.zip",
+    "bytes": 10491555,
+    "sha256": "9b7f3f603d2315136da7a63868863b2a2f3ae49a4ecba9dfe287f8fc1f524785",
+    "entries": 90
+  },
+  "execution": {
+    "scope": "將最終ZIP解壓到獨立臨時目錄，實際重建下載資產、研究ZIP與所有模型報告。原專案輸入未修改。",
+    "networkPolicy": "macOS sandbox-exec: (version 1)(allow default)(deny network*)",
+    "networkProbe": {
+      "address": "1.1.1.1:443",
+      "blocked": true,
+      "errno": 1,
+      "reason": "Operation not permitted"
+    },
+    "runtimes": "Python 3 / Node.js；標準程式庫；未下載相依套件。"
+  },
+  "checks": [
+    {
+      "tool": "tools/build-research-assets.py",
+      "exitCode": 0,
+      "result": {
+        "herbs": 340,
+        "curatedFormulas": 18,
+        "newFormulaCorpus": 284,
+        "catalogue": 1362,
+        "fulltexts": 14,
+        "regeneratedBundleBytes": 10491554
+      }
+    },
+    {
+      "tool": "tools/verify-research-assets.py",
+      "exitCode": 0,
+      "result": {
+        "catalogueEntries": 1362,
+        "fulltexts": 14,
+        "verifiedRawTextSpans": 1416,
+        "verifiedProfileSourceSpans": 4,
+        "publicLocalPaths": 0
+      }
+    },
+    {
+      "tool": "tools/verify-formula-corpus.py",
+      "exitCode": 0,
+      "result": {
+        "formulas": 284,
+        "sourceElements": 396,
+        "verifiedSpans": 5120,
+        "sourceSnapshots": 3,
+        "computedSplitReports": 2
+      }
+    },
+    {
+      "tool": "tools/verify-processing-assets.py",
+      "exitCode": 0,
+      "result": {
+        "processingProfiles": 31,
+        "sourceHerbEntries": 15,
+        "verifiedProcessingReferences": 138,
+        "propertyEvidence": 45,
+        "workflowSteps": 37,
+        "sourceQuotes": 56,
+        "knownNatureProfiles": 8,
+        "unknownNatureProfiles": 23,
+        "publicCanonicalConsistency": true,
+        "bundleProcessingInputsMatch": true
+      }
+    },
+    {
+      "tool": "tools/verify-herb-vector-assets.py",
+      "exitCode": 0,
+      "result": {
+        "sourceHerbs": 340,
+        "literalElements": 396,
+        "individualReportableElements": 133,
+        "sourceVectorSpanReferences": 2934,
+        "independentTargetSpanReferences": 1136,
+        "familyOOFPredictions": 284,
+        "sourceBookOOFPredictions": 284,
+        "coefficientCSVRows": 6336,
+        "forwardCSVRows": 5382,
+        "scoredOOFDecisions": 5234,
+        "actualRefitMatchesSavedReport": true,
+        "publicCanonicalCSVZIPConsistency": true
+      }
+    },
+    {
+      "tool": "checks/verify-model.cjs",
+      "exitCode": 0,
+      "passedGroups": 21,
+      "sourceSpanValidations": 1554
+    },
+    {
+      "tool": "checks/verify-quant.cjs",
+      "exitCode": 0,
+      "passedGroups": 14
+    },
+    {
+      "tool": "checks/verify-inference.cjs",
+      "exitCode": 0,
+      "passedGroups": 18
+    },
+    {
+      "tool": "checks/verify-processing.cjs",
+      "exitCode": 0,
+      "passedGroups": 21
+    },
+    {
+      "tool": "checks/verify-herb-vector.cjs",
+      "exitCode": 0,
+      "passedGroups": 17
+    }
+  ],
+  "totalModelCheckGroups": 91,
+  "hashAudit": {
+    "canonicalReviewSHA256": "a9ebf97780b55f35537b2563cfdd16c124db02714d7b98d50853a4edbdde9648",
+    "rebuiltReportSemanticSHA256": "8ee1764e1de0d709400da30949fe97817ed00fbc57b19e19eaea67c3c41610f6",
+    "reportBindingMatched": true,
+    "inputHashFilesMatched": [
+      "dist/herb-vector-model.js",
+      "dist/inference-model.js",
+      "dist/quant-model.js",
+      "research/herb-vector-methodology.json",
+      "tools/build-herb-vector-report.cjs",
+      "checks/verify-herb-vector.cjs"
+    ],
+    "normalization": "使用報告所定義的JavaScript遞歸排序JSON，僅去除generatedAt。首次用Python JSON浮點格式核hash造成格式差異；改用已定義的序列化後，重建報告與canonical review語義hash完全相符。模型／來源／重訓和資料verifier均未失敗。",
+    "byteScope": "ZIP包含產生時間及壓縮封裝資訊，重建不要求ZIP逐字節相等；封存模型與輸入hash、所有內部canonical/public/CSV副本與報告穩定語義逐值核對。"
+  },
+  "limitations": "此核验只证明封存文字、字位、算法、留出流程與衍生資產可离线重現。引用數包含重複引用，不宜相加當唯一來源數。不能证明原刻本轉錄正確、現代物種基原、人體效力、安全或方義已可靠還原。整個網站UI未封入此研究資料ZIP；實機介面證據由root另存。",
+  "canonicalReviewPreserved": true
+}

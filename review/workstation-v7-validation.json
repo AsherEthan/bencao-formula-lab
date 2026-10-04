@@ -1,0 +1,43 @@
+{
+  "version": "workstation-v7",
+  "verifiedAt": "2026-10-04",
+  "automated": {
+    "newWorkstationModel": 28,
+    "newThreeScene": 30,
+    "processing": 21,
+    "researchModel": 21,
+    "quant": 14,
+    "inference": 18,
+    "herbVector": 17,
+    "existingWorkbenchFlow": 15,
+    "totalPassed": 164
+  },
+  "browser": {
+    "renderer": "three-186",
+    "desktop": "1440x960; one rendered canvas, no horizontal overflow",
+    "mobile": "375x812; no horizontal overflow; direct scene shortcut",
+    "checked": [
+      "raw mass retains unknown post-processing input mass",
+      "prepared dry mass remains separate from unrecorded mass stage",
+      "source and manual instructions stay separate",
+      "preboil / wrapped / late addition / further simmer / separate filter / post-filtration dissolution",
+      "explicit zero minutes retained without physical completion",
+      "invalid water draft retained and blocks navigation / processing changes",
+      "powder mode hides boiling apparatus and uses source review",
+      "play and pause",
+      "rotate and reset camera",
+      "route change removes scene then recreates one canvas",
+      "export success and read-only operationSnapshot includes full plan"
+    ],
+    "consoleErrors": 0
+  },
+  "evidence": [
+    "workstation-v7-preview.jpg",
+    "workstation-v7-mobile.jpg"
+  ],
+  "limits": [
+    "3D apparatus and movement are illustrative; not actual processing completion",
+    "special branch conditions stay unknown; notes preserve researcher records",
+    "powder/pill detailed manufacturing remain source-review placeholders"
+  ]
+}

@@ -1,0 +1,359 @@
+{
+  "version": "processing-independent-review-1",
+  "reviewedAt": "2026-10-04",
+  "scope": "炮製分支、原方註記、研究質量克數和文獻屬性量化的獨立審查；不核定現代藥材身份、製程合規、服用量或臨床療效。",
+  "sources": [
+    {
+      "id": "review-national-processing-standard-2022",
+      "title": "國家藥監局關於實施《國家中藥飲片炮製規範》有關事項的公告（2022年第118號）",
+      "url": "https://yjj.sh.gov.cn/qtgzwj/20230103/0c9fb9b531ef41e1adea83e545fc5989.html",
+      "originalURL": "https://www.nmpa.gov.cn/xxgk/ggtg/qtggtg/20221230150840131.html",
+      "publisher": "上海市藥品監督管理局官方轉載國家藥品監督管理局公告",
+      "publicationDate": "2023-01-03",
+      "verification": "actual_open_content_verified",
+      "verifiedContentScope": "公告正文第二、三、四、五項；國家原始網站未能在本次工具中開啟，使用官方轉載核查。",
+      "finding": "來源、炮製、性狀、貯藏及產品執行標準是需分別記錄的要素；品名、来源、制法和規格同時相同才有規範目錄對應的意義。",
+      "supports": [
+        "來源與製法須分別記錄",
+        "古籍工藝不能直接宣稱符合現行藥品標準"
+      ],
+      "doesNotSupport": [
+        "特定古法的現代合規認證",
+        "任意製程之藥性倍率",
+        "用量換算"
+      ]
+    },
+    {
+      "id": "review-cmro-material-identity",
+      "title": "香港容易混淆中藥的性狀及顯微鑑別研究：製附子（白附片）與製白附子（禹白附）",
+      "url": "https://www.cmro.gov.hk/files/gcmti/research/mmi/ech_search/050_PRAL_vs_PRT_sc.pdf",
+      "publisher": "香港衞生署政府中藥檢測中心",
+      "publicationDate": "2021-12",
+      "verification": "actual_open_pdf_content_verified",
+      "verifiedContentScope": "第1頁來源比較、第5頁鑑別小結、第6頁修訂及資料使用聲明。",
+      "finding": "白附片與禹白附名稱相近，但官方鑑別資料分別記載不同植物來源、藥用部位及飲片特徵，不能作同一材料的炮製選項。白附子名稱仍有禹白附、關白附等來源差異。",
+      "supports": [
+        "近似藥名不能自動當作同一物種",
+        "古名與現代基原之間須獨立核定"
+      ],
+      "doesNotSupport": [
+        "現有古籍白附子條目的現代基原已核定",
+        "只憑名稱作實物鑑別",
+        "炮製後安全"
+      ],
+      "reuseNote": "本審查僅使用自寫摘要與來源連結，未複製圖譜、製程或產品說明；原資料有非商業使用及署名條件。"
+    },
+    {
+      "id": "review-rehmannia-processing-2011",
+      "title": "Traditional Processing Strongly Affects Metabolite Composition by Hydrolysis in Rehmannia glutinosa Roots",
+      "url": "https://www.jstage.jst.go.jp/article/cpb/59/5/59_5_546/_article/-char/en",
+      "doi": "10.1248/cpb.59.546",
+      "publisher": "Chemical and Pharmaceutical Bulletin / The Pharmaceutical Society of Japan",
+      "publicationDate": "2011-05-01",
+      "verification": "actual_open_primary_publisher_abstract_verified",
+      "verifiedContentScope": "作者、刊期、DOI與摘要；未將摘要中的傳統使用背景當作試驗證明。",
+      "finding": "研究以核磁共振及質譜比較地黃處理循環的代謝特徵，觀察到多糖水解及多種化合物方向不同的变化，且不同循環間的差異並非恆定。",
+      "supports": [
+        "炮製歷程可改變化學组成",
+        "需记录材料、處理循環与测量终点"
+      ],
+      "doesNotSupport": [
+        "九蒸九曬古法等於該試驗條件",
+        "寒熱數值即化學濃度",
+        "所有藥材有共同炮製倍率",
+        "人的臨床療效或安全"
+      ]
+    },
+    {
+      "id": "review-licorice-processing-2017",
+      "title": "Comparison of chemical constituents among licorice, roasted licorice, and roasted licorice with honey",
+      "url": "https://link.springer.com/article/10.1007/s11418-017-1115-4",
+      "doi": "10.1007/s11418-017-1115-4",
+      "publisher": "Journal of Natural Medicines / Springer Nature",
+      "publicationDate": "2017-08-04",
+      "verification": "actual_open_primary_publisher_abstract_verified",
+      "verifiedContentScope": "研究摘要、原始論文類型、作者、刊期與DOI；全文為訂閱內容，未宣稱已讀全文。",
+      "finding": "研究在三批甘草中比較未處理、烘製和加蜜烘製的色譜指紋；不同峰有升有降，且升高峰受溫度影响。加蜜與不加蜜的差異也因成分而异。",
+      "supports": [
+        "制法、辅料、溫度、批次可作为独立研究要素",
+        "化學组成变化不能概括成统一增益"
+      ],
+      "doesNotSupport": [
+        "古籍炙字必然指蜜炙",
+        "色譜峰面積就是療效",
+        "對所有成分作同一倍率",
+        "臨床可服用量"
+      ]
+    }
+  ],
+  "repositoryAudit": {
+    "herbEntries": 340,
+    "formulaRecords": 284,
+    "materialIdentityStatus": "古籍文字身份，不代表现代物种、部位、含水率或加工批次已核定",
+    "observedFormulaPreparationCounts": {
+      "甘草_炙": 89,
+      "甘草_未註記": 43,
+      "甘草_炒": 6,
+      "甘草_生用": 2,
+      "乾薑_未註記": 31,
+      "乾薑_炮": 21,
+      "附子_炮及去皮": 25,
+      "半夏_洗": 22,
+      "半夏_未註記": 21
+    },
+    "countBasis": "research/formulas-v3/formulas.json ingredientRefs：以來源原名、已錄preparation字串逐筆計數；沒有去重為獨立處方或實物。",
+    "profilesAuditStatus": "source_spans_and_branch_semantics_reviewed",
+    "processingProfiles": {
+      "datasetVersion": "processing-evidence-v1",
+      "datasetSha256": "a132af31548f45df014729211009fe530da8fa5a1869fdb5fff6e4f02519ebff",
+      "profileCount": 31,
+      "sourceHerbEntryCount": 15,
+      "propertyEvidenceCount": 45,
+      "workflowStepCount": 37,
+      "sourceQuoteCount": 56,
+      "checkedReferenceCount": 138,
+      "failedExactSourceSpans": 0,
+      "failedSourceIdMatches": 0,
+      "failedHerbApplicabilityMatches": 0,
+      "inputSourceSha256Matches": true,
+      "offsetBasis": "herbRawText Unicode code points, each reference compared against research/herbs/herbs-and-formulas.json",
+      "semanticReviewScope": "閱讀31分支的全部屬性聲稱、工藝與限制；另開來源轉錄頁獨立核對所列高風險或條件分支，未與原刊影像逐字校勘。",
+      "liveClassicalSourceReview": {
+        "url": "https://zh.wikisource.org/zh-hant/本草備要",
+        "status": "actual_open_content_verified",
+        "sections": [
+          "甘草",
+          "人參",
+          "半夏",
+          "生地黃",
+          "熟地黃",
+          "乾薑、黑姜",
+          "附子",
+          "梔子",
+          "生薑"
+        ]
+      },
+      "semanticReviewNotes": [
+        {
+          "profiles": [
+            "gancao-sheng-bby",
+            "gancao-zhi-bby"
+          ],
+          "status": "qualified_source_context",
+          "note": "生平、炙溫及功用有明確分支句；味甘是全條前綴共同性味，並非分別測得兩種加工品的味覺結果。炙未指明蜜。"
+        },
+        {
+          "profiles": [
+            "renshen-sheng-bby",
+            "renshen-shu-bby"
+          ],
+          "status": "branch_specific_text_supported",
+          "note": "生甘苦微涼、熟甘溫分述；熟製未詳，不對應紅參等現代商品。"
+        },
+        {
+          "profiles": [
+            "huangqi-mizhi-bby"
+          ],
+          "status": "qualified_source_context",
+          "note": "炙用功用與同條補中用蜜炙的工藝句關聯，未把古籍炙用作用當作現代蜜炙產品實驗結果。"
+        },
+        {
+          "profiles": [
+            "shengdi-xian-bby",
+            "shudi-jiusharen-bby"
+          ],
+          "status": "qualified_entry_context",
+          "note": "屬性是鮮、生或熟條目的性味；搗汁取率與砂仁酒輔料效力未量化。研究克数應明記鲜根、加工後饮片或取汁等稱量階段，不能宣稱等價。"
+        },
+        {
+          "profiles": [
+            "banxia-jiangban-bby",
+            "banxia-fanqu-bby"
+          ],
+          "status": "historical_workflow_only",
+          "note": "姜拌不等同現代姜半夏，礬曲不等同清半夏；毒性、安全及現代規格未核定。礬曲含辅料，不能把质量當纯半夏成分量。"
+        },
+        {
+          "profiles": [
+            "ganjiang-sheng-bby",
+            "ganjiang-pao-bby",
+            "ganjiang-hei-bby"
+          ],
+          "status": "branch_specific_text_supported",
+          "note": "生溫、炮大熱分述，炮黑只錄止吐衄語詞且性味維持未知；未把神農輯本干薑身份替換為備要合條身份。"
+        },
+        {
+          "profiles": [
+            "fuzi-sheng-bby",
+            "fuzi-shu-bby",
+            "fuzi-wei-bby"
+          ],
+          "status": "conservative_unknown_properties_retained",
+          "note": "生發散、熟峻補分述；水浸麵裹煨流程不继承熟用属性，不映射白附片或白附子，不据去火毒原词推现代安全。"
+        },
+        {
+          "profiles": [
+            "shengjiang-daozhi-bby"
+          ],
+          "status": "qualified_partial_workflow",
+          "note": "引用段後續與黃明膠熬為外用配伍，資料已明記只摘搗汁操作；不是一般服用或完整製造工藝。"
+        },
+        {
+          "profiles": [
+            "zhizi-sheng-bby",
+            "zhizi-chahei-bby",
+            "zhizi-jiangchao-bby"
+          ],
+          "status": "branch_specific_text_supported",
+          "note": "生用、炒黑、薑汁炒功用分述；一般苦寒未直接繼承到所有分支。"
+        }
+      ]
+    }
+  },
+  "requiredCorrections": [
+    {
+      "priority": "high",
+      "id": "conditional-gancao",
+      "finding": "甘草原條 nature 是生平／炙溫；若選擇制法仍套用整條通用標籤，会混入另一分支的屬性。",
+      "action": "生用及炙用各綁定明确原句；未記錄狀態維持條件未決。炙字不自動擴展成蜜炙。"
+    },
+    {
+      "priority": "high",
+      "id": "ginger-processing-branches",
+      "finding": "乾薑、黑姜合併章條已有生用辛溫、炮則辛苦大熱、炮黑止血的分别敘述；另輯本干薑不是已認證的同一現代材料。",
+      "action": "保留不同來源与分支，按明确语句绑性质和功效，勿把整条全部词汇套到每种制法。生薑与薑皮、干/熟地黃同样不能互換。"
+    },
+    {
+      "priority": "high",
+      "id": "identity-before-processing",
+      "finding": "制法只描述材料处理；不能补足未核定物种、部位及古今名稱差異。",
+      "action": "白附子与附子维持不同材料，炮附子不推定现代炮附片；出示来源身份未核定及加工品标准未知。"
+    },
+    {
+      "priority": "high",
+      "id": "no-safety-erasure",
+      "finding": "半夏姜拌与附子古法包含历史减毒言辞，但没有现代产品检验终点或临床安全证据。",
+      "action": "选炮制分支与更改克数都不得清除原毒性/身份警示；来源『去火毒』『制其毒』只作历史声称。"
+    },
+    {
+      "priority": "high",
+      "id": "mass-is-not-dose",
+      "finding": "原方含兩、錢、升、枚和各式制备注记，未提供统一现代质量基准；研究输入克数不等于原方或成人一日量。",
+      "action": "保留古单位原文。克数默认空，用户填研究质量，明确称量阶段；只在全方质量完整时展示质量份额。缺失不作0，未记量与无此材料分开。"
+    },
+    {
+      "priority": "medium",
+      "id": "stage-and-yield",
+      "finding": "净制、干燥、浸润、辅料混合和提取会改变称量对象；相同克数不保证同一干物质或有效成分质量。",
+      "action": "记录质量基准、批次及工艺参数。明确未知温度、时间、辅料质量、含水率、出料率、提取率，不默认为0或由文字性质推算。"
+    },
+    {
+      "priority": "medium",
+      "id": "no-global-processing-multiplier",
+      "finding": "现代研究显示不同化合物变化方向各异，传统药性标签亦不是测得的化学浓度或物理温度。",
+      "action": "仅展示来源限定的分支类别及文本编码；不使用炒×1.2、蜜炙×1.3之类统一倍率。质量加权只能称文献标签的质量权重描述，不能称生物效力或合成药性预测。"
+    },
+    {
+      "priority": "medium",
+      "id": "process-order-and-source",
+      "finding": "原方处理注记、典籍药材工艺与用户研究记录来自不同层次。",
+      "action": "分别保留原方注记、来源工艺及用户选法/参数；步骤按原文顺序展现。原文未述的温度、时间、循环和辅料不得补写为典籍步骤。"
+    }
+  ],
+  "cannotClaim": [
+    "任一现代药材身份或生产标准已获认证",
+    "选炮製法后毒性消失或低克数即可安全",
+    "历史兩錢可无版本条件直接换成克",
+    "寒热编码的克数加权值就是实际药效或化学测量",
+    "根据当前文字模型得到了可服用的剂量",
+    "已录步骤是一套可用于生产或自行制备的完整操作规程",
+    "284方文本模型在未按制法训练的情况下可预测炮制后疗效"
+  ],
+  "massPolicyReasoning": {
+    "status": "research_platform_design_inference",
+    "basis": "现有数据保留历史单位、古籍身份未核定，现代研究明确制法条件和测量对象；据此将克数只作为用户记录质量而非来源已证明服用量。",
+    "clinicalDoseModel": "not_implemented",
+    "historicalUnitConversion": "not_implemented",
+    "globalProcessingMultiplier": "not_implemented"
+  },
+  "modelAudit": {
+    "checkedCommand": "node checks/verify-processing.cjs",
+    "passedCheckGroups": 21,
+    "status": "passed_final_processing_model",
+    "additionalFinding": {
+      "issue": "加工後derived rawText較短，繼承毒性引用仍曾以rawText舊字位作基準。",
+      "resolution": "模型代理已保留originalMaterialRawText與SourceId，繼承毒性字位改指原材料原文並加herbId；獨立再跑17組檢查通過。"
+    },
+    "coverage": "分支適用性、來源字位、缺失屬性與克數、質量加權、無毒性消除、匯出記錄格式及不修改原始資料。",
+    "notVerified": [
+      "現代實物與批次",
+      "炮製品質檢測終點",
+      "化學成分實測",
+      "服用量和臨床療效",
+      "原刊影像校勘"
+    ]
+  },
+  "remainingPracticalLimits": [
+    "來源原方乾薑主要映射神農輯本ganjiang-historical，備要乾薑/黑姜新分支只適用其本身条目；不自动轉換古今或跨来源身份。",
+    "克数缺失或未记称量階段，不提供提取物、干物质、辅料留存或有效成分的质量估计。",
+    "已录方的文本反推未以现场工艺参数或克数重新训练、验证；不宣稱能预测改变工艺后的实际药性。"
+  ],
+  "sourceRetrievalCrossCheck": {
+    "report": "research/processing/source-checks.json",
+    "provider": "processing_sources agent",
+    "rawQuotePresence": "56/56 sourceQuote entries present in freshly retrieved whitespace-normalized Wikisource text",
+    "wikisourceHttpStatus": 200,
+    "wikisourceResponseSha256": "7c498e7d6e56d364e2a573d290b3bfd193ccf757be75c79aa12683d0036df41c",
+    "official2025AnnouncementHttpStatus": 200,
+    "hunanNotice": "來源代理已實開網頁正文；CLI GET因OpenSSL BAD_ECPOINT失敗，未宣稱全部GET核驗通過。",
+    "limitation": "取得與引句存在性不能證明原刊轉錄校勘、現代標準對應或臨床藥性。"
+  },
+  "integrationAudit": {
+    "status": "reviewed_issues_fixed",
+    "reviewedFiles": {
+      "dist/app.js": "662a38fa13435b08e3ddf17b2b25efac939b7291e83ca5be45a735cd494db950",
+      "dist/processing-ui.js": "a05bcd4e94e84eeb76be3b032f4e3714476472e8d9b4eddd313046e5d61b9be9",
+      "dist/processing-model.js": "67c03a78303afb412ef44e39034c62fde47fca3fbfa2f377d4e764efa6539fca",
+      "dist/research-ui.js": "1a2553baea8c6b43b73279fed866e805e1106648d4545ec1fffa47e94f41a7e7",
+      "dist/inference-ui.js": "db7f6ad79ae05e644d5ec1e2f79c477a8c3ba311519affe67f8349c62c5b9763"
+    },
+    "scope": "獨立靜態閱讀互動與匯出路徑；以真實研究資料重跑加工模型21組檢查及來源方排除的純模型重現。GUI試驗由root另執行並留證。",
+    "checks": [
+      "非法或缺失克數在模型為未知；工作台驗證阻擋非法DOM輸入；未完整時整方质量分布与quant均不產生。",
+      "所選分支缺屬性與自訂工藝不繼承泛稱本草性味；溫度、時間、媒介實錄不進屬性係數。",
+      "警示與毒性依原始材料資料核對；克數、炮製和自訂工藝不能移除提示。",
+      "工作台以選擇及基準與上次模擬快照比較；改動標出待更新，舊警示隱藏。",
+      "工作台匯出重新計算當前記錄；存實錄質量、稱量階段、工藝實錄及所選分支依據。",
+      "特性量化頁使用加工後來源屬性與當前計量基準；未完整克數保留未知，尺度設定傳至同一模型。",
+      "反推頁明示工作台的炮製分支、克數與實錄參數未納入訓練，不宣稱改工藝可改推估分數。",
+      "工藝視窗取消不更改保存值；保存經模型驗證後更新當前記錄。"
+    ],
+    "resolvedFindings": [
+      {
+        "priority": "high",
+        "id": "staged-source-family-exclusion",
+        "finding": "新增原方載入可映射子集後，工作台反推未帶來源方ID，集合不完整時可能把來源方及同族留在訓練。",
+        "reproduction": {
+          "formula": "桂枝湯",
+          "sourceElements": 5,
+          "mappedWorkbenchRows": 4,
+          "beforeTrainingRecords": 284,
+          "beforeTrainingGroups": 228,
+          "beforeExcludedRecords": 0,
+          "afterTrainingRecords": 263,
+          "afterTrainingGroups": 227,
+          "afterExcludedRecords": 21
+        },
+        "resolution": "root新增excludedQueryFormula，僅在來源ID存在新增語料時排除來源整組；套用predict及元素關聯，並把origin ID加入快照失效判斷。已靜態確認新路徑；root另在實際介面確認263/227與近似案例排除。"
+      },
+      {
+        "priority": "low",
+        "id": "empty-mass-summary",
+        "finding": "空工作台曾顯示克數完整與全方0g，與模型gramsComplete=false不一致。",
+        "resolution": "root已改未加入材料／尚無全方實錄質量，靜態與root介面留證確認。"
+      }
+    ],
+    "rootInterfaceEvidence": "review/processing-ui-validation.json",
+    "remainingBlockingFindings": []
+  }
+}

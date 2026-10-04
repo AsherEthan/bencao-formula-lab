@@ -1,0 +1,5127 @@
+[
+  {
+    "sourceId": "jc-6490b1a098ab",
+    "name": "桂枝麻黃各半湯",
+    "nameStart": 12467,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "桂枝麻黃各半湯方\n桂枝（一兩十六銖，去皮） 芍藥 生薑（切） 甘草（炙） 麻黃（去節，各一兩） 大棗（四枚，擘） 杏仁（二十四枚，湯浸，去皮尖及兩仁者）\n右七味，以水五升，先煮麻黃一二沸，去上沫，內諸藥，煮取一升八合，去滓，溫服六合。本云：桂枝湯三合，麻黃湯三合，併為六合，頓服。將息如上法。",
+      "start": 12467,
+      "end": 12613,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-6490b1a098ab.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-6490b1a098ab",
+    "name": "桂枝二麻黃一湯",
+    "nameStart": 12696,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "桂枝二麻黃一湯方\n桂枝（一兩十七銖，去皮） 芍藥（一兩六銖） 麻黃（十六銖，去節） 生薑（一兩六銖，切） 杏仁（十六個，去皮尖） 甘草（一兩二銖，炙） 大棗（五枚，擘）\n右七味，以水五升，先煮麻黃一二沸，去上沫，內諸藥，煮取二升，去滓，溫服一升，日再服。本云：桂枝湯二分，麻黃湯一分，合為二升，分再服。今後合為一方。將息如前法。",
+      "start": 12696,
+      "end": 12860,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-6490b1a098ab.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-6490b1a098ab",
+    "name": "桂枝二越婢一湯",
+    "nameStart": 13010,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "桂枝二越婢一湯方\n桂枝（去皮） 芍藥 麻黃 甘草（炙，各十八銖） 大棗（四枚，擘） 生薑（一兩二銖，切） 石膏（二十四銖，碎，綿裹）\n右七味，以水五升，煮麻黃一二沸，去上沫，內諸藥，煮取二升，去滓，溫服一升。本云：當裁為越婢湯、桂枝湯，合之飲一升，今合為一方，桂枝二分，越婢湯一分。",
+      "start": 13010,
+      "end": 13151,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-6490b1a098ab.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-6490b1a098ab",
+    "name": "甘草乾薑湯",
+    "nameStart": 13431,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "甘草乾薑湯方\n甘草（四兩，炙） 乾薑（二兩）\n右二味，以水三升，煮取一升五合，去滓，分溫再服。",
+      "start": 13431,
+      "end": 13478,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-6490b1a098ab.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-6490b1a098ab",
+    "name": "芍藥甘草湯",
+    "nameStart": 13479,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "芍藥甘草湯方\n芍藥 甘草（炙，各四兩）\n右二味，以水三升，煮取一升五合，去滓，分溫再服。",
+      "start": 13479,
+      "end": 13523,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-6490b1a098ab.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-6490b1a098ab",
+    "name": "調胃承氣湯",
+    "nameStart": 13524,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "調胃承氣湯方\n甘草（二兩，炙） 芒硝（半升） 大黃（四兩，清酒洗）\n右三味，以水三升，煮取一升，去滓，內芒硝，更上火微煮令沸，少少溫服之。",
+      "start": 13524,
+      "end": 13593,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-6490b1a098ab.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-6490b1a098ab",
+    "name": "四逆湯",
+    "nameStart": 13594,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "四逆湯方\n甘草（二兩，炙） 乾薑（一兩半） 附子（一枚，生用，去皮，破八片）\n右三味，以水三升，煮取一升二合，去滓，分溫再服。強人可大附子一枚、乾薑三兩。",
+      "start": 13594,
+      "end": 13671,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-6490b1a098ab.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-6490b1a098ab",
+    "name": "桂枝加芍藥生薑各一兩人參三兩新加湯",
+    "nameStart": 16212,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "桂枝加芍藥生薑各一兩人參三兩新加湯方\n桂枝（三兩，去皮） 芍藥（四兩） 甘草（二兩，炙） 人參（三兩） 大棗（十二枚，擘） 生薑（四兩）\n右六味，以水一斗二升，煮取三升，去滓，溫服一升。本云：桂枝湯，今加芍藥、生薑、人參。",
+      "start": 16212,
+      "end": 16323,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-6490b1a098ab.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-6490b1a098ab",
+    "name": "麻黃杏仁甘草石膏湯",
+    "nameStart": 16359,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "麻黃杏仁甘草石膏湯方\n麻黃（四兩，去節） 杏仁（五十個，去皮尖） 甘草（二兩，炙） 石膏（半斤，碎、綿裹）\n右四味，以水七升，煮麻黃，減二升，去上沫，內諸藥，煮取二升，去滓，溫服一升。",
+      "start": 16359,
+      "end": 16451,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-6490b1a098ab.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-6490b1a098ab",
+    "name": "小建中湯",
+    "nameStart": 19247,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "小建中湯方\n桂枝（三兩，去皮） 甘草（二兩，炙） 大棗（二十枚，擘） 芍藥（六兩） 生薑（三兩，切） 膠飴（一升）\n右六味，以水七升，煮取三升，去滓，內飴，更上微火消解，溫服一升，日三服。嘔家不可用建中湯，以甜故也。",
+      "start": 19247,
+      "end": 19355,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-6490b1a098ab.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-6490b1a098ab",
+    "name": "大柴胡湯",
+    "nameStart": 19504,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "大柴胡湯方\n柴胡（半斤） 黃芩（三兩） 芍藥（三兩） 半夏（半升，洗） 生薑（五兩，切） 枳實（四枚，炙） 大棗（十二枚，擘）\n右七味，以水一斗二升，煮取六升，去滓，再煎，溫服一升，日三服。一方加大黃二兩，若不加，恐不為大柴胡湯。",
+      "start": 19504,
+      "end": 19619,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-6490b1a098ab.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-6490b1a098ab",
+    "name": "柴胡加芒硝湯",
+    "nameStart": 19708,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "柴胡加芒硝湯方\n柴胡（二兩十六銖） 黃芩（一兩） 人參（一兩） 甘草（一兩，炙） 生薑（一兩，切） 半夏（二十銖，本云五枚，洗） 大棗（四枚，擘） 芒硝（二兩）\n右八味，以水四升，煮取二升，去滓，內芒硝，更煮微沸，分溫再服。不解，更作。",
+      "start": 19708,
+      "end": 19826,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-6490b1a098ab.txt"
+    },
+    "reasons": [
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-6490b1a098ab",
+    "name": "桃核承氣湯",
+    "nameStart": 19981,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "桃核承氣湯方\n桃仁（五十個，去皮尖） 大黃（四兩） 桂枝（二兩，去皮） 甘草（二兩，炙） 芒硝（二兩）\n右五味，以水七升，煮取二升半，去滓，內芒硝，更上火微沸，下火，先食溫服五合，日三服，當微利。",
+      "start": 19981,
+      "end": 20079,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-6490b1a098ab.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-6490b1a098ab",
+    "name": "桂枝加桂湯",
+    "nameStart": 21053,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "桂枝加桂湯方\n桂枝（五兩，去皮） 芍藥（三兩） 生薑（三兩，切） 甘草（二兩，炙） 大棗（十二枚，擘）\n右五味，以水七升，煮取三升，去滓，溫服一升。本云：桂枝湯，今加桂滿五兩。所以加桂者，以泄奔豚氣也。",
+      "start": 21053,
+      "end": 21154,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-6490b1a098ab.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-6490b1a098ab",
+    "name": "抵當丸",
+    "nameStart": 21790,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "抵當丸方\n水蛭（二十個，熬） 虻蟲（二十個，去翅足，熬） 桃仁（二十五個，去皮尖） 大黃（三兩）\n右四味，搗分四丸，以水一升煮一丸，取七合服之。晬時當下血，若不下者，更服。",
+      "start": 21790,
+      "end": 21876,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-6490b1a098ab.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-6490b1a098ab",
+    "name": "大陷胸丸",
+    "nameStart": 22111,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "大陷胸丸方\n大黃（半斤） 葶藶子（半升，熬） 芒硝（半升） 杏仁（半升，去皮尖，熬黑）\n右四味，搗篩二味，內杏仁、芒硝，合研如脂，和散，取如彈丸一枚；別搗甘遂末一錢匕，白蜜二合，水二升，煮取一升，溫，頓服之。一宿乃下。如不下，更服，取下為效。禁如藥法。",
+      "start": 22111,
+      "end": 22237,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-6490b1a098ab.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-6490b1a098ab",
+    "name": "文蛤散",
+    "nameStart": 23029,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "文蛤散方\n文蛤（五兩）\n右一味，為散，以沸湯和一方寸匕服，湯用五合。",
+      "start": 23029,
+      "end": 23063,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-6490b1a098ab.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-6490b1a098ab",
+    "name": "三物白散",
+    "nameStart": 23064,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "三物白散方\n桔梗（三分） 巴豆（一分，去皮心，熬黑，研如脂） 貝母（三分）\n右三味，為散，內巴豆更於臼中杵之，以白飲和服。強人半錢匕，羸者減之。病在膈上必吐，在膈下必利。不利，進熱粥一杯；利過不止，進冷粥一杯。",
+      "start": 23064,
+      "end": 23169,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-6490b1a098ab.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-6490b1a098ab",
+    "name": "半夏瀉心湯",
+    "nameStart": 24029,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "半夏瀉心湯方\n半夏（半升，洗） 黃芩 乾薑 人參 甘草（炙，各三兩） 黃連（一兩） 大棗（十二枚，擘）\n右七味，以水一斗，煮取六升，去滓，再煎取三升，溫服一升，日三服。",
+      "start": 24029,
+      "end": 24113,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-6490b1a098ab.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-6490b1a098ab",
+    "name": "瓜蒂散",
+    "nameStart": 25676,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "瓜蒂散方\n瓜蒂（一分，熬黃） 赤小豆（一分）\n右二味，各別搗篩，為散已，合治之，取一錢匕。以香豉一合，用熱湯七合，煮作稀糜，去滓。取汁合散，溫，頓服之。不吐者，少少加；得快吐，乃止。諸亡血、虛家，不可與瓜蒂散。",
+      "start": 25676,
+      "end": 25781,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-6490b1a098ab.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-6490b1a098ab",
+    "name": "黃芩湯",
+    "nameStart": 26009,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "黃芩湯方\n黃芩（三兩） 芍藥（二兩） 甘草（二兩，炙） 大棗（十二枚，擘）\n右四味，以水一斗，煮取三升，去滓，溫服一升，日再、夜一服。",
+      "start": 26009,
+      "end": 26076,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-6490b1a098ab.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-6490b1a098ab",
+    "name": "小承氣湯",
+    "nameStart": 28488,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "小承氣湯方\n大黃（四兩，酒洗） 厚朴（二兩，炙，去皮） 枳實（三枚，大者，炙）\n右三味，以水四升，煮取一升二合，去滓，分溫二服。初服當更衣，不爾者盡飲之，若更衣者，勿服之。",
+      "start": 28488,
+      "end": 28574,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-6490b1a098ab.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-6490b1a098ab",
+    "name": "蜜煎導",
+    "nameStart": 29948,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "蜜煎導方\n食蜜（七合）\n右一味。於銅器內，微火煎，當須凝如飴狀，攪之勿令焦著，欲可丸。並手捻作挺，令頭銳，大如指，長二寸許，當熱時急作，冷則鞕。以內穀道中，以手急抱，欲大便時乃去之。",
+      "start": 29948,
+      "end": 30039,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-6490b1a098ab.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-6490b1a098ab",
+    "name": "土瓜根",
+    "nameStart": 30040,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "土瓜根方\n已佚",
+      "start": 30040,
+      "end": 30047,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-6490b1a098ab.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link",
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-6490b1a098ab",
+    "name": "豬膽汁",
+    "nameStart": 30048,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "豬膽汁方\n又大豬膽一枚，瀉汁，和少許法醋，以灌穀道內。如一食頃，當大便出宿食惡物，甚效。",
+      "start": 30048,
+      "end": 30092,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-6490b1a098ab.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link",
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-6490b1a098ab",
+    "name": "麻黃附子甘草湯",
+    "nameStart": 33331,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "麻黃附子甘草湯方\n麻黃（二兩，去節） 甘草（二兩，炙） 附子（一枚，炮，去皮，破八片）\n右三味，以水七升，先煮麻黃一兩沸，去上沫，內諸藥，煮取三升，去滓，溫服一升，日三服。",
+      "start": 33331,
+      "end": 33417,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-6490b1a098ab.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-6490b1a098ab",
+    "name": "甘草湯",
+    "nameStart": 33964,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "甘草湯方\n甘草（二兩）\n右一味，以水三升，煮取一升半，去滓，溫服七合，日二服。",
+      "start": 33964,
+      "end": 34003,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-6490b1a098ab.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-6490b1a098ab",
+    "name": "桔梗湯",
+    "nameStart": 34004,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "桔梗湯方\n桔梗（一兩） 甘草（二兩）\n右二味，以水三升，煮取一升，去滓，溫分再服。",
+      "start": 34004,
+      "end": 34045,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-6490b1a098ab.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-6490b1a098ab",
+    "name": "當歸四逆加吳茱萸生薑湯",
+    "nameStart": 36727,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "當歸四逆加吳茱萸生薑湯方\n當歸（三兩） 芍藥（三兩） 甘草（二兩，炙） 通草（二兩） 大棗（二十五枚，擘） 桂枝（三兩，去皮） 細辛（三兩） 生薑（半斤，切） 吳茱萸（二升）\n右九味，以水六升、清酒六升和，煮取五升，去滓，溫分五服。一方，水、酒各四升。",
+      "start": 36727,
+      "end": 36853,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-6490b1a098ab.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-6490b1a098ab",
+    "name": "燒褌散",
+    "nameStart": 38967,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "燒褌散方\n婦人中褌，近隱處，取燒作灰。\n右一味，水服方寸匕。日三服。小便即利，陰頭微腫，此為愈矣。婦人病，取男子褌燒服。",
+      "start": 38967,
+      "end": 39027,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-6490b1a098ab.txt"
+    },
+    "reasons": [
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-6490b1a098ab",
+    "name": "桂枝加葛根湯主之",
+    "nameStart": 42496,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "桂枝加葛根湯主之方\n葛根（四兩） 芍藥（二兩） 甘草（二兩） 生薑（三兩，切） 大棗（十二枚，擘） 桂枝（二兩，去皮） 麻黃（三兩，去節）\n右七味，以水一斗，先煮麻黃、葛根，減二升，去上沫，內諸藥，煮取三升，去滓，溫服一升，覆取微似汗，不須啜粥，餘如桂枝法。",
+      "start": 42496,
+      "end": 42625,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-6490b1a098ab.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-6490b1a098ab",
+    "name": "桂枝加厚朴杏子湯",
+    "nameStart": 42626,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "桂枝加厚朴杏子湯方\n於桂枝湯方內，加厚朴二兩，杏仁五十個，去皮尖，餘依前法。",
+      "start": 42626,
+      "end": 42664,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-6490b1a098ab.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link",
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-6490b1a098ab",
+    "name": "桂枝加附子湯",
+    "nameStart": 42665,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "桂枝加附子湯方\n於桂枝湯方內，加附子一枚，炮，去皮，破八片，餘依前法。朮附湯方，附於此方內，去桂枝，加白朮四兩，依前法。",
+      "start": 42665,
+      "end": 42725,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-6490b1a098ab.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link",
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-6490b1a098ab",
+    "name": "桂枝去芍藥湯",
+    "nameStart": 42726,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "桂枝去芍藥湯方\n於桂枝湯方內，去芍藥，餘依前法。",
+      "start": 42726,
+      "end": 42750,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-6490b1a098ab.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link",
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-6490b1a098ab",
+    "name": "桂枝去芍藥加附子湯",
+    "nameStart": 42751,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "桂枝去芍藥加附子湯方\n於桂枝湯方內，去芍藥，加附子一枚，炮，去皮，破八片，餘依前法。",
+      "start": 42751,
+      "end": 42793,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-6490b1a098ab.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link",
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-6490b1a098ab",
+    "name": "桂枝麻黃各半湯",
+    "nameStart": 42794,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "桂枝麻黃各半湯方\n桂枝（一兩十六銖，去皮） 芍藥 生薑（切） 甘草（炙） 麻黃（各一兩，去節） 大棗（四枚，擘） 杏仁（二十四個，湯浸，去皮尖及兩仁者）\n右七味，以水五升，先煮麻黃一二沸，去上沫，內諸藥，煮取一升八合，去滓，溫服六合。",
+      "start": 42794,
+      "end": 42911,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-6490b1a098ab.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-6490b1a098ab",
+    "name": "桂枝二麻黃一湯",
+    "nameStart": 42912,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "桂枝二麻黃一湯方\n桂枝（一兩十七銖，去皮） 芍藥（一兩六銖） 麻黃（十六銖，去節） 生薑（一兩六銖，切） 杏仁（十六個，去皮尖） 甘草（一兩二銖，炙） 大棗（五枚，擘）\n右七味，以水五升，先煮麻黃一二沸，去上沫，內諸藥，煮取二升，去滓，溫服一升，日再服。",
+      "start": 42912,
+      "end": 43039,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-6490b1a098ab.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-6490b1a098ab",
+    "name": "白虎加人參湯",
+    "nameStart": 43040,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "白虎加人參湯方\n於白虎湯方內，加人參三兩，餘依白虎湯法。",
+      "start": 43040,
+      "end": 43068,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-6490b1a098ab.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link",
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-6490b1a098ab",
+    "name": "桂枝去桂加茯苓白朮湯",
+    "nameStart": 43069,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "桂枝去桂加茯苓白朮湯方\n於桂枝湯方內，去桂枝，加茯苓、白朮各三兩，餘依前法煎服。小便利則愈。",
+      "start": 43069,
+      "end": 43115,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-6490b1a098ab.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link",
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-6490b1a098ab",
+    "name": "葛根加半夏湯",
+    "nameStart": 43131,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "葛根加半夏湯方\n於葛根湯方內，加入半夏半升，餘依葛根湯法。",
+      "start": 43131,
+      "end": 43160,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-6490b1a098ab.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link",
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-6490b1a098ab",
+    "name": "桂枝加芍藥生薑人參新加湯",
+    "nameStart": 43161,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "桂枝加芍藥生薑人參新加湯方\n於第二卷桂枝湯方內，更加芍藥、生薑各一兩，人參三兩，餘依桂枝湯法服。",
+      "start": 43161,
+      "end": 43209,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-6490b1a098ab.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link",
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-6490b1a098ab",
+    "name": "梔子甘草豉湯",
+    "nameStart": 43210,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "梔子甘草豉湯方\n於梔子豉湯方內，加入甘草二兩，餘依前法。得吐，止後服。",
+      "start": 43210,
+      "end": 43245,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-6490b1a098ab.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link",
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-6490b1a098ab",
+    "name": "梔子生薑豉湯",
+    "nameStart": 43246,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "梔子生薑豉湯方\n於梔子豉湯方內，加生薑五兩，餘依前法。得吐，止後服。",
+      "start": 43246,
+      "end": 43280,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-6490b1a098ab.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link",
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-6490b1a098ab",
+    "name": "柴胡加芒硝湯",
+    "nameStart": 43281,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "柴胡加芒硝湯方\n於小柴胡湯方內，加芒硝六兩，餘依前法。服不解，更服。",
+      "start": 43281,
+      "end": 43315,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-6490b1a098ab.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link",
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-6490b1a098ab",
+    "name": "桂枝加桂湯",
+    "nameStart": 43316,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "桂枝加桂湯方\n於第二卷桂枝湯方內，更加桂二兩，共五兩，餘依前法。",
+      "start": 43316,
+      "end": 43348,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-6490b1a098ab.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link",
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-6490b1a098ab",
+    "name": "柴胡桂枝湯",
+    "nameStart": 43364,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "柴胡桂枝湯方\n桂枝（去皮） 黃芩 人參（各一兩半） 甘草（一兩，炙） 半夏（二合半） 芍藥（一兩半） 大棗（六枚，擘） 生薑（一兩半，切） 柴胡（四兩）\n右九味，以水七升，煮取三升，去滓，溫服。",
+      "start": 43364,
+      "end": 43461,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-6490b1a098ab.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-6490b1a098ab",
+    "name": "附子瀉心湯",
+    "nameStart": 43462,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "附子瀉心湯方\n大黃（二兩） 黃連 黃芩（各一兩） 附子（一枚，炮，去皮，破，別煮取汁）\n右四味，切三味，以麻沸湯二升漬之，須臾，絞去滓，內附子汁，分溫再服。",
+      "start": 43462,
+      "end": 43540,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-6490b1a098ab.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-6490b1a098ab",
+    "name": "生薑瀉心湯",
+    "nameStart": 43541,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "生薑瀉心湯方\n生薑（四兩，切） 甘草（三兩，炙） 人參（三兩） 乾薑（一兩） 黃芩（三兩） 半夏（半升，洗） 黃連（一兩） 大棗（十二枚）\n右八味，以水一斗，煮取六升，去滓，再煎，取三升，溫服一升，日三服。",
+      "start": 43541,
+      "end": 43644,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-6490b1a098ab.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-6490b1a098ab",
+    "name": "甘草瀉心湯",
+    "nameStart": 43645,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "甘草瀉心湯方\n甘草（四兩） 黃芩（三兩） 乾薑（三兩） 半夏（半升，洗） 黃連（一兩） 大棗（十二枚，擘）\n右六味，以水一斗，煮取六升，去滓，再煎取三升，溫服一升，日三服。",
+      "start": 43645,
+      "end": 43731,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-6490b1a098ab.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-6490b1a098ab",
+    "name": "黃芩加半夏生薑湯",
+    "nameStart": 43732,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "黃芩加半夏生薑湯方\n於黃芩湯方內，加半夏半升，生薑一兩半，餘依黃芩湯法服。",
+      "start": 43732,
+      "end": 43769,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-6490b1a098ab.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link",
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-6490b1a098ab",
+    "name": "桂枝加大黃湯",
+    "nameStart": 43785,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "桂枝加大黃湯方\n桂枝（三兩，去皮） 大黃（一兩） 芍藥（六兩） 生薑（三兩，切） 甘草（二兩，炙） 大棗（十二枚，擘）\n右六味，以水七升，煮取三升，去滓，溫服一升，日三服。",
+      "start": 43785,
+      "end": 43871,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-6490b1a098ab.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-6490b1a098ab",
+    "name": "桂枝加芍藥湯",
+    "nameStart": 43872,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "桂枝加芍藥湯方\n於第二卷桂枝湯方內，更加芍藥三兩，隨前共六兩，餘依桂枝湯法。",
+      "start": 43872,
+      "end": 43910,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-6490b1a098ab.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link",
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-6490b1a098ab",
+    "name": "四逆加吳茱萸生薑湯",
+    "nameStart": 43911,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "四逆加吳茱萸生薑湯方\n當歸（二兩） 芍藥（三兩） 甘草（二兩，炙） 通草（二兩） 桂枝（三兩，去皮） 細辛（三兩） 生薑（半斤，切） 大棗（二十五枚，擘） 吳茱萸（二升）\n右九味，以水六升，清酒六升，和煮，取五升，去滓，溫分五服。一方水酒各四升。",
+      "start": 43911,
+      "end": 44034,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-6490b1a098ab.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-6490b1a098ab",
+    "name": "四逆加人參湯",
+    "nameStart": 44050,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "四逆加人參湯方\n於四逆湯方內，加人參一兩，餘依四逆湯法服。",
+      "start": 44050,
+      "end": 44079,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-6490b1a098ab.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link",
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-6490b1a098ab",
+    "name": "四逆加豬膽汁湯",
+    "nameStart": 44080,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "四逆加豬膽汁湯方\n於四逆湯方內，加入豬膽汁半合，餘依前法服；如無豬膽，以羊膽代之。",
+      "start": 44080,
+      "end": 44121,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-6490b1a098ab.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link",
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-c0bbb390fb81",
+    "name": "大承氣湯",
+    "nameStart": 3389,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "大承氣湯方：\n大黃（四兩，酒洗） 厚朴（半斤，炙去皮） 枳實（五枚） 芒硝（三合）\n右四味，以水一斗，先煮枳樸，取五升，去滓，內大黃，煮取二升，去滓，內芒硝，更上微火一二沸，分溫再服，得下止服。",
+      "start": 3389,
+      "end": 3486,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-c0bbb390fb81.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-c0bbb390fb81",
+    "name": "麻黃加朮湯",
+    "nameStart": 3884,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "麻黃加朮湯方：\n麻黃（三兩，去節） 桂枝（二兩，去皮） 甘草（二兩，炙） 杏仁（七十個，去皮尖） 白朮（四兩）\n右五味，以水九升，先煮麻黃，減二升，去上沫，內諸藥，煮取二升半，去滓，溫服八合，覆取微似汗。",
+      "start": 3884,
+      "end": 3986,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-c0bbb390fb81.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-c0bbb390fb81",
+    "name": "麻黃杏仁薏苡甘草湯",
+    "nameStart": 4038,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "麻黃杏仁薏苡甘草湯方\n麻黃（去節，半兩，湯泡） 甘草（一兩，炙） 薏苡仁（半兩） 杏仁（十個，去皮尖，炒）\n右銼麻豆大，每服四錢匕，水盞半，煮八分，去滓，溫服，有微汗，避風。",
+      "start": 4038,
+      "end": 4125,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-c0bbb390fb81.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-c0bbb390fb81",
+    "name": "百合知母湯",
+    "nameStart": 5420,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "百合知母湯方：\n百合（七枚，擘） 知母（三兩，切）\n右先以水洗百合，漬一宿，當白沫出，去其水，更以泉水二升，煎取一升，去滓；別以泉水二升煎知母，取一升，去滓；後合和，煎取一升五合，分溫再服。",
+      "start": 5420,
+      "end": 5515,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-c0bbb390fb81.txt"
+    },
+    "reasons": [
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-c0bbb390fb81",
+    "name": "滑石代赭湯",
+    "nameStart": 5533,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "滑石代赭湯方：\n百合（七枚，擘） 滑石（三兩，碎，綿裹） 代赭石（如彈丸大一枚，碎，綿裹）\n右先以水洗百合，漬一宿，當白沫出，去其水，更以泉水二升，煎取一升，去滓；別以泉水二升煎滑石、代赭，取一升，去滓；後合和重煎，取一升五合，分溫服。",
+      "start": 5533,
+      "end": 5651,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-c0bbb390fb81.txt"
+    },
+    "reasons": [
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-c0bbb390fb81",
+    "name": "百合雞子湯",
+    "nameStart": 5668,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "百合雞子湯方：\n百合（七枚，擘） 雞子黃.（一枚.）\n右先以水洗百合，漬一宿，當白沫出，去其水，更以泉水二升，煎取一升，去滓，內雞子黃，攪勻，煎五分，溫服。",
+      "start": 5668,
+      "end": 5746,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-c0bbb390fb81.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link",
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-c0bbb390fb81",
+    "name": "百合地黃湯",
+    "nameStart": 5775,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "百合地黃湯方：\n百合（七枚，擘） 生地黃汁.（一升.）\n右以水洗百合，漬一宿，當白沫出，去其水，更以泉水二升，煎取一升，去滓，內地黃汁，煎取一升五合，分溫再服。中病，勿更服。大便當如漆。",
+      "start": 5775,
+      "end": 5868,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-c0bbb390fb81.txt"
+    },
+    "reasons": [
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-c0bbb390fb81",
+    "name": "百合洗",
+    "nameStart": 5890,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "百合洗方：\n右以百合一升，以水一斗，漬之一宿，以洗身。洗已，食煮餅，勿以鹽豉也。",
+      "start": 5890,
+      "end": 5930,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-c0bbb390fb81.txt"
+    },
+    "reasons": [
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-c0bbb390fb81",
+    "name": "栝蔞牡蠣散",
+    "nameStart": 5947,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "栝蔞牡蠣散方：\n栝蔞根 牡蠣（熬等分）\n右為細末，飲服方寸匕，日三服。",
+      "start": 5947,
+      "end": 5982,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-c0bbb390fb81.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-c0bbb390fb81",
+    "name": "百合滑石散",
+    "nameStart": 6007,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "百合滑石散方：\n百合（一兩，炙） 滑石.（三兩.）\n右為散，飲服方寸匕，日三服。當微利者，止服，熱則除。",
+      "start": 6007,
+      "end": 6059,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-c0bbb390fb81.txt"
+    },
+    "reasons": [
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-c0bbb390fb81",
+    "name": "苦參湯",
+    "nameStart": 6302,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "苦參湯方：\n苦參（一升）\n水一斗，煮取七升，薰洗，日三次。",
+      "start": 6302,
+      "end": 6331,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-c0bbb390fb81.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-c0bbb390fb81",
+    "name": "雄黃薰",
+    "nameStart": 6343,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "雄黃薰方：\n雄黃\n右一味為末，筒瓦二枚合之，燒，向肛熏之。（《脈經》云：病人或從呼吸上蝕其咽，或從下焦蝕其肛陰，蝕上為惑，蝕下為狐，狐惑病者，豬苓散主之。）",
+      "start": 6343,
+      "end": 6421,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-c0bbb390fb81.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link",
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-c0bbb390fb81",
+    "name": "鱉甲煎丸",
+    "nameStart": 6892,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "鱉甲煎丸方：\n鱉甲（十二分，炙） 烏扇（三分，燒） 黃芩（三分） 柴胡（六分） 鼠婦（三分，熬） 乾薑（三分） 大黃（三分） 芍藥（五分） 桂枝（三分） 葶藶（一分，熬） 石葦（三分，去毛） 厚朴（三分） 牡丹（五分，去心） 瞿麥（二分） 紫葳（三分） 半夏（一分） 人參（一分） 䗪蟲（五分，熬） 阿膠（三分，炙） 蜂窩（四分，炙） 赤硝（十二分） 蜣螂（六分，熬） 桃仁（二分）\n右二十三味，為末，取鍛灶下灰一斗，清酒一斛五斗，浸灰，候酒盡一半，著鱉甲於中，煮令泛爛如膠漆，絞取汁，內諸藥，煎為丸，如梧子大，空心服七丸，日三服。",
+      "start": 6892,
+      "end": 7158,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-c0bbb390fb81.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-c0bbb390fb81",
+    "name": "頭風摩散",
+    "nameStart": 8539,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "頭風摩散方：\n大附子（一枚，炮） 鹽（等分）\n右二味為散，沐了，以方寸匕，已摩疢上，令藥力行。",
+      "start": 8539,
+      "end": 8586,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-c0bbb390fb81.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-c0bbb390fb81",
+    "name": "天雄散",
+    "nameStart": 10301,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "天雄散方：\n天雄（三兩，炮） 白朮（八兩） 桂枝（六兩） 龍骨（三兩）\n右四味、杵為散，酒服半錢匕，日三服，不知，稍增之。",
+      "start": 10301,
+      "end": 10362,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-c0bbb390fb81.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-c0bbb390fb81",
+    "name": "酸棗仁湯",
+    "nameStart": 11038,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "酸棗仁湯方：\n酸棗仁（二升） 甘草（一兩） 知母（二兩） 茯苓（二兩） 芎藭（二兩） （深師有生薑二兩）\n右五味，以水八升，煮酸棗仁，得六升，內諸藥，煮取三升，分溫三服。",
+      "start": 11038,
+      "end": 11123,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-c0bbb390fb81.txt"
+    },
+    "reasons": [
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-c0bbb390fb81",
+    "name": "甘草乾薑湯",
+    "nameStart": 12095,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "甘草乾薑湯方：\n甘草（四兩，炙） 乾薑（二兩，炮）\n右㕮咀，以水三升，煮取一升五合，去滓，分溫再服。",
+      "start": 12095,
+      "end": 12145,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-c0bbb390fb81.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-c0bbb390fb81",
+    "name": "射干麻黃湯",
+    "nameStart": 12166,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "射干麻黃湯方：\n射干（十三枚）（一法三兩） 麻黃（四兩） 生薑（四兩） 細辛（三兩） 紫菀（三兩） 款冬花（三兩） 五味子（半升） 大棗（七枚） 半夏大者洗（八枚）（一法半升）\n右九味，以水一斗二升，先煮麻黃兩沸，去上沫，內諸藥，煮取三升，分溫三服。",
+      "start": 12166,
+      "end": 12291,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-c0bbb390fb81.txt"
+    },
+    "reasons": [
+      "missing_or_nonliteral_ingredient_list",
+      "ambiguous_printed_name_or_inline_size_preparation"
+    ]
+  },
+  {
+    "sourceId": "jc-c0bbb390fb81",
+    "name": "烏頭赤石脂丸",
+    "nameStart": 14931,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "烏頭赤石脂丸方：\n蜀椒（一兩）（一法二分） 烏頭（一分，炮） 附子（半兩，炮） 一法（一分） 乾薑（一兩）（一法一分） 赤石脂（一兩）（一法二分）\n右五味，末之，蜜丸如桐子大，先食服一丸，日三服，不知，稍加服。",
+      "start": 14931,
+      "end": 15036,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-c0bbb390fb81.txt"
+    },
+    "reasons": [
+      "incomplete_ingredient_parse_or_declared_count_mismatch"
+    ],
+    "unparsedFragments": [],
+    "parsedIngredientCount": 6,
+    "declaredIngredientCount": 5
+  },
+  {
+    "sourceId": "jc-c0bbb390fb81",
+    "name": "大柴胡湯",
+    "nameStart": 15774,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "大柴胡湯方：\n柴胡（半斤） 黃芩（三兩） 芍藥（三兩） 半夏（半升，洗） 枳實（四枚，炙） 大黃（二兩） 大棗（十二枚） 生薑（五兩）\n右八味：以水一斗二升，煮取六升，去滓，再煎，溫服一升，日三服。",
+      "start": 15774,
+      "end": 15873,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-c0bbb390fb81.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-c0bbb390fb81",
+    "name": "大黃附子湯",
+    "nameStart": 16079,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "大黃附子湯方：\n大黃（三兩） 附子（三枚，炮） 細辛（二兩）\n右三味，以水五升，煮取二升，分溫三服；若強人煮取二升半，分溫三服，服後如人行四、五里，進一服。",
+      "start": 16079,
+      "end": 16157,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-c0bbb390fb81.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-c0bbb390fb81",
+    "name": "烏頭桂枝湯",
+    "nameStart": 16652,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "烏頭桂枝湯方：\n烏頭\n右一味，以蜜二斤，煎減半，去滓，以桂枝湯五合解之，得一升後，初服二合，不知，即服三合；又不知，復加至五合。其知者，如醉狀，得吐者，為中病。",
+      "start": 16652,
+      "end": 16732,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-c0bbb390fb81.txt"
+    },
+    "reasons": [
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-c0bbb390fb81",
+    "name": "瓜蒂散",
+    "nameStart": 17208,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "瓜蒂散方：\n瓜蒂（一分，熬黃） 赤小豆（一分，煮）\n右二味，杵為散，以香豉七合煮取汁，和散一錢匕，溫服之，不吐者少加之，以快吐為度而止。亡血及虛者，不可與之。",
+      "start": 17208,
+      "end": 17287,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-c0bbb390fb81.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-c0bbb390fb81",
+    "name": "甘草乾薑苓朮湯",
+    "nameStart": 18119,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "甘草乾薑苓朮湯方：\n甘草 白朮（各二兩） 乾薑 茯苓（各四兩）\n右四味，以水四升，煮取三升，分溫三服，腰中即溫。",
+      "start": 18119,
+      "end": 18175,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-c0bbb390fb81.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-c0bbb390fb81",
+    "name": "甘遂半夏湯",
+    "nameStart": 19170,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "甘遂半夏湯方：\n甘遂大者（三枚） 半夏（十二枚，以水一升，煮取半升，去滓） 芍藥（五枚） 甘草如指大（一枚，炙）（一本作無。）\n右四味，以水二升煮取半升，去滓，以蜜半升，和藥汁煎取八合。頓服之。",
+      "start": 19170,
+      "end": 19267,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-c0bbb390fb81.txt"
+    },
+    "reasons": [
+      "missing_or_nonliteral_ingredient_list",
+      "ambiguous_printed_name_or_inline_size_preparation"
+    ]
+  },
+  {
+    "sourceId": "jc-c0bbb390fb81",
+    "name": "桂苓五味甘草湯",
+    "nameStart": 20750,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "桂苓五味甘草湯方：\n茯苓（四兩） 桂枝（四兩，去皮） 甘草（三兩，炙） 五味子（半升）\n右四味，以水八升，煮取三升，去滓，分溫三服。",
+      "start": 20750,
+      "end": 20816,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-c0bbb390fb81.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-c0bbb390fb81",
+    "name": "苓甘五味薑辛湯",
+    "nameStart": 20855,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "苓甘五味薑辛湯方：\n茯苓（四兩） 甘草 乾薑 細辛（各三兩） 五味子（半升）\n右五味，以水八升，煮取三升去滓，溫服半升，日三服。",
+      "start": 20855,
+      "end": 20919,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-c0bbb390fb81.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-c0bbb390fb81",
+    "name": "桂苓五味甘草去桂加薑辛夏湯",
+    "nameStart": 20988,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "桂苓五味甘草去桂加薑辛夏湯方：\n茯苓（四兩） 甘草 細辛 乾薑（各二兩） 五味子 半夏（各半升）\n右六味，以水八升，煮取三升，去滓，溫服半升，日三。",
+      "start": 20988,
+      "end": 21062,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-c0bbb390fb81.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-c0bbb390fb81",
+    "name": "苓甘五味加薑辛半夏杏仁湯",
+    "nameStart": 21128,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "苓甘五味加薑辛半夏杏仁湯方：\n茯苓（四兩） 甘草（三兩） 五味（半升） 乾薑（三兩） 細辛（三兩） 半夏（半升） 杏仁（半升，去皮尖）\n右七味，以水一斗，煮取三升，去滓，溫服半升，日三服。",
+      "start": 21128,
+      "end": 21222,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-c0bbb390fb81.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-c0bbb390fb81",
+    "name": "苓甘五味加薑辛半杏大黃湯",
+    "nameStart": 21247,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "苓甘五味加薑辛半杏大黃湯方：\n茯苓（四兩） 甘草（三兩） 五味（半升） 乾薑（三兩） 細辛（三兩） 半夏（半升） 杏仁（半升） 大黃（三兩）\n右八味，以水一斗，煮取三升，去滓，溫服半升，日三服。",
+      "start": 21247,
+      "end": 21344,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-c0bbb390fb81.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-c0bbb390fb81",
+    "name": "豬苓湯",
+    "nameStart": 22113,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "豬苓湯方：\n豬苓（去皮） 茯苓 阿膠 滑石 澤瀉（各一兩）\n右五味，以水四升，先煮四味，取二升，去滓，內膠烊消，溫服七合，日三服。",
+      "start": 22113,
+      "end": 22178,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-c0bbb390fb81.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-c0bbb390fb81",
+    "name": "甘草麻黃湯",
+    "nameStart": 24336,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "甘草麻黃湯方：\n甘草（二兩） 麻黃（四兩）\n右二味，以水五升，先煮麻黃，去上沫，內甘草，煮取三升，溫服一升，重覆汗出，不汗，再服。慎風寒。",
+      "start": 24336,
+      "end": 24405,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-c0bbb390fb81.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-c0bbb390fb81",
+    "name": "麻黃附子湯",
+    "nameStart": 24460,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "麻黃附子湯方：\n麻黃（三兩） 甘草（二兩） 附子（一枚，炮）\n右三味，以水七升，先煮麻黃，去上沫，內諸藥，煮取二升半，溫服八分，日三服。\n杏子湯方：（未見，恐是麻黃杏仁甘草石膏湯。）",
+      "start": 24460,
+      "end": 24551,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-c0bbb390fb81.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-c0bbb390fb81",
+    "name": "黃耆芍藥桂枝苦酒湯",
+    "nameStart": 24652,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "黃耆芍藥桂枝苦酒湯方：\n黃耆（五兩） 芍藥（三兩） 桂枝（三兩）\n右三味，以苦酒一升，水七升，相和，煮取三升，溫服一升，當心煩，服至六七日乃解。若心煩不止者，以苦酒阻故也。（一方用美酒醯代苦酒。）",
+      "start": 24652,
+      "end": 24750,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-c0bbb390fb81.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-c0bbb390fb81",
+    "name": "桂枝去芍藥加麻黃細辛附子湯",
+    "nameStart": 25333,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "桂枝去芍藥加麻黃細辛附子湯方：\n桂枝（三兩） 生薑（三兩） 甘草（二兩） 大棗（十二枚） 麻黃（二兩） 細辛（二兩） 附子（一枚，炮）\n右七味，以水七升，煮麻黃，去上沫，內諸藥，煮取二升，分溫三服，當汗出，如蟲行皮中，即愈。",
+      "start": 25333,
+      "end": 25445,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-c0bbb390fb81.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-c0bbb390fb81",
+    "name": "茵陳五苓散",
+    "nameStart": 26799,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "茵陳五苓散方：\n茵陳蒿末（十分） 五苓散（五分）（方見痰飲中。）\n右二物和，先食飲方寸匕，日三服。",
+      "start": 26799,
+      "end": 26848,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-c0bbb390fb81.txt"
+    },
+    "reasons": [
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-c0bbb390fb81",
+    "name": "大黃硝石湯",
+    "nameStart": 26884,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "大黃硝石湯方：\n大黃 黃柏 硝石（各四兩） 梔子（十五枚）\n右四味，以水六升，煮取二升，去滓，內硝，更煮取一升，頓服。",
+      "start": 26884,
+      "end": 26943,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-c0bbb390fb81.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-c0bbb390fb81",
+    "name": "桂枝救逆湯",
+    "nameStart": 27502,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "桂枝救逆湯方：\n桂枝（三兩，去皮） 甘草（二兩，炙） 生薑（三兩） 牡蠣（五兩，熬） 龍骨（四兩） 大棗（十二枚） 蜀漆（三兩，洗去腥）\n右為末，以水一斗二升，先煮蜀漆，減二升，內諸藥，煮取三升，去滓，溫服一升。",
+      "start": 27502,
+      "end": 27608,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-c0bbb390fb81.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-c0bbb390fb81",
+    "name": "茱萸湯",
+    "nameStart": 28401,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "茱萸湯方：\n吳茱萸（一升，人參三兩） 生薑（六兩） 大棗（十二枚。）\n右四味，以水五升，煮取三升，溫服七合，日三服。",
+      "start": 28401,
+      "end": 28459,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-c0bbb390fb81.txt"
+    },
+    "reasons": [
+      "incomplete_ingredient_parse_or_declared_count_mismatch"
+    ],
+    "unparsedFragments": [],
+    "parsedIngredientCount": 3,
+    "declaredIngredientCount": 4
+  },
+  {
+    "sourceId": "jc-c0bbb390fb81",
+    "name": "豬苓散",
+    "nameStart": 28756,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "豬苓散方：\n豬苓 茯苓 白朮各等分\n右三味，杵為散，飲服方寸匕，日三服。",
+      "start": 28756,
+      "end": 28792,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-c0bbb390fb81.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link",
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-c0bbb390fb81",
+    "name": "橘皮竹茹湯",
+    "nameStart": 29683,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "橘皮竹茹湯方：\n橘皮二升，竹茹二升，大棗三十枚，人參一兩，生薑半斤，甘草五兩。\n右六味，以水一斗，煮取三升、溫服一升，日三服。",
+      "start": 29683,
+      "end": 29746,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-c0bbb390fb81.txt"
+    },
+    "reasons": [
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-c0bbb390fb81",
+    "name": "桂枝湯",
+    "nameStart": 30134,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "桂枝湯方：\n桂枝（三兩，去皮） 芍藥（三兩） 甘草（二兩，炙） 生薑（三兩） 大棗（十二枚）\n右五味，㕮咀，以水七升，微火煮取三升，去滓，適寒溫服一升，服已須臾，啜稀粥一升，以助藥力，溫覆令一時許，遍身漐漐微似有汗者、益佳，不可令如水淋漓，若一服汗出病瘥，停後服。",
+      "start": 30134,
+      "end": 30266,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-c0bbb390fb81.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-c0bbb390fb81",
+    "name": "小承氣湯",
+    "nameStart": 30396,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "小承氣湯方：\n大黃（四兩） 厚朴（二兩，炙） 枳實大者（三枚，炙）\n右三味，以水四升，煮取一升二合，去滓，分溫二服，得利則止。",
+      "start": 30396,
+      "end": 30459,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-c0bbb390fb81.txt"
+    },
+    "reasons": [
+      "missing_or_nonliteral_ingredient_list",
+      "ambiguous_printed_name_or_inline_size_preparation"
+    ]
+  },
+  {
+    "sourceId": "jc-c0bbb390fb81",
+    "name": "白頭翁湯",
+    "nameStart": 30570,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "白頭翁湯方：\n白頭翁（二兩） 黃連（三兩，黃柏三兩） 秦皮（三兩）\n右四味，以水七升，煮取二升、去滓、溫服一升、不愈，更服。",
+      "start": 30570,
+      "end": 30632,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-c0bbb390fb81.txt"
+    },
+    "reasons": [
+      "incomplete_ingredient_parse_or_declared_count_mismatch"
+    ],
+    "unparsedFragments": [],
+    "parsedIngredientCount": 3,
+    "declaredIngredientCount": 4
+  },
+  {
+    "sourceId": "jc-c0bbb390fb81",
+    "name": "王不留行散",
+    "nameStart": 31468,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "王不留行散方：\n王不留行（十分，八月八日採） 蒴藋細葉（十分，七月七日採） 桑東南根白皮（十分，三月三日採） 甘草（十八分） 川椒（三分，除目及閉口，去汗黃芩二分） 乾薑（二分） 厚朴（二分） 芍藥（二分）\n右九味，桑根皮以右三味燒灰存性，勿令灰過，各別杵篩，合治之為散，服方寸匕。小瘡即粉之，大瘡但服之，產後亦可服。如風寒，桑東根勿取之；前三物，皆陰乾百日。",
+      "start": 31468,
+      "end": 31648,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-c0bbb390fb81.txt"
+    },
+    "reasons": [
+      "incomplete_ingredient_parse_or_declared_count_mismatch"
+    ],
+    "unparsedFragments": [],
+    "parsedIngredientCount": 8,
+    "declaredIngredientCount": 9
+  },
+  {
+    "sourceId": "jc-c0bbb390fb81",
+    "name": "排膿散",
+    "nameStart": 31649,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "排膿散方：\n枳實（十六枚） 芍藥（六分） 桔梗（二分）\n右三味，杵為散，取雞子黃一枚，以藥散與雞黃相等，揉和令相得，飲和服之，日一服。",
+      "start": 31649,
+      "end": 31716,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-c0bbb390fb81.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-c0bbb390fb81",
+    "name": "排膿湯",
+    "nameStart": 31717,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "排膿湯方：\n甘草（二兩） 桔梗（三兩） 生薑（一兩） 大棗（十枚）\n右四味，以水三升，煮取一升，溫服五合，日再服。",
+      "start": 31717,
+      "end": 31774,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-c0bbb390fb81.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-c0bbb390fb81",
+    "name": "雞矢白散",
+    "nameStart": 31946,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "雞矢白散方：\n雞矢白\n右一味，為散，取方寸匕，以水六合，和，溫服。",
+      "start": 31946,
+      "end": 31979,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-c0bbb390fb81.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link",
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-c0bbb390fb81",
+    "name": "蛇床子散",
+    "nameStart": 36694,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "蛇床子散方：\n蛇床子仁\n右一味，末之，以白粉少許，和合相得，如棗大，棉裹內之，自然溫。",
+      "start": 36694,
+      "end": 36737,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-c0bbb390fb81.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link",
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-c0bbb390fb81",
+    "name": "狼牙湯",
+    "nameStart": 36766,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "狼牙湯方：\n狼牙（三兩）\n右一味，以水四升，煮取半升，以綿纏筋如繭浸湯瀝陰中，日四遍。",
+      "start": 36766,
+      "end": 36809,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-c0bbb390fb81.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-c0bbb390fb81",
+    "name": "救卒死",
+    "nameStart": 37537,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "救卒死方：\n薤搗汁，灌鼻中。",
+      "start": 37537,
+      "end": 37551,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-c0bbb390fb81.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link",
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-c0bbb390fb81",
+    "name": "救卒死而壯熱者",
+    "nameStart": 37629,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "救卒死而壯熱者方：\n礬石半斤，以水一斗半煮消，以漬腳，令沒踝。",
+      "start": 37629,
+      "end": 37660,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-c0bbb390fb81.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link",
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-c0bbb390fb81",
+    "name": "救卒死而目閉者",
+    "nameStart": 37661,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "救卒死而目閉者方：\n騎牛臨面，搗薤汁灌耳中，吹皂莢末鼻中，立效。",
+      "start": 37661,
+      "end": 37693,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-c0bbb390fb81.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link",
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-c0bbb390fb81",
+    "name": "救卒死而張口反折者",
+    "nameStart": 37694,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "救卒死而張口反折者方：\n灸手足兩爪後十四壯了，飲以五毒諸膏散。（有巴豆者。）",
+      "start": 37694,
+      "end": 37732,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-c0bbb390fb81.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link",
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-c0bbb390fb81",
+    "name": "救溺死",
+    "nameStart": 38781,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "救溺死方：\n取灶中灰兩石餘，以埋人，從頭至足，水出七孔，即活。\n右療自縊溺暍之法并出自張仲景為之，其意殊絕，殆非常情所及，本草所能關，實救人之大術矣，傷寒家數有暍病，非此遇熱之暍。（見《外臺》《肘後》目。）",
+      "start": 38781,
+      "end": 38884,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-c0bbb390fb81.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link",
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-c0bbb390fb81",
+    "name": "治自死六畜肉中毒",
+    "nameStart": 39679,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "治自死六畜肉中毒方：\n黃蘗屑，搗服方寸匕。",
+      "start": 39679,
+      "end": 39700,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-c0bbb390fb81.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link",
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-c0bbb390fb81",
+    "name": "治食生肉中毒",
+    "nameStart": 39808,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "治食生肉中毒方：\n掘地深三尺，取其下土三升，以水五升，煮數沸，澄清汁，飲一升即愈。",
+      "start": 39808,
+      "end": 39849,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-c0bbb390fb81.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link",
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-c0bbb390fb81",
+    "name": "治六畜鳥獸肝中毒",
+    "nameStart": 39850,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "治六畜鳥獸肝中毒方：\n水浸豆豉，絞取汁，服數升愈。",
+      "start": 39850,
+      "end": 39875,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-c0bbb390fb81.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link",
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-c0bbb390fb81",
+    "name": "治食馬肉中毒欲死",
+    "nameStart": 40049,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "治食馬肉中毒欲死方：\n香豉（二兩） 杏仁（三兩）\n右二味，蒸一食頃，熟杵之服，日再服。",
+      "start": 40049,
+      "end": 40092,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-c0bbb390fb81.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-c0bbb390fb81",
+    "name": "治食牛肉中毒",
+    "nameStart": 40299,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "治食牛肉中毒方：\n甘草煮汁，飲之即解",
+      "start": 40299,
+      "end": 40317,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-c0bbb390fb81.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link",
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-c0bbb390fb81",
+    "name": "食鯸鮧魚中毒",
+    "nameStart": 41345,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "食鯸鮧魚中毒方：\n蘆根煮汁，服之即解。",
+      "start": 41345,
+      "end": 41364,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-c0bbb390fb81.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link",
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-c0bbb390fb81",
+    "name": "食躁式躁",
+    "nameStart": 42538,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "食躁式躁方：\n豉濃煮汁飲之。",
+      "start": 42538,
+      "end": 42552,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-c0bbb390fb81.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link",
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "至寶丹",
+    "nameStart": 705,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "至寶丹\n療猝中急風不語，中惡氣絕，中諸物毒暗風，中熱疫毒，陰陽二毒，山嵐瘴氣毒，蠱毒水毒，產後血暈，口鼻血出，惡血攻心，煩躁氣喘，吐逆，難產悶難（一本作亂），死胎不下。以上諸疾，並用童子小便一合，生薑自然汁三、五滴，入於小便內溫過，化下三丸至五丸，神效。又療心肺積熱，伏熱嘔吐，邪氣攻心，大腸風秘，神魂恍惚，頭目昏眩，睡眠不安，唇口乾燥，傷寒狂語，並皆療之。\n生烏犀屑（研） 硃砂（研飛） 雄黃（研飛） 生玳瑁屑（研） 琥珀（研，各一兩） 麝香（研） 龍腦（研，各一分） 金箔（半入藥，半為衣） 銀箔（研各五十片） 牛黃（研，半兩）安息香（一兩半，為末，以無灰酒攪澄飛過，濾去沙土，約得淨數一兩，慢火熬成膏），上將生犀、玳瑁為細末，入余藥研勻，將安息香膏重湯煮凝成後，入諸藥中和搜成劑，盛不津器中，並旋丸如桐子大，用人參湯化下三丸至五丸。又療小兒諸癇急驚心熱，猝中客忤，不得眠睡，煩躁風涎搐搦。每二歲兒服二丸，人參湯化下。",
+      "start": 705,
+      "end": 1116,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link",
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "靈寶丹",
+    "nameStart": 1117,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "靈寶丹\n（有三名：一名歸命丹，又名返魂丹，入芒硝者名破棺丹） 治中風手足不仁，言語謇澀。或痛連骨髓，或痹襲皮膚，瘙癢如蟲行，頑痹如鐵石；或多痰好睡；或健忘多嗔，血脈不行，肉色乾瘦；或久在床枕，起便須人，語澀面浮，惟覺不健；或偶縈疾苦，猝暴而終，並皆治之。\n硫黃（打如皂莢子大，絹袋盛，以無灰酒煮三伏時，取出研如粉，一兩） 自然銅（打碎，研細如粉，一兩） 雄黃（打如皂莢子大，絹袋盛，以米醋煮三伏時，取出研如粉，一兩） 光明砂（打如皂莢子大，絹袋盛，以蕎麥灰汁煮三伏時，取出研如粉一兩半）\n以上四味，用一有蓋瓷瓶子，先以金箔三片鋪於瓶子底上，便入硫黃，又以金箔兩片蓋之。次入雄黃，又金箔兩片蓋之。次入硃砂，又金箔兩片蓋之。次入自然銅，又金箔三片蓋之。以瓶子蓋合卻，不用固濟，於灰池內坐瓶子令穩，以火養三日三夜。第一日，用熟炭火半斤，圍瓶子三寸。第二日，用熟火十兩，去瓶子二寸半。第三日，用火一斤，去瓶子二寸，以火盡為度。候冷，取藥出瓶子，以紙三重裹藥，於淨濕土中培至來旦取出，更研令細。",
+      "start": 1117,
+      "end": 1559,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "烏犀丸",
+    "nameStart": 3161,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "烏犀丸\n治丈夫、婦人猝中諸風，牙關緊急，膈上多痰，或語言謇澀，口眼喎斜。用薄荷汁與酒各少許，化三丸服之，良久再服，立有大效。又治癱瘓，暗風癇病，手足潮搐，心神不安，遍身煩麻，腸風痔瘻，腎臟風毒，上攻下注。婦人血風，頭旋吐逆，皮膚腫癢，遍身疼痛。\n白朮（米泔浸一宿，切，焙乾微炒） 白芷 乾薑（炮） 枳殼（去瓤麩炒） 天竺黃（細研）虎骨（酒醋塗炙令黃） 厚朴（去粗皮，薑汁塗炙令熟） 何首烏（米泔浸一宿，煮過，切，焙） 敗龜（酒醋塗炙令黃） 桑螵蛸（微炒） 縮砂仁 蔓荊子（去白皮） 丁香 晚蠶蛾（微炒，各三分） 萆薢（微炙） 細辛（去苗） 藁本（去土） 槐膠 阿膠（杵碎，炒） 陳皮（去白，微炒） 天南星（浸洗，生薑自然汁煮軟，切，焙乾炒黃） 羌活（去蘆） 麝香（別研） 天麻（酒洗，切，焙） 半夏（湯洗七次，薑汁浸三日，炒） 茯苓（去皮） 獨活（去苗） 人參（去蘆） 羚羊角（鎊） 藿香葉（去土） 檳榔 川烏（燒令通赤，留煙少許，入坑內，以盞覆，新土圍，食頃出） 肉桂（去粗皮） 沉香 麻黃（去根、節） 白殭蠶（去絲、嘴，微炒） 白附子（炮） 乾蠍（微炙） 防風（去蘆） 白花蛇（酒浸一宿，炙熟用肉） 烏蛇（酒浸一宿，炙，去皮、骨，令熟，用肉） 木香（各一兩） 石斛（去根） 水銀 蟬殼（去土微炒） 川芎 肉豆蔻（去殼微炮） 硫黃（末，用瓷盞盛，慢火養成汁，入前水銀，急炒如青泥，細研） 附子（水浸後，炮，去皮、臍） 龍腦（別研） 硃砂（研飛） 雄黃（研飛） 牛黃（別研，各半兩） 狐肝（三具，臘月採取，同烏鴉一隻，入新瓦罐內，以瓦盆子蓋頭，用泥固濟，用炭火一稱，燒令通赤，待煙盡取出，候冷，研令極細用） 烏鴉（一隻，臘月採取，去嘴、翅、足） 膩粉（別研，一分） 當歸（去蘆酒浸，焙，炒） 烏犀（鎊，各二兩）\n上五十八味，並須如法修事，搗研令細，煉白蜜合和，入酥，再搗五千下，丸如梧子大。常服一丸，不計時，薄荷湯或茶嚼下。",
+      "start": 3161,
+      "end": 3973,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "incomplete_ingredient_parse_or_declared_count_mismatch"
+    ],
+    "unparsedFragments": [],
+    "parsedIngredientCount": 57,
+    "declaredIngredientCount": 58
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "龍虎丹",
+    "nameStart": 6213,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "龍虎丹\n治丈夫、婦人新得、久患急、緩風，半身不遂，手腳筋衰；及風毒攻注，遍身瘡疥，頭風多饒白屑，毒風面上生瘡，刺風狀如針刺，癇風急倒作聲，頑風不認痛癢，癧風頸生斑駁，暗風頭旋眼黑，㾴風面生赤點，肝風鼻悶眼瞤，偏風口眼喎斜，節風肢節斷續，脾風心多嘔逆，酒風行步不前，肺風鼻塞項疼，膽風令人不睡，氣風肉似蟲行，腎風耳內蟬鳴，陰間濕癢。\n黑牽牛（爁） 藿香葉（生） 天麻（去苗） 牛膝（去苗，酒浸，切，焙，微炒） 硫黃（結沙） 天竺黃（生研） 細辛（去苗，洗） 半夏（湯洗七次，生薑汁製） 附子（炮，去皮、臍） 何首烏（去粗皮） 羌活（去苗，洗，焙） 獨活（去苗） 柴胡（去苗） 川芎（洗） 桔梗（生，各二兩） 寒水石（燒通赤，研飛）一斤 茴香（淘，去土，焙） 甘松（洗去土，焙） 肉桂（去粗皮） 五靈脂（生） 白芷（生） 菊花（去土） 川烏（炮，去皮、臍） 白殭蠶（去絲、嘴，炒） 縮砂仁（生，各五兩） 牙硝（研） 木香（生） 水銀（與硫黃用慢火結成沙子） 雄黃（研飛） 麝香（研，各一兩） 地龍（去土，爁） 白乾薑（炮） 硃砂（研飛） 白蒺藜（爁） 防風（去苗，各三兩） 烏蛇（酒浸，炙，去皮、骨，八兩） 龍腦（研，半兩）\n上為細末，煉蜜為劑。每服一丸，如雞頭大，用薄荷酒嚼下。日進一服，重即兩服。產後驚風，亂道見物，硃砂酒磨下；產後身多虛腫，血風，頻增昏沉，身如針刺，發隨梳落，面黃心逆，並煎當歸酒嚼下，日進兩服；若治傷寒，炒蔥、豉，酒嚼下一、二服，蓋覆出汗立愈；小兒驚風，薄荷酒化下少許；大人急風，口噤失音等，薄荷酒化灌之；常服茶、酒任下，不拘時候服。",
+      "start": 6213,
+      "end": 6890,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "龍腦芎犀丸",
+    "nameStart": 7180,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "龍腦芎犀丸\n消風化痰，除心肺邪熱，去頭面諸風。治偏正頭痛，心怔煩郁，面熱目瞤，鼻塞腦昏，痰熱咳嗽，咽隔不利。\n石膏（細研） 川芎（各四兩） 生龍腦（別研） 生犀角 山梔子（去皮，各一兩） 硃砂（研飛，四兩，內一兩為衣） 人參（去蘆） 茯苓（去皮，用白者） 細辛（去苗） 甘草（炙，各二兩） 阿膠（碎炒，一兩半） 麥門冬（去心，三兩）\n上除別研、後入外，並搗、羅為細末，煉蜜為丸。每服一丸至二丸，細嚼，茶、酒任下，食後服。",
+      "start": 7180,
+      "end": 7390,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "川芎丸",
+    "nameStart": 9985,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "川芎丸\n消風壅，化痰涎，利咽膈，清頭目。治頭痛旋暈，心忪煩熱，頸項緊急，肩背拘倦，肢體煩疼，皮膚瘙癢，腦昏目疼，鼻塞聲重，面上遊風，狀如蟲行。\n川芎 龍腦薄荷（葉，焙乾，各七十五兩） 細辛（洗，五兩） 防風（去苗，二十五兩） 桔梗（一百兩） 甘草（爁，三十五兩）\n上為細末，煉蜜搜和，每一兩半，分作五十丸。每服一丸，細嚼，臘茶清下，食後、臨臥。",
+      "start": 9985,
+      "end": 10157,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "薄荷煎丸",
+    "nameStart": 10158,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "薄荷煎丸\n消風熱，化痰涎，利咽膈，清頭目。治遍身麻痹，百節痠痛，頭昏目眩，鼻塞腦痛，語言聲重，項背拘急，皮膚瘙癢，或生癮疹。及治肺熱喉腥，脾熱口甜，膽熱口苦。又治鼻衄、唾血，大小便出血，及脫著傷風。並沐浴後，並可服之。\n龍腦薄荷（取葉，十斤） 防風（去苗） 川芎（各三十兩） 縮砂仁（五兩） 桔梗（五十兩）甘草（炙，四十兩）\n上為末，煉蜜為丸，每兩作三十丸。每服一丸。細嚼，茶、酒任下。",
+      "start": 10158,
+      "end": 10351,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "犀角丸",
+    "nameStart": 10610,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "犀角丸\n除三焦邪熱，疏一切風氣。治風盛痰實，頭目昏重，肢節拘急，痰涎壅滯，腸胃燥澀，大小便難。\n黃連（去須） 犀角（鎊，各十兩） 人參（去蘆，二十兩） 大黃（八十兩） 黑牽牛（一百二十兩炒，別搗取粉六十兩）\n上與牽牛粉合和為細末，煉蜜為丸，如梧桐子大。每服十五丸至二十丸，臨臥溫水下。更量虛實加減。",
+      "start": 10610,
+      "end": 10759,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "排風湯",
+    "nameStart": 11559,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "排風湯\n男子、婦人風虛冷濕，邪氣入臟，狂言妄語，精神錯亂。肝風發則面青心悶，吐逆嘔沫，脅滿頭眩重，耳不聞人聲，偏枯筋急，曲拳而臥。心風發則面赤翕然而熱，悲傷嗔怒，目張呼喚。脾風發則面黃，身體不仁，不能行步，飲食失味，夢寐倒錯，與亡人相隨。肺風發則面白，咳逆唾膿血，上氣奄然而極。腎風發則面黑，手足不隨，腰痛難以俯仰，痹冷骨疼。若有此候，令人心驚，志意不定，恍惚多忘。服此湯安心定志，聰耳明目，通臟腑諸風疾。\n白蘚皮 當歸（去蘆，酒浸一宿） 肉桂（去粗皮） 芍藥（白者） 杏仁（去皮、尖，麩炒）甘草（炒） 防風（去蘆） 芎藭 白朮（各二兩） 獨活（去蘆） 麻黃（去根、節） 茯苓（去皮，白者，各三兩）\n上為粗末。每服三錢，水一盞半，入生薑四片，同煎至八分，去滓，溫服，不計時候。",
+      "start": 11559,
+      "end": 11897,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "大通聖白花蛇散",
+    "nameStart": 11898,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "大通聖白花蛇散\n大治諸風，無問新久，手足嚲曳，腰腳緩弱，行步不正，精神昏冒，口面喎斜，語言謇澀，痰涎壅盛，或筋脈攣急，肌肉頑痹，皮膚瘙癢，骨節煩疼，或痛無常處，遊走不定。及風氣上攻，面浮耳鳴，頭痛目眩；下注腰腳，腰疼腿重，腫癢生瘡，並宜服之。\n海桐皮（去粗皮） 杜仲（銼，炒） 天麻（去苗） 乾蠍（炒） 郁李仁 赤箭當歸（去蘆頭，酒浸） 厚朴（生薑汁製） 蔓荊子（去白皮） 木香 防風（去苗） 藁本（去土） 白附子（炮） 肉桂（去粗皮） 羌活（去蘆頭） 萆薢（酒浸一宿） 虎骨（醋炙） 白芷 山藥 白花蛇（酒浸，炙，去皮、骨，用肉） 菊花（去枝、梗） 牛膝（去苗） 甘草（炙） 威靈仙（去土，各一兩）\n上等分，為末。每服一錢至二錢，溫酒調下，荊芥湯亦得，空心服之。常服祛逐風氣，通行榮衛，久病風人，尤宜常服，輕可中風，不過二十服，平復如故。",
+      "start": 11898,
+      "end": 12268,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "消風散",
+    "nameStart": 12269,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "消風散\n治諸風上攻，頭目昏痛，項背拘急，肢體煩疼，肌肉蠕動，目眩旋暈，耳嘯蟬鳴，眼澀好睡，鼻塞多嚏，皮膚頑麻，瘙癢癮疹。又治婦人血風，頭皮腫癢，眉稜骨痛，旋暈欲倒，痰逆噁心。\n荊芥穗 甘草（炒） 芎藭 羌活 白殭蠶（炒） 防風（去蘆） 茯苓（去皮用白底） 蟬殼（去土，微炒） 藿香葉（去梗） 人參（去蘆）各二兩 厚朴（去粗皮，薑汁塗，炙熟） 陳皮（去瓤，洗，焙，各半兩）\n上為細末。每服二錢，茶清調下。如久病偏風，每日三服，便覺輕減。如脫著沐浴，暴感風寒，頭痛身重，寒熱倦疼，用荊芥茶清調下，溫酒調下亦得，可並服之。小兒虛風，目澀昏困，及急、慢驚風，用乳香荊芥湯調下半錢，並不計時候。",
+      "start": 12269,
+      "end": 12561,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "清神散",
+    "nameStart": 12943,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "清神散\n消風壅，化痰涎。治頭昏目眩，心忪面熱，腦痛耳鳴，鼻塞聲重，口眼瞤動，精神昏憒，肢體疼倦，頸項緊急，心膈煩悶，咽嗌不利。\n檀香（銼） 人參（去蘆） 羌活（去苗） 防風（去苗，各一十兩） 薄荷（去土） 荊芥穗 甘草（爁，各二十兩） 石膏（研，四十兩） 細辛（去苗洗，焙，五兩）\n上為末。每服二錢，沸湯點服，或入茶末點服亦得，食後服。",
+      "start": 12943,
+      "end": 13111,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "太陽丹",
+    "nameStart": 14097,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "太陽丹\n（方見傷寒類）。",
+      "start": 14097,
+      "end": 14109,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link",
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "如聖餅子",
+    "nameStart": 14110,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "如聖餅子\n（方見一切氣類）。",
+      "start": 14110,
+      "end": 14124,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link",
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "沒藥降聖丹",
+    "nameStart": 14125,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "沒藥降聖丹\n（方見瘡腫傷折類）。",
+      "start": 14125,
+      "end": 14141,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link",
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "川芎茶調散",
+    "nameStart": 18829,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "川芎茶調散\n（方見傷寒類）",
+      "start": 18829,
+      "end": 18842,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link",
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "乳香趁痛散",
+    "nameStart": 18843,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "乳香趁痛散\n（方與虎骨散同）（一本云：方與龍虎丹同。）",
+      "start": 18843,
+      "end": 18870,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link",
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "大聖保命丹",
+    "nameStart": 19832,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "大聖保命丹\n治丈夫、女人一切風疾，氣血俱虛，陰陽偏發，猝暴中風，僵臥昏塞，涎潮搐搦，腳手顫掉，不省人事，舌強失音，手足嚲曳，口眼喎斜，或癱瘓偏枯，半身不遂，語言謇澀，舉止錯亂，四肢麻木；又治癲癇倒臥，目瞑不開，涎盛作聲，或角弓反張，目睛直視，口禁悶絕，牙關緊急。又治風搏於陽經，目眩頭痛，耳作蟬聲，皮膚瞤搐，頻欠好睡，項強拘急，不能回顧，及腎臟風虛，腳膝疼痛，步履艱辛，偏風流注一邊，屈伸不得，無問久新，並皆治之。\n方與前大聖一粒金丹同。\n上為細末拌勻，用上件墨汁和藥，每一兩分作六丸，窨干，用金箔為衣。每服一丸，用生薑半兩和皮擦取自然汁，將藥丸於薑汁內化盡為度，用無灰酒半盞暖熱，同浸化，溫服，量病人酒性多少，更吃溫酒一、一升，投之以助藥力。次用衣被蓋覆便臥，汗出為度。勢輕者，每服半丸，不拘時。如有風疾，常服尤佳，補五臟，固真元，通流關節，祛逐風邪，壯筋骨，活血駐顏。",
+      "start": 19832,
+      "end": 20218,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "四生丸",
+    "nameStart": 20219,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "四生丸\n專治左癱右瘓，口眼喎斜，中風涎急，半身不遂，不能舉者，悉皆療之。\n五靈脂（去石） 骨碎補 川烏頭（去皮、尖） 當歸（各等分）\n上為細末，用無灰酒打麵糊為丸，如梧桐子大。每服七丸，漸加至十丸至十五丸，溫酒下。服此藥莫服靈寶丹，恐藥無效。",
+      "start": 20219,
+      "end": 20340,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "大防風湯",
+    "nameStart": 20469,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "大防風湯\n祛風順氣，活血脈，壯筋骨，除寒濕，逐冷氣。又治患痢後腳痛瘓弱，不能行履，名曰「痢風」；或兩膝腫大痛，髀脛枯臘，但存皮骨，拘攣跧臥，不能屈伸，名曰「鶴膝風」，服之氣血流暢，肌肉漸生，自然行履如故。\n川芎（撫芎不用） 附子（炮，去皮、臍，各一兩半） 熟乾地黃（洗） 白朮 防風（去蘆）當歸（洗，去蘆，酒浸，焙炒） 白芍藥 黃耆 杜仲（去粗皮，炒令絲斷，各二兩） 羌活（去蘆） 人參（去蘆） 甘草（炙） 牛膝（去蘆，酒浸，切，微炒，各一兩）\n上為粗末。每服五錢，水一盞半，入姜七片，大棗一枚，同煎八分，去滓，溫服，空心、食前。",
+      "start": 20469,
+      "end": 20734,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "伏虎丹",
+    "nameStart": 21310,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "伏虎丹\n專治左癱右瘓。（張徽猷方）\n生乾地黃 蔓荊子（去白） 白殭蠶（炒，去絲，各一分） 五靈脂（去皮，半兩） 躑躅花（炒） 天南星 白膠香 草烏頭（炮，各一兩）\n上為細末，酒煮半夏末為糊，丸如龍眼大。每一丸分作四服，酒吞下，日進二服。（此方乃建康府烏衣巷有一老人姓鍾，平生好道，朝夕瞻仰茅山，緣多酒，偶患風疾，百治無效。一日忽有一道人至，言其困酒太過，教服此藥，道人遂不見，服之果驗，乃知仙方。）",
+      "start": 21310,
+      "end": 21509,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "烏藥順氣散",
+    "nameStart": 21510,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "烏藥順氣散\n治男子、婦人一切風氣，攻注四肢，骨節疼痛，遍身頑麻，頭目旋暈。及療癱瘓，語言謇澀，筋脈拘攣。又治腳氣，步履艱難，腳膝軟弱。婦人血風，老人冷氣，上攻胸臆，兩脅刺痛，心腹膨脹，吐瀉腸鳴。\n麻黃（去根、節） 陳皮（去瓤） 烏藥（去木，各二兩） 白殭蠶（去絲、嘴，炒） 川芎 枳殼（去瓤，麩炒） 甘草（炒）白芷 桔梗（各一兩） 乾薑（炮，半兩）\n上為細末。每服三錢，水一盞，姜三片，棗一枚，煎至七分，溫服。如四時傷寒，憎寒壯熱，頭痛肢體倦怠，加蔥白三寸，同煎並服，出汗見效。如閃挫身體疼痛，溫酒調服。遍身瘙癢，抓之成瘡，用薄荷三葉煎服。孕婦不可服。常服疏風順氣。",
+      "start": 21510,
+      "end": 21793,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "追風應痛丸",
+    "nameStart": 22528,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "追風應痛丸\n一切風疾，左癱右瘓，半身不遂，口眼喎斜，牙關緊急，語言謇澀，筋脈攣急，百骨節痛，上攻下注，遊走不定，腰腿沉重，耳鳴重聽，腳膝緩弱，不得屈伸，步履艱難，遍身麻痹，皮膚頑厚。又，婦人血風攻注，身體疼痛，面浮肌瘦，口苦舌乾，頭旋目眩，昏困多睡；或皮膚瘙癢，癮疹生瘡；暗風夾腦，偏正頭疼，並治之。\n威靈仙 狗脊（去毛，各四兩） 何首烏 川烏（炮，去皮、臍，各六兩） 乳香（研，一兩） 五靈脂（酒浸，淘去沙石，五兩半）\n上為末，酒糊為丸。每服十五丸，加至二十丸，麝香溫酒吞下，只溫酒亦得，食稍空服。常服輕身體，壯筋骨，通經活絡，除濕去風。孕婦不可服。",
+      "start": 22528,
+      "end": 22804,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "追風散",
+    "nameStart": 23464,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "追風散\n治證與前追風散同。\n白殭蠶（去絲、嘴，炒） 全蠍（微炒） 甘草（炙） 荊芥（各二兩） 川烏（炮，去皮臍） 防風（去蘆、叉） 石膏（研，各四兩） 川芎（三兩） 麝香（研，一兩）\n上為細末。每服半錢，好茶調下，食後，臨臥服。清頭目，利咽膈，消風壅，化痰涎。",
+      "start": 23464,
+      "end": 23594,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "五積散",
+    "nameStart": 25165,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "五積散\n調中順氣，除風冷，化痰飲。治脾胃宿冷，腹脅脹痛，胸膈停痰，嘔逆噁心；或外感風寒，內傷生冷，心腹痞悶，頭目昏痛，肩背拘急，肢體怠惰，寒熱往來，飲食不進；及婦人血氣不調，心腹撮痛，經候不調，或閉不通，並宜服之。\n白芷 川芎 甘草（炙） 茯苓（去皮） 當歸（去蘆） 肉桂（去粗皮） 芍藥 半夏（湯洗七次，各三兩） 陳皮（去白） 枳殼（去瓤，炒） 麻黃（去根、節，各六兩） 蒼朮（米泔浸，去皮，二十四兩） 乾薑（爁，四兩） 桔梗（去蘆頭，十二兩） 厚朴（去粗皮，四兩）\n上除肉桂、枳殼二味別為粗末外，一十三味同為粗末，慢火炒令色轉，攤冷，次入桂、枳殼末令勻。每服三錢，水一盞半，入生薑三片，煎至一中盞，去滓，稍熱服。如冷氣奔沖，心、脅、臍、腹脹滿刺痛，反胃嘔吐，泄利清穀，及痃癖癥瘕，膀胱小腸氣痛，即入煨生薑三片、鹽少許同煎；如傷寒時疫，頭痛體疼，惡風發熱，項背強痛，入蔥白三寸、豉七粒同煎；若但覺惡寒，或身不甚熱，肢體拘急，或手足厥冷，即入炒茱萸七粒、鹽少許同煎；如寒熱不調，咳嗽喘滿，入棗煎服；婦人難產，入醋一合同煎服之；並不拘時候。",
+      "start": 25165,
+      "end": 25634,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "大柴胡湯",
+    "nameStart": 26089,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "大柴胡湯\n傷寒十餘日，邪氣結在裡，寒熱往來，大便秘澀，腹滿脹痛，語言譫妄，心中痞硬，飲食不下；或不大便五、六日，繞臍刺痛，時發煩躁，及汗後如瘧，日晚發熱，兼臟腑實，脈有力者，可服。\n枳實（去瓤，炒，半兩） 柴胡（去蘆，半斤） 大黃（二兩） 半夏（湯洗七次，切，焙，二兩半） 赤芍藥 黃芩（各三兩）\n上五味，為粗末，入半夏拌勻。每服三大錢，以水一盞半，入生薑五片，棗一枚，煎至一中盞，濾去滓，溫服，食後、臨臥。此藥治傷寒內熱裡實，若身體疼痛，是表證未解，不可服之。",
+      "start": 26089,
+      "end": 26320,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "加減三五七散",
+    "nameStart": 28901,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "加減三五七散\n治證並方見諸風類。",
+      "start": 28901,
+      "end": 28917,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link",
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "桂苓丸",
+    "nameStart": 29926,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "桂苓丸\n大解暑毒。\n肉桂（去粗皮，不見火） 茯苓（去粗皮，各等分）\n上為細末，煉蜜為丸，每兩作八丸。每服一丸，用新汲水或熱水嚼下，化下亦得。",
+      "start": 29926,
+      "end": 29996,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "縮脾飲",
+    "nameStart": 30537,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "縮脾飲\n解伏熱，除煩渴，消暑毒，止吐利。霍亂之後服熱藥大多致煩躁者，並宜服之。\n縮砂仁 烏梅肉（淨） 草果（煨，去皮） 甘草（炙，各四兩） 乾葛（銼） 白扁豆（去皮，炒，各二兩）\n上㕮咀。每服四錢，水一大碗，煎八分，去滓，以水沉冷服以解煩，或欲熱欲溫，並任意服。代熟水飲之極妙。",
+      "start": 30537,
+      "end": 30676,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "神朮散",
+    "nameStart": 32102,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "神朮散\n治四時瘟疫，頭痛項強，發熱憎寒，身體疼痛，及傷風鼻塞聲重，咳嗽頭昏，並皆治之。\n蒼朮（米泔浸一宿，切，焙，五兩） 藁本（去土） 香白芷 細辛（去葉土） 羌活（去蘆）川芎 甘草（炙，各一兩）\n上為細末。每服三錢，水一盞，生薑三片，蔥白三寸，煎七分，溫服，不拘時。如覺傷風鼻塞，只用蔥茶調下。",
+      "start": 32102,
+      "end": 32250,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "人參輕骨散",
+    "nameStart": 33007,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "人參輕骨散\n解利四時傷寒，頭痛壯熱，項背拘急，骨節煩疼，憎寒惡風，肢體困倦，大便不調，小便赤澀，嘔逆煩渴；或傷風感寒，頭痛體熱，鼻塞聲重，咳嗽痰涎；及山嵐瘴氣，時行疫癘，潮熱往來；及療五勞七傷，中脘氣滯，心腹痞悶，停痰嘔逆，冷氣奔沖，攻注刺痛。又治婦人血氣撮痛，經候不調，並宜服之。\n貝母（去心） 白茯苓（焙） 半夏（煮，各一兩） 枳殼（去瓤，炒，二兩半） 蒼朮（浸一宿，六兩） 人參 白朮（焙） 白芷（不見火） 陳皮（去白） 秦艽 赤芍藥（各二兩） 川芎當歸（去蘆，焙） 肉桂（去粗皮） 乾薑（炮，各一兩半） 柴胡（去蘆） 麻黃（去根、節，各三兩） 桔梗（去蘆） 甘草（爁） 厚朴（各四兩，薑汁浸）\n上件為細末。每服三錢，水一盞，生薑三片，同煎至七分，通口稍熱服。身體倦怠，加烏梅一個，咳嗽加棗二枚，同煎，不拘時。",
+      "start": 33007,
+      "end": 33365,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "蔥白散",
+    "nameStart": 33366,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "蔥白散\n解四時傷寒，頭痛壯熱，項背拘急，骨節煩疼，憎寒惡風，肢體困倦，大便不調，小便赤澀，嘔逆煩渴，不思飲食。又傷風感寒，頭痛體熱，鼻塞聲重，咳嗽痰涎；山嵐瘴氣，時行疫癘，並皆治之。\n川芎 蒼朮（米泔浸） 白朮（各二兩） 甘草（爁） 石膏（煅） 乾葛（焙，各一兩） 麻黃（去根、節，三兩）\n上件為細末。每服二錢，水一盞，生薑三片，蔥白二寸，煎至七分，熱服不拘時候。如要出汗，並煎三服，被蓋，汗出為度。",
+      "start": 33366,
+      "end": 33566,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "黃龍丸",
+    "nameStart": 33744,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "黃龍丸\n丈夫、婦人伏暑，發熱作渴，嘔吐噁心，年深暑毒不瘥者。\n黃連（去須，三十二兩） 好酒（五升）\n上黃連以酒煮乾為度，研為細末。用面水煮糊搜和為丸，如梧桐子大。每服三十丸，熱水吞下。又療傷酒過多，壯毒下血，大便泄瀉，用溫米飲吞下，食前進，一日兩服。",
+      "start": 33744,
+      "end": 33869,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "川芎茶調散",
+    "nameStart": 34078,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "川芎茶調散\n治丈夫、婦人諸風上攻，頭目昏重，偏正頭疼，鼻塞聲重；傷風壯熱，肢體煩疼，肌肉蠕動，膈熱痰盛；婦人血風攻注，太陽穴疼，但是感風氣，悉皆治之。\n薄荷葉（不見火，八兩） 川芎 荊芥（去梗，各四兩） 香附子（炒，八兩，別本作細辛去蘆一兩）〕 防風（去蘆，一兩半） 白芷 羌活 甘草（爁，各二兩）\n上件為細末。每服二錢，食後，茶清調下。常服清頭目。",
+      "start": 34078,
+      "end": 34253,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "神仙百解散",
+    "nameStart": 34530,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "神仙百解散\n（一名神仙截傷寒四季加減百解散） 治傷寒遍身疼痛，百節拘急，頭目昏痛，肢體勞倦，壯熱憎寒，神志不爽；感冒瘟疫瘴氣。常服闢瘟疫，治勞倦。\n山茵陳 柴胡（去蘆） 前胡（生薑制，炒） 人參 羌活 獨活 甘草 蒼朮（米泔浸，銼，炒） 乾葛 白芍藥 升麻 防風（去苗） 藁本（去蘆） 藿香（去梗） 白朮 半夏（薑汁炙，各一兩）\n立春以後不加減，立夏以後一料加：",
+      "start": 34530,
+      "end": 34711,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "人參順氣散",
+    "nameStart": 35494,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "人參順氣散\n治證、服法並與前人參順氣散同。\n人參 桔梗 甘草（炙） 乾葛 白朮 白芷（各一兩） 麻黃（去根、節，一兩半） 乾薑（半兩）\n服法見前。",
+      "start": 35494,
+      "end": 35567,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "來蘇散",
+    "nameStart": 35907,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "來蘇散\n解利四時溫疫，傷寒，身體壯熱，頭痛憎寒，項脊拘急，渾身疼痛，煩渴悶亂，大小便澀，嗜臥少力，全不思飲食，及諸氣疾，五勞七傷，山嵐瘴瘧，寒熱往來等疾，並皆治之。\n柴胡（去蘆） 甘草（炙） 乾薑（各二兩） 肉桂（去粗皮，不見火） 桔梗 防風 荊芥穗五加皮（各一兩） 芍藥（半兩） 麻黃（去節） 陳皮（去白，各一兩半） 黃耆（蜜水浸一宿，炙一分）\n上為細末。每服二錢，水一盞，生薑三片，同煎至八分，熱服，不拘時候。常服和順三焦，闢瘴氣，進飲食。",
+      "start": 35907,
+      "end": 36129,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "香薷湯",
+    "nameStart": 36130,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "香薷湯\n寬中和氣，調榮衛。治飲食不節，飢飽失時，或冷物過多，或硬物壅駐，或食畢便睡，或驚憂恚怒，或勞役動氣，便欲飲食，致令脾胃不和，三脘痞滯；內感風冷，外受寒邪，憎寒壯熱，遍體疼痛，胸膈滿悶，霍亂嘔吐，脾疼翻胃；中酒不醒；四時傷寒頭痛，並進三服，得汗即痊。常服益脾溫胃，散宿痰停飲，能進食，闢風、寒、暑、濕、霧露之氣。\n白扁豆（炒） 茯神 厚朴（去粗皮，銼，薑汁炒，各一兩） 香薷（去土，二兩） 甘草（炙，半兩）\n上為細末。每服二錢，沸湯點服，入鹽點亦得，不拘時。",
+      "start": 36130,
+      "end": 36362,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "蘇合香丸",
+    "nameStart": 37068,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "蘇合香丸\n療傳屍骨蒸，殗殜肺痿，疰忤鬼氣卒心痛，霍亂吐利，時氣鬼魅瘴瘧，赤白暴利，瘀血月閉，痃癖疔腫驚癇，鬼忤中人，小兒吐乳，大人狐貍等病。（麝香蘇合香丸方見後）\n白朮 青木香 烏犀屑 香附子（炒去毛） 硃砂（研，水飛） 訶黎勒（煨，去皮） 白檀香 安息香（別為末，用無灰酒一升熬膏） 沉香 麝香（研） 丁香 蓽茇（各二兩） 龍腦（研） 蘇合香油（入安息香膏內，各一兩） 薰陸香（別研一兩）\n上為細末，入研藥勻，用安息香膏並煉白蜜和劑，每服旋丸如梧桐子大。早朝取井華水，溫冷任意，化服四丸。老人、小兒可服一丸。溫酒化服亦得，並空心服之。用蠟紙裹一丸如彈子大，緋絹袋盛，當心帶之，一切邪神不敢近。",
+      "start": 37068,
+      "end": 37365,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "安息香丸",
+    "nameStart": 37366,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "安息香丸\n治一切冷氣，心腹疼痛，胸膈噎塞，脅肋膨脹，心下堅痞，腹中虛鳴，噦逆噁心，噫氣吞酸，胃中冷逆，嘔吐不止，宿飲不消，胸膈刺痛，時吐清水，不思飲食，並皆治之。\n肉桂（去粗皮，二兩半） 訶子（炮，取皮，二兩） 阿魏（細研，白麵少許搜和作餅子，炙令香熟，一分） 茯苓（白底） 當歸（湯洗，切片，焙乾） 乾薑（炮，去皮） 肉豆蔻（去殼） 川芎 丁香（皮） 縮砂仁 五味子（微炒） 巴戟（去心，麵炒） 益智（子，去皮） 白豆蔻（去皮，各一兩半） 硇砂（酒半盞化，去石，入蜜中） 檳榔（炮） 蓽澄茄 芍藥 莪朮 三稜（炮） 安息香（酒半盞化，去砂，入蜜） 香附（去毛） 茴香（微炒，各一兩半） 胡椒 高良薑 木香 沉香 乳香（別研） 丁香（各一兩）\n上件藥，除安息香、硇砂外，並一處杵，羅為細末，用蜜三十兩，入安息香、硇砂於蜜中煉熟，劑上件藥，杵一、二千下，丸如雞頭肉大。每服一丸，細嚼，溫酒下，濃煎生薑湯下亦得，食前服。",
+      "start": 37366,
+      "end": 37774,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "repeated_ingredient_name_ambiguous"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "理中丸",
+    "nameStart": 38258,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "理中丸\n理中焦不和，脾胃宿冷，心下虛痞，腹中疼痛，胸脅逆滿，噎塞不通，嘔吐冷痰，飲食不下，噫醋吞酸，口苦失味，怠惰嗜臥，全不思食。又治傷寒時氣，裡寒外熱，霍亂吐利，心腹絞痛，手足不和，身熱不渴，及腸鳴自利，米穀不化。\n白朮 乾薑（炮） 人參 甘草（爁，各二十兩）\n上為末，煉蜜為丸，每一兩作一十丸。每服一丸，食前，沸湯化下，嚼服亦得，或丸如梧桐子大服並得。大病新瘥，多睡不止，及新產內虛，皆可服之。常服溫脾暖胃，消痰逐飲，順三焦，進飲食，闢風、寒、濕、冷邪氣。",
+      "start": 38258,
+      "end": 38488,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "嘉禾散",
+    "nameStart": 39533,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "嘉禾散\n（亦名穀神散。） 治中滿下虛，五噎五膈，脾胃不和，胸膈痞悶，脅肋脹滿，心腹刺痛，不思飲食，或多痰逆，口苦舌酸，胸滿短氣，肢體怠惰，面色萎黃。如中焦虛痞，不任攻擊，臟氣虛寒，不受峻補；或因病氣衰，食不復常，稟受怯弱，不能多食，尤宜服之。常服育神養氣，和補脾胃，進美飲食。\n枇杷葉（去毛，盡塗薑汁，炙令香熟為度） 薏苡仁（微炒） 白茯苓（去皮） 人參（去蘆） 縮砂仁（去皮，各一兩） 大腹子（微炒） 隨風子（如無，楝實、訶子亦得） 杜仲（去皮，用薑汁與酒合和塗，炙令香熟微焦） 石斛（細銼，酒拌，微炒） 藿香葉 木香 沉香 陳皮（去白，各三分） 谷糵（微炒） 檳榔（炒） 丁香 五味子（微炒） 白豆蔻（微炒，去皮） 青皮（去瓤） 桑白皮（微炒，各半兩） 白朮（炒，二兩） 神麯（微炒） 半夏（湯洗七遍，生薑一分，切作片子，與半夏同搗爛，作餅炙黃，各一分） 甘草（炙，一兩半）\n上搗羅為末。每服二錢，水一盞，入生薑二片，肥棗三枚，同煎至七分，溫服不計時候。及療四時傷寒，能調治陰陽，使無變動，剋日得安。如療五噎，入乾柿一枚同煎，十服見效。如療膈氣，吐逆羸困，入薤白三寸、棗五枚同煎。婦人亦可服。",
+      "start": 39533,
+      "end": 40031,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "理中湯",
+    "nameStart": 40032,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "理中湯\n脾胃不和，中寒上衝，胸脅逆滿，心腹㽲痛，痰逆噁心，或時嘔吐，心下虛痞，隔塞不通，飲食減少，短氣羸困，溫中逐水，止汗去濕。又腸胃冷濕，泄瀉注下，水穀不分，腹中雷鳴，傷寒時氣，裡寒外熱，霍亂吐利，手足厥冷，胸痹心痛，逆氣結氣，並皆治之。\n人參 甘草（炒） 白朮 乾薑（炮，各三兩）\n上粗末。每三錢，以水一盞半，煎取中盞，去滓，稍熱服，空心、食前。",
+      "start": 40032,
+      "end": 40207,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "調中沉香湯",
+    "nameStart": 40208,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "調中沉香湯\n調中順氣，除邪養正。治心腹暴痛，胸膈痞滿，短氣煩悶，痰逆噁心，食飲少味，肢體多倦。常服飲食增進，腑臟和平，肌膚光悅，顏色光潤。\n麝香（研，半錢） 沉香（二兩） 生龍腦（研，一錢） 甘草（炙，一分） 木香 白豆蔻仁（各一兩）\n上為細末，入研藥勻。每服半錢，用沸湯點服，或入生薑一片、鹽少許亦得。酒食後服之大妙。",
+      "start": 40208,
+      "end": 40368,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "烏沉湯",
+    "nameStart": 40487,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "烏沉湯\n和一切氣，除一切冷，調中補五臟，益精壯陽道，暖腰膝，去邪氣。治吐瀉轉筋，症癖疼痛，風水毒腫，冷風麻痹。又主中惡心腹痛，蠱毒疰忤鬼氣，宿食不消，天行瘴疫，膀胱，腎間冷氣攻衝，背膂俯仰不利，及婦人血氣攻擊，心腹撮痛，並宜服之。\n天台烏（一百兩） 沉香（五十兩） 人參（三兩） 甘草（爁，四兩半）\n上為末。每服半錢，入生薑三片，鹽少許，沸湯點服，空心、食前。",
+      "start": 40487,
+      "end": 40667,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "五膈寬中散",
+    "nameStart": 40668,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "五膈寬中散\n治因憂恚、寒熱，動氣傷神，致陰陽不和，腑臟生病，結於胸膈之間，遂成五膈之病：一曰憂膈，胸中氣結，津液不通，飲食不下，羸瘦短氣；二曰恚膈，心下實滿，噫輒醋心，飲食不消，大小便不利；三曰氣膈，胸脅逆滿，噎塞不通，噫聞食臭；四曰寒膈，心腹脹滿，咳嗽氣逆，腹上苦冷雷鳴，繞臍痛，不能食肥；五曰熱膈，五心中熱，口中爛生瘡，四肢煩重，唇口乾燥，身體或熱，腰背疼痛，胸痹引背，不能多食，及一切氣疾，並皆治之。\n白豆蔻（去皮，二兩） 甘草（炙，五兩） 木香（三兩） 厚朴（去皮，生薑汁炙熟，一斤）縮砂仁 丁香 青皮（去白） 陳皮（去白，各四兩） 香附子（炒去毛，十六兩）\n上為細末。每服二錢，入生薑二片，鹽少許，沸湯點服，不計時。",
+      "start": 40668,
+      "end": 40981,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "小丁香丸",
+    "nameStart": 43088,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "小丁香丸\n消積滯生冷，留飲宿食，止痰逆噁心，霍亂嘔吐。治心腹脹悶，脅肋刺痛，胸膈痞滿，噎塞不通。常服順脾胃，進飲食。\n五靈脂（十二兩） 丁香（三兩） 木香（一兩半） 肉豆蔻（去殼，三十個） 巴豆（去皮、膜，出油，二百一十個）\n上為細末，入巴豆令勻，麵糊和令得所，丸如黍米大。每服五丸至七丸，溫生薑湯下，橘皮湯亦得，食後服。如霍亂吐逆，煎桃葉湯放冷下。小兒吐逆不定，三歲兒服三丸，五歲以下服四丸，用生薑桃葉湯下。",
+      "start": 43088,
+      "end": 43293,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "三稜煎丸",
+    "nameStart": 43294,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "三稜煎丸\n順氣寬中，消積滯，化痰飲。治中脘氣痞，心腹堅脹，脅下緊硬，胸中痞塞，喘滿短氣，噫氣不通，嘔吐痰逆，飲食不下，大便不調，或泄或秘。\n杏仁（湯浸，去皮、尖，麩炒黃色） 硇砂（飛研，各一兩） 神麯（碎，炒） 麥糵（炒，各三兩） 青皮（去白） 乾漆（炒） 蘿蔔子（微炒，各二兩） 三稜（生，細銼，搗羅為末，八兩，以酒三升，石器內熬成膏）\n上件為末，以三稜膏勻搜和丸，如梧桐子大。每服十五丸至二十丸，溫米飲下，食後服。",
+      "start": 43294,
+      "end": 43503,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "青木香丸",
+    "nameStart": 43504,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "青木香丸\n寬中利膈，行滯氣，消飲食。治胸膈噎塞，腹脅脹痛，心下堅痞，腸中水聲，嘔噦痰逆，不思飲食。\n補骨脂（炒香） 蓽澄茄 檳榔（酸粟米飯裹，濕紙包，火中煨令紙焦，去飯，各四十兩）黑牽牛（二百四十兩，炒香，別搗末一百二十兩） 木香（二十兩）\n上為細末，入牽牛末令勻，漸入清水和令得所，丸如綠豆大。每服二十丸，茶、湯、熟水任下，食後服。每酒食後可服五丸至七丸。小兒一歲服一丸。懷孕婦人不得服之。",
+      "start": 43504,
+      "end": 43700,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "如聖餅子",
+    "nameStart": 44917,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "如聖餅子\n治男子、婦人氣厥，上盛下虛，痰飲風寒，伏留陽經，偏正頭疼，痛連腦巔，吐逆噁心，目瞑耳聾。常服清頭目，消風化痰，暖胃。\n防風 天麻 半夏（生，各半兩） 天南星（洗） 乾薑 川烏（去皮、尖，各一兩） 川芎甘草（炙，各二兩）\n上為細末，湯浸蒸餅和丸，如雞頭大，捻作餅子曝乾。每服五餅，同荊芥三、五穗細嚼，茶、酒任下，熟水亦得，不拘時候。",
+      "start": 44917,
+      "end": 45087,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "missing_or_nonliteral_ingredient_list",
+      "ambiguous_printed_name_or_inline_size_preparation"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "俞山人降氣湯",
+    "nameStart": 45219,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "俞山人降氣湯\n治虛陽上攻，氣不升降，上盛下虛，膈壅痰實喘滿，咽乾不利，煩渴引飲，頭目昏眩，腰腳無力，四肢倦怠，咳嗽。兼治風濕腳氣。\n前胡 五加皮（薑汁塗，炙） 厚朴（姜浸一宿，炒） 黃耆（去蘆） 當歸 紫蘇子（微炒）甘草（炙） 肉桂（不見火） 陳皮（去白） 半夏曲（各一兩，炙） 乾薑（炮） 人參 附子（炮，去尖） 羌活 桔梗（炒，各半兩）\n上十五味，同作粗末。每服三錢，水一盞半，入紫蘇三葉，生薑三片，棗一枚，煎至七分，去滓，食後服。",
+      "start": 45219,
+      "end": 45437,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "incomplete_ingredient_parse_or_declared_count_mismatch"
+    ],
+    "unparsedFragments": [],
+    "parsedIngredientCount": 14,
+    "declaredIngredientCount": 15
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "小烏沉湯",
+    "nameStart": 46216,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "小烏沉湯\n調中快氣，治心腹刺痛。\n烏藥（去心，十兩） 甘草（炒，一兩） 香附子（沙盆內煅去皮、毛，焙乾，二十兩）\n上為細末。每服一錢，入鹽少許，或不著鹽，沸湯點服，不拘時。",
+      "start": 46216,
+      "end": 46302,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "丁沉煎丸",
+    "nameStart": 46303,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "丁沉煎丸\n闢霧露寒邪，散膈脘凝滯，調順三焦，和養榮衛。治心胸痞悶，噎醋吞酸，嘔逆痰水，津液不收，兩脅刺痛，腹中堅滿，口苦無味，不思飲食。\n丁香（十二兩） 沉香（二兩） 木香（一錢半） 丁香皮（一兩） 白豆蔻仁（九兩半）\n上為細末，別用甘草熬膏子為丸，每一兩分作二百五十丸。每服一粒，含化，空心食。",
+      "start": 46303,
+      "end": 46451,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "小七香丸",
+    "nameStart": 47615,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "小七香丸\n能溫中快膈，化積和氣。治中酒吐酒，嘔逆咽酸，氣膈食噎，飲食不下，冷涎翻胃，腹脹脾疼，遠年茶酒食積，眼臉俱黃，赤白痢疾，脾毒泄瀉。婦人脾血氣，小兒疳氣，並宜服之。\n甘松（炒，八十兩） 益智仁（炒，六十兩） 香附子（炒，去毛） 丁香皮 甘草（炒，各一百二十兩） 蓬莪朮（煨，乘熱碎） 縮砂仁（各二十兩）\n上為末，水浸蒸餅為丸，如綠豆大。每服二十丸，溫酒、薑湯、熟水任下。或氣脹滿，磨烏藥水煎湯下。或酒食過度，頭眩噁心，胸膈滿悶，先嚼二十丸，後吞二十丸，生薑、紫蘇湯下。此藥性溫平，不動臟腑。",
+      "start": 47615,
+      "end": 47863,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "分氣紫蘇飲",
+    "nameStart": 48268,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "分氣紫蘇飲\n治男子、女人脾胃不和，胸膈噎塞，腹脅疼痛，氣促喘急，心下脹悶，飲食不思，嘔逆不止。\n五味子（去梗，洗） 桑白皮（炙，銼） 陳皮（去白，淨洗） 桔梗（銼） 草果仁 大腹皮甘草（炙） 茯苓（各三斤）\n上八味，㕮咀為粗末，稱二十斤淨，入揀嫩枝、葉、乾紫蘇十五斤，搗碎，同一處拌勻。每服四錢，水一大盞，姜錢三片，入鹽少許，同煎至七分，去滓空心食前。常服和胃進食。",
+      "start": 48268,
+      "end": 48451,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "incomplete_ingredient_parse_or_declared_count_mismatch"
+    ],
+    "unparsedFragments": [],
+    "parsedIngredientCount": 7,
+    "declaredIngredientCount": 8
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "溫中良薑丸",
+    "nameStart": 48818,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "溫中良薑丸\n溫脾胃，順三焦。治寒痰聚結，氣壅不通，食即輒吐，咽膈噎悶，兩脅肋㽲刺，嘔吐噦逆，噫醋噁心，中滿短氣，噎聞食臭，及療留飲腸鳴，濕泄、冷瀉，注下不止。常服健脾胃，美飲食，闢寒邪，養正氣。\n高良薑（炒，四斤） 乾薑（炮） 白朮（各二斤四兩） 肉桂（去粗皮，二十八兩） 甘草（爁，一斤）\n上為細末，煉蜜為丸，每一兩作一十二丸。每服一丸，細嚼，生薑橘皮湯，米飲亦得，空心，食前。",
+      "start": 48818,
+      "end": 49008,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "蘇子降氣湯",
+    "nameStart": 49550,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "蘇子降氣湯\n治男、女虛陽上攻，氣不升降，上盛下虛，膈壅痰多，咽喉不利，咳嗽，虛煩引飲，頭目昏眩，腰疼腳弱，肢體倦怠，腹肚㽲刺，冷熱氣瀉，大便風秘，澀滯不通，肢體浮腫，有妨飲食。\n紫蘇子 半夏（湯洗七次，各二兩半） 川當歸（去蘆，兩半） 甘草（爁，二兩） 前胡（去蘆） 厚朴（去粗皮，薑汁拌炒，各一兩） 肉桂〔去皮，一兩半（一本有陳皮去白，一兩半）〕\n上為細末。每服二大錢，水一盞半，入生薑二片，棗子一個，紫蘇五葉，同煎至八分，去滓熱服，不拘時候。常服清神順氣，和五臟，行滯氣，進飲食，去濕氣。",
+      "start": 49550,
+      "end": 49796,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "金露丸",
+    "nameStart": 50514,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "金露丸\n（依林巢先生方，天寶七年內王元覽進） 治腹內積聚症塊，久患大如杯及黃瘦宿水，朝暮咳嗽，積年冷氣，時復腹下盤痛絞結，衝心及兩脅，徹背連心，痛氣不息，氣繞臍下，狀如蟲咬不可忍。又治十種水氣，反胃吐食嘔逆，飲食多噎，五般痔瘻，腝氣走注風，有似蟲行，手足煩熱，夜臥不安，睡語無度。又治小兒驚疳，婦人五邪，夢與鬼交，沉重不思飲食，昏昏如夢，不曉人事，欲死俱多，或歌或哭不定，月候不調，心中如狂，身體羸瘦，莫辨其狀，但服此藥，萬無失一，是病皆療，更不細述。\n生乾地黃（銼，焙） 貝母（去心） 紫菀（洗，去苗，銼，焙） 柴胡（去蘆，銼，焙） 乾薑（炮） 桂心（不見火） 人參（洗，去蘆，切，焙） 防風（去蘆，銼，焙） 枳殼（湯浸，去瓤，麩炒） 蜀椒（去目，炒出汗） 桔梗（洗，去蘆，銼，焙） 吳茱萸（湯浸七遍） 甘草（炙） 芎藭（洗，去蘆，銼，焙） 菖蒲（米泔浸一宿） 白茯苓（去黑皮，銼，焙） 厚朴（去粗皮，薑汁製） 鱉甲（米醋炙黃） 甘松（淨洗，各一兩） 草烏頭（炮） 黃連（洗，銼，焙，各二兩） 巴豆（去心、膜，用醋煮三十沸，焙乾，取一兩，不去油，煮時須親自數三十沸，便傾出焙乾，若沸過則藥無力。一方用甘遂）\n上為細末，以麵糊丸，如梧桐子大。每服五丸，小兒兩丸。心中痰患，薑湯下。心痛，酸石榴皮湯下。口瘡，蜜湯下。頭痛，石膏湯蔥茶下。一切脾氣，橘皮湯下。水瀉、氣瀉，煮陳皮飲下。赤痢，甘草湯下。白痢，乾薑湯下。赤白痢，甘草乾薑湯下。胸膈噎悶，通草湯下。婦人血氣，當歸酒下；如不飲酒，當歸煎湯下亦得。疝氣、嵐氣、小腸氣及下墜，附子湯下。常服及應急諸般疾患，只米飲、茶、酒、熟水任下。傷冷腹痛，酒食所傷，酒疸、黃疸，結氣痞塞，鶴膝，並用鹽湯、鹽酒下。",
+      "start": 50514,
+      "end": 51237,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "枳實理中丸",
+    "nameStart": 53079,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "枳實理中丸\n理中焦，除痞滿，逐痰飲，止腹痛。大治傷寒結胸欲絕，心膈高起，實滿作痛，手不得近。\n枳實（麩炒，一兩） 白朮 人參（去蘆） 甘草（炙） 白茯苓（去皮） 乾薑（炮，各二兩）\n上搗，羅為細末，煉蜜為丸，如雞子黃大。每服一丸，熱湯化下。連進二、三服，胸中豁然，不拘時候。",
+      "start": 53079,
+      "end": 53216,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "白沉香散",
+    "nameStart": 53354,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "白沉香散\n治一切冷氣攻衝心腹，脅肋脹滿，噫醋吞酸，胸膈噎塞，飲食減少。常服墜氣和脾胃。\n川白姜（炒） 半夏曲 白茯苓 附子（炮熟、去皮） 訶子肉 乾山藥 沉香 白朮（煨）木香 人參（去蘆，各一兩半） 丁香（半兩） 甘草（炙，六錢）\n上為細末。每服二大錢，水一中盞，生薑三片，棗三枚，木瓜一片，煎七分，食前服。",
+      "start": 53354,
+      "end": 53508,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "二姜丸",
+    "nameStart": 53898,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "二姜丸\n養脾溫胃，去冷消痰。大治心脾疼痛，寬胸下氣，進美飲食。療一切冷物所傷，並皆治之。\n乾薑（炮） 良薑（去蘆頭）\n上件等分為細末，麵糊為丸，如梧桐子大。每服十五丸至二十丸，食後，橘皮湯下。妊娠婦人不宜服。",
+      "start": 53898,
+      "end": 54002,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "守中金丸",
+    "nameStart": 55176,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "守中金丸\n理中焦不和，脾胃積冷，心下虛痞，腹中疼痛；或飲酒過多，胸脅逆滿，噎塞不通，咳嗽無時，嘔吐冷痰，飲食不下，噫醋吞酸，口苦失味，怠惰嗜臥，不思飲食。又治傷寒時氣，裡寒外熱，霍亂吐利，心腹絞疼，手足不和，身熱不渴，腸鳴自利，米穀不化。\n乾薑（炮） 甘草（爁） 蒼朮（米泔浸） 桔梗（去蘆）\n上件各等分，銼為細末。煉蜜為丸，如彈子大。每服一丸，食前，沸湯嚼下。又治脾胃留濕，體重節痛，面色萎黃，肌肉消瘦。常服溫脾暖胃，消痰逐飲，順三焦，進美飲食，闢風、寒、濕、冷。",
+      "start": 55176,
+      "end": 55409,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "分心氣飲",
+    "nameStart": 56627,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "分心氣飲\n治證與前分心氣飲同。\n木通（去節） 赤芍藥 赤茯苓 肉桂（去粗皮） 半夏（湯洗七次） 桑白皮（微炒） 大腹皮 陳皮（去瓤） 青皮（去白） 甘草（炙） 羌活（各一兩） 紫蘇（去粗梗，四兩）\n上為粗末。每服三錢，水一盞，生薑三片，棗二個，燈心五莖，同煎至七分，去滓，溫服，不拘時候。常服消化滯氣，升降陰陽，調順三焦，和脾進食。",
+      "start": 56627,
+      "end": 56793,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "木香分氣丸",
+    "nameStart": 56794,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "木香分氣丸\n治證與前木香分氣丸同\n木香 丁香皮 香附子（炒，去毛） 蓬莪朮（煨） 縮砂仁 甘草（各四兩） 藿香葉 川薑黃 檀香 甘松（洗，各一兩）\n上十味曬乾，不見火，搗，羅為細末，稀糊為丸，如梧桐子大。每服二十丸至三十丸，生薑橘皮湯吞下，不計時候。脾胃虛弱人最宜服之。常服寬中順氣，進飲食。",
+      "start": 56794,
+      "end": 56940,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "鹽煎散",
+    "nameStart": 58170,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "鹽煎散\n治證與前鹽煎散同。\n良薑（炒） 蒼朮（去皮，各十二兩） 縮砂（去皮） 茴香（炒，各五兩） 肉桂（去粗皮，不見火） 丁皮（各二兩） 橘紅（十兩） 甘草（炒，六兩） 青皮（去白，四兩） 山藥（半斤）\n上細末。每服二錢，水一盞半，入鹽一字，煎至八分，空心，食前。",
+      "start": 58170,
+      "end": 58302,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "盧氏異方感應丸",
+    "nameStart": 59338,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "盧氏異方感應丸\n與和劑方大不同，但用，修制須如法，分兩最要勻停，只是暖化，不可偏勝。此藥積滯不動臟腑，其功用妙處在用蠟之多，切不可減。常服健脾進食，永無寒熱瀉痢之疾。蓋消磨積滯以漸，自然無疾，遇酒食醉飽，尤宜多服，神效不可述。\n黃蠟（真者十兩） 巴豆（百粒，去皮，研為粉，用紙數重裹捶，油透再易紙，至油盡成白霜為妙） 乳香（銼，研，三錢） 杏仁（七十枚，去皮、尖，研細，依巴豆法去油） 丁香（懷干） 木香（濕紙裹，煨） 乾薑（炮） 肉豆蔻（麵裹，煨） 蓽澄茄 檳榔 青皮（湯洗，去瓤，炒） 百草霜（篩細） 片子薑黃（各一兩）\n上除巴豆粉、百草霜、杏仁、乳香外，余併為細末，卻同前四味拌和研勻。先將上項黃蠟十兩，於銀、石器內熔化作汁，用重綿濾去滓，以無灰好酒一升，於銀、石器內煮蠟熔，數滾取起，候冷，其蠟自浮於酒上，去酒不用。春夏修，合用清麻油一兩，秋冬用油一兩半，於大銀器內熬，令香熟；次下酒煮蠟，同化作汁，乘熱拌和前項藥末十分均勻了，候稍凝，分作劑子，用罐子盛之，半月後方可服。如服，旋丸如蘿蔔子大，任意服之，二、三十丸加至五十丸無礙。此藥以蠟多，雖難丸，然丸子愈細，其功愈博，臨睡須常服之。若欲治病，不拘時候。",
+      "start": 59338,
+      "end": 59845,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "木香流氣飲",
+    "nameStart": 59846,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "木香流氣飲\n調順榮衛，通流血脈，快利三焦，安和五臟。治諸氣痞滯不通，胸膈膨脹，口苦咽乾，嘔吐少食，肩背腹脅走注刺痛，及喘急痰嗽，面目虛浮，四肢腫滿，大便秘結，水道赤澀。又治憂思太過，怔忪鬱積，腳氣風熱，聚結腫痛，喘滿脹急。\n半夏（湯洗七次，二兩） 陳皮（去白，二斤） 厚朴（去粗皮，薑製，炒） 青皮（去白） 甘草（爁） 香附（炒，去毛） 紫蘇葉（去枝、梗，各一斤） 人參 赤茯苓（去黑皮） 乾木瓜石菖蒲 白朮 白芷 麥門冬（各四兩） 草果仁 肉桂（去粗皮，不見火） 蓬莪朮（煨，切） 大腹皮 丁香皮 檳榔 木香（不見火） 藿香葉（各六兩） 木通（去節，八兩）\n上粗末。每四錢，水盞半，姜三片，棗二枚，煎七分，去滓熱服。如傷寒頭痛，才覺得疾，入連根蔥白三寸煎，升降陰陽，汗出立愈。臟腑自利，入粳米煎。婦人血氣癥瘕，入艾，醋煎，並不拘時。",
+      "start": 59846,
+      "end": 60213,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "五香散",
+    "nameStart": 60214,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "五香散\n升降諸氣，宣利三焦，疏導壅滯，發散邪熱。治陰陽之氣鬱結不消，諸熱蘊毒，腫痛結核，或似癰癤而非，使人頭痛惡心，寒熱氣急。\n木香 丁香 沉香 乳香 藿香（各等分）\n上為粗末。每服三錢，水一盞半，煎至八分，去滓，食後溫服。",
+      "start": 60214,
+      "end": 60326,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "人參木香散",
+    "nameStart": 60327,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "人參木香散\n順氣寬中。治胸膈痞塞，心腹刺痛，脅肋脹滿，飲食減少，噫氣吞酸，嘔逆噎悶，一切氣疾，並皆治之。\n木香（不見火） 青皮（不去白，各三斤） 薑黃 麥糵（去土，炒，各五斤） 甘草（銼，炒，十一斤） 蓬莪朮（刷洗，四斤） 鹽（炒，十一斤）\n上為末。每服一錢，沸湯點服，不計時候。",
+      "start": 60327,
+      "end": 60467,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "十八味丁沉透膈湯",
+    "nameStart": 60468,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "十八味丁沉透膈湯\n治脾胃不和，中寒上氣，脅肋脹滿，心腹㽲痛，痰逆噁心；或時嘔吐，飲食減少，十膈五噎，痞塞不通，噫氣吞酸，口苦失味，並皆主之。\n白朮（二兩） 香附（炒） 人參 縮砂仁（各一兩） 丁香（炙） 麥糵 肉豆蔻（煨） 白豆蔻 木香 青皮（各半兩） 甘草（炙，一兩半） 半夏（湯泡七次，二錢半） 藿香 厚朴（姜炒，各七錢半） 神麯（炒） 草果（各二錢半） 沉香 陳皮〔各七錢半，（一本無丁香、白豆蔻。有白芷、檳榔各半兩）〕\n上㕮咀。每四錢，水二大盞，姜三片，棗一個，煎八分，去滓，熱服。",
+      "start": 60468,
+      "end": 60713,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "麝香蘇合香丸",
+    "nameStart": 60714,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "麝香蘇合香丸\n方與前蘇合香丸方同，只去腦子。",
+      "start": 60714,
+      "end": 60736,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link",
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "廿四味流氣飲",
+    "nameStart": 60737,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "廿四味流氣飲\n方與木香流氣飲方同。但無石菖蒲、藿香，有沉香、枳殼、大黃。（沉香六兩。枳殼去瓤，麩炒，四兩。大黃麵裹，煨，去面，切，二兩。出《集驗方》）。",
+      "start": 60737,
+      "end": 60813,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link",
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "木香檳榔丸",
+    "nameStart": 60814,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "木香檳榔丸\n疏導三焦，寬利胸膈，破痰逐飲，快氣消食，通潤大腸。\n郁李仁（去皮） 皂角（去皮，酥炙） 半夏曲（各二兩） 檳榔 枳殼（麩炒） 木香（不見火） 杏仁（去皮、尖、麩炒） 青皮（去白，各一兩）\n上為細末，別用皂角四兩，用漿水一碗搓揉熬膏，更入熟蜜少許，和丸如梧桐子大。每服五十丸，食後溫生薑湯下。",
+      "start": 60814,
+      "end": 60965,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "消飲丸",
+    "nameStart": 61142,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "消飲丸\n療酒癖停飲，痰水不消，滿逆嘔吐，目暗耳聾，脅下急痛，腹中水聲。\n枳實（麩炒，半兩） 茯苓（去皮） 乾薑（炮，各三兩） 白朮（八兩）\n上同為細末，煉蜜和丸，如梧桐子大。每服五十丸，溫米飲下，不計時候。",
+      "start": 61142,
+      "end": 61245,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "金珠化痰丸",
+    "nameStart": 61547,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "金珠化痰丸\n治痰熱，安神志，除頭痛眩運，心忪恍惚，胸膈煩悶，涕唾稠黏，痰實咳嗽，咽嗌不利。\n皂莢仁（炒） 天竺黃 白礬（光明者，放石、鐵器內熬汁盡，放冷，研） 鉛白霜（細研）各一兩 半夏（湯洗七次，用生薑二兩洗，刮去皮，同搗細，作餅子，炙微黃色，四兩） 生白龍腦（細研，半兩） 辰砂（研飛，二兩） 金箔（為衣，二十片）\n上以半夏、皂莢子仁為末，與諸藥同拌研勻，生薑汁煮麵為糊為丸，如梧桐子大。每十丸至十五丸，生薑湯下，食後，臨臥服。",
+      "start": 61547,
+      "end": 61763,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "桔梗湯",
+    "nameStart": 62047,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "桔梗湯\n除痰下氣。治胸脅脹滿，寒熱嘔噦，心下堅痞，短氣煩悶，痰逆噁心，飲食不下。\n桔梗（細銼，微炒） 半夏（湯洗七次，薑汁製） 陳皮（去瓤，各十兩） 枳實（麩炒赤黃，五兩）\n上為粗末。每服二錢，水一中盞，入生薑五片，同煎至七分，去滓溫服，不計時候。",
+      "start": 62047,
+      "end": 62171,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "百部丸",
+    "nameStart": 62726,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "百部丸\n治肺氣不調，咳嗽喘急，胸膈煩悶，唇乾口燥，面目浮腫，咽嗌不利，積久不瘥。咯唾膿血者，亦宜服之。\n天門冬（去心，一斤） 杏仁（去皮、尖，炒） 黃耆 百部根（各六兩） 栝蔞根（十六兩）紫蘇 紫菀（去苗，洗） 馬兜鈴（各二十二兩） 黑參（八兩） 肉桂（去粗皮，四兩）\n上同為細末，煉蜜和丸，如梧桐子大。每服十五丸，煎烏梅甘草湯溫下，食後服。",
+      "start": 62726,
+      "end": 62897,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "藿香散",
+    "nameStart": 63590,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "藿香散\n溫脾胃，化痰飲，消宿冷，止嘔吐。治胸膈痞滿，腹脅脹痛，短氣噎悶，咳嘔痰水，噎醋吞酸，噦逆噁心，及治山嵐瘴氣。\n厚朴（去粗皮，薑汁炙） 甘草（炙） 半夏（切作四片，薑汁浸一宿，以粟炒黃） 藿香葉（各一兩） 陳皮（去白，半兩）\n上為粗散。每服二錢，水一盞，入生薑三片，棗一枚，同煎七分，去滓，熱服，不計時候，日二、三服。",
+      "start": 63590,
+      "end": 63752,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "縮砂丸",
+    "nameStart": 65391,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "縮砂丸\n溫中散滯，消飲進食。治胸膈噎悶，心腹冷疼，大能暖化生冷果食，夏月不可缺此。\n縮砂仁（一兩） 高良薑 天南星（湯洗七次，焙乾，各四兩）\n上為細末，生薑自然汁煮麵糊為丸，如梧桐子大。每服五十丸至七十丸，生薑湯下，不拘時候。",
+      "start": 65391,
+      "end": 65504,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "溫中化痰丸",
+    "nameStart": 65756,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "溫中化痰丸\n治證與前溫中化痰丸同。\n乾薑（炮） 半夏（煮，各一兩） 細辛（去葉，洗） 胡椒（各半兩） 白朮（焙，二兩）\n上為細末，生薑汁打麵糊為丸，如梧桐子大。每服三十丸至五十丸，湯、飲任下，不拘時候。",
+      "start": 65756,
+      "end": 65857,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "定喘瑞應丹",
+    "nameStart": 66537,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "定喘瑞應丹\n專治男子、婦人久患咳嗽，肺氣喘促，倚息不得睡臥，累年不瘥，漸致面目虛浮。\n蟬蛻（洗，去土、足、翅，炒） 杏仁（去皮、尖，炒） 馬兜鈴（各二兩） 煅砒（六錢）\n上為細末，蒸棗肉為丸，如葵子大。每服六、七丸，臨睡用蔥茶清放冷下。服後忌熱物半日。（一本用知母六兩，不用馬兜鈴。）",
+      "start": 66537,
+      "end": 66679,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "新法半夏湯",
+    "nameStart": 66882,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "新法半夏湯\n治脾胃不和，中脘氣滯，宿寒留飲，停積不消，心腹刺痛，臟腑膨脹，嘔吐痰水，噫氣吞酸；或中酒吐酒，噦逆噁心，頭疼煩渴，倦怠嗜臥，不思飲食，並宜服之。\n青皮（去白） 乾薑（炮）各六兩 桔梗（炒） 陳皮（去白）各一兩 丁香皮（四兩） 甘草（炒，十二兩） 半夏（湯洗，薑汁製，二兩半）\n上為細末。每服一錢，入鹽一捻，沸湯點服，不拘時候。常服溫和三焦，開胃健脾，消宿酒，進飲食。",
+      "start": 66882,
+      "end": 67071,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "杏參散",
+    "nameStart": 67947,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "杏參散\n除痰下氣，治胸脅脹滿，上氣喘急，倚息不得睡臥，神思昏憒，宜服之。\n桃仁（去皮、尖，麩炒） 人參（去蘆） 杏仁（去皮、尖，麩炒） 桑白皮（蜜炒微赤，再泔浸一宿，焙）\n上等分為細末。每服二錢，水一盞半，姜三片，棗一個，煎至七分，溫服，不拘時候。",
+      "start": 67947,
+      "end": 68071,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "膃肭臍丸",
+    "nameStart": 68870,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "膃肭臍丸\n補虛壯氣，暖背祛邪，益精髓，調脾胃，進飲食，悅顏色。治五勞七傷，真氣虛憊，臍腹冷痛，肢體痠疼，腰背拘急，腳膝緩弱，面色黧黑，肌肉消瘦，目暗耳鳴，口苦舌乾，腹中虛鳴，脅下刺痛，飲食無味，心常慘慼，夜多異夢，晝少精神，小便滑數，時有餘瀝，房室不舉，或夢交通，及一切風虛痼冷，並宜服之。\n膃肭臍（一對，慢火酒炙令熟） 硇砂（研飛，二兩） 精羊肉（熟切碎爛，研） 羊髓（取汁，各一斤） 沉香 神麯（炒，各四兩）\n以上六味，用無灰好酒一斗，同於銀器內，慢火熬成膏，候冷入下項藥。",
+      "start": 68870,
+      "end": 69109,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "何首烏丸",
+    "nameStart": 70157,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "何首烏丸\n補暖腑臟，祛逐風冷，利腰膝，強筋骨，黑髭發，駐顏容。\n何首烏（三斤，用銅刀或竹刀切如棋子大，木杵臼搗） 牛膝（去苗，銼，一斤）\n上件藥，以黑豆一斗淨淘洗曝乾，用甑一所，先以豆薄鋪在甑底，然後薄鋪何首烏，又鋪豆，又薄鋪牛膝。如此重重鋪，令藥、豆俱盡，安於釜上蒸之，令豆熟為度。去黑豆，取藥曝乾，又換豆蒸之，如此三遍，去豆取藥，候乾為末，蒸棗肉和丸，如梧桐子大。每服三十丸，溫酒下，食前服。忌蘿蔔、蔥、蒜。此藥性溫無毒，久服輕身，延年不老。",
+      "start": 70157,
+      "end": 70380,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "五補丸",
+    "nameStart": 71471,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "五補丸\n補諸虛，安五臟堅骨髓，養精神。\n地骨皮 白茯苓（去皮） 牛膝（去苗，酒浸一宿） 熟乾地黃 人參（各一兩）\n上為末，煉蜜為丸，如梧桐子大。每服三十丸，溫酒下，空心，食前服。稍增至五十丸，日二服。服至十日及半月，覺氣壅，即服七宣丸。服七宣丸二、三日，覺氣散，即還服五補丸。久服去百病，髭發黑潤。",
+      "start": 71471,
+      "end": 71620,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "麝香鹿茸丸",
+    "nameStart": 74474,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "麝香鹿茸丸\n益真氣，補虛憊。治下焦傷竭，臍腹絞痛，兩脅脹滿，飲食減少，肢節煩疼，手足麻痹，腰腿沉重，行步艱難，目視茫茫，夜夢鬼交，遺泄失精，神情不爽，陽事不舉，小便滑數，氣虛腸鳴，大便自利，虛煩盜汗，津液內燥，並宜服。\n鹿茸（火燎去毛，酒浸，炙，七十兩） 熟乾地黃（淨洗，酒浸，蒸，焙，十斤） 附子（炮，去皮、臍，一百四十個） 牛膝（去苗，酒浸一宿，焙，一斤四兩） 杜仲（去粗皮，炒去絲，三斤半） 五味子（二斤） 山藥（四斤） 肉蓯蓉（酒浸一宿，三斤）\n上為末，煉蜜為丸，如梧桐子大，每一斤丸子，用麝香末一錢為衣。每服二十粒，溫酒下，鹽湯亦得，食前服。（嘉定十年十二月申明改正）",
+      "start": 74474,
+      "end": 74763,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "黃耆六一湯",
+    "nameStart": 77358,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "黃耆六一湯\n大治男子、婦人諸虛不足，肢體勞倦，胸中煩悸，時常焦渴，唇口乾燥，面色痿黃，不能飲食。或先渴而欲發瘡癤，或病癰疽而後渴者，尤宜服此。常服平補氣血，安和臟腑。\n黃耆（去蘆，蜜炙，六兩） 甘草（炙，一兩）\n上㕮咀。每二錢，水一盞，棗一枚，煎至七分，去滓，溫服，不拘時。",
+      "start": 77358,
+      "end": 77495,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "張走馬玉霜丸",
+    "nameStart": 79061,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "張走馬玉霜丸\n療男子元陽虛損，五臟氣衰，夜夢遺泄，小便白濁，臍下冷疼，陽事不興，久無子息，漸致瘦弱，變成腎勞，眼昏耳鳴，腰膝痠疼，夜多盜汗，並宜服之，自然精元秘固，內施不泄，留濁去清，精神安健。如婦人宮臟冷，月水不調，赤白帶漏，久無子息，面生䵟𪒟，發退不生，肌肉乾黃，容無光澤，並宜服此藥。\n大川烏（用蚌粉半斤同炒，候裂，去蚌粉不用） 川楝子（麩炒，各八兩） 破故紙（炒） 巴戟（去心，各四兩） 茴香（焙，六兩）\n上件碾為細末，用酒打麵糊為丸，如梧桐子大。每服三、五十丸，用酒或鹽湯下，空心，食前。",
+      "start": 79061,
+      "end": 79310,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "降心丹",
+    "nameStart": 79311,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "降心丹\n心腎不足，體熱盜汗，健忘遺精，及服熱藥過多，上盛下虛，氣血不降，小便赤白，稠濁不清。常服鎮益心神，補虛養血，益丹田，秘精氣。\n熟乾地黃（淨洗，酒浸，蒸，焙乾） 天門冬（去心） 麥門冬（去心，各三兩） 茯苓（去皮） 人參 遠志（甘草煮，去蘆、骨） 茯神 山藥（各二兩） 肉桂（去粗皮，不見火） 硃砂（研飛，各半兩） 當歸（去蘆，洗，焙，三兩）\n上為末，煉蜜為丸，如梧桐子大。每服三十丸，煎人參湯吞下。",
+      "start": 79311,
+      "end": 79514,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "沉香鱉甲散",
+    "nameStart": 80657,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "沉香鱉甲散\n治男子、婦人五勞七傷，氣血虛損，腰背拘急，手足沉重，百節痠疼，面色黑黃，肢體倦怠，行動喘乏，胸膈不快，咳嗽痰涎，夜多異夢，盜汗失精，嗜臥少力，肌肉瘦瘁，不思飲食，日漸羸弱，一切勞傷，諸虛百損，並能治之。\n乾蠍（二錢半） 沉香（不見火） 人參（去蘆） 木香（不見火） 巴戟（去心） 牛膝（去蘆，酒浸） 黃耆（去蘆） 白茯苓（焙） 柴胡 荊芥（去梗） 半夏（薑汁浸二宿，炒） 川當歸（去蘆） 秦艽（去蘆）各半兩 附子（炮，去皮、臍） 肉桂（去粗皮） 鱉甲（醋浸，去裙，炙黃，各一兩） 羌活 熟乾地黃（淨洗，酒灑，蒸，焙，各七錢半） 肉豆蔻（四個）\n上為細末。每服二錢，水一盞，蔥白二寸，生薑三片，棗子二枚，擘破，同煎至七分，空心，食前。",
+      "start": 80657,
+      "end": 80979,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "椒附丸",
+    "nameStart": 81532,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "椒附丸\n補虛壯氣，溫和五臟。治下經不足，內挾積冷，臍腹弦急，痛引腰背，四肢倦怠，面色黧黑，唇口乾燥，目暗耳鳴，心忪短氣，夜多異夢，晝少精神，時有盜汗，小便滑數，遺瀝白濁，腳膝緩弱，舉動乏力，心腹脹滿，不進飲食，並宜服之。\n附子（炮，去皮、臍） 川椒（去目，炒出汗） 檳榔（各半兩） 陳皮（去白） 牽牛（微炒）五味子 石菖蒲 乾薑（炮，各一兩）\n上八味銼碎，以好米醋，於瓷器內，用文武火煮，令乾，焙為細末，醋煮麵糊為丸，如梧桐子大。每服三十丸，鹽酒或鹽湯空心食前吞下。婦人血海冷，當歸酒下。泄瀉，飯飲下。冷痢，薑湯下。赤痢，甘草湯下。極暖下元，治腎氣虧乏，及療腰疼。",
+      "start": 81532,
+      "end": 81814,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link",
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "平補鎮心丹",
+    "nameStart": 81815,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "平補鎮心丹\n治證與前平補鎮心丹同。\n熟乾地黃 生乾地黃 乾山藥 天門冬 麥門冬（去心） 柏子仁 茯神〔各四兩，（一本七兩）〕 辰砂（別研為衣） 苦梗（炒，各三兩） 石菖蒲（節密者，十六兩） 遠志（去心，以甘草煮三、四沸，七兩） 當歸（去蘆，六兩） 龍骨（一兩）\n上為細末，煉蜜為丸，如梧桐子大。每服三十丸，空心，飯飲吞下，溫酒亦得，漸加至五十丸。宜常服，益精髓，養氣血，明視聽，悅色駐顏。",
+      "start": 81815,
+      "end": 82009,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link",
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "青娥丸",
+    "nameStart": 82010,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "青娥丸\n治證與前青娥丸同。\n胡桃肉（三十個，去皮、膜，別研如泥） 補骨脂（用芝麻同於銀器內炒熟） 杜仲皮（去粗皮，銼，麩炒黃色，去麩，乘熱略杵碎，又用酒灑勻再炒，各六兩）\n上為細末，入研藥令勻，酒糊丸，如梧桐子大。每服三、五十丸，溫酒、鹽湯下，空心，食前服。",
+      "start": 82010,
+      "end": 82139,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "小安腎丸",
+    "nameStart": 82520,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "小安腎丸\n治腎氣虛乏，下元冷憊，夜多旋溺，肢體倦怠，漸覺羸瘦，腰膝沉重，嗜臥少力，精神昏憒，耳作蟬鳴，面無顏色，泄瀉腸鳴，眼目昏暗，牙齒蛀痛，並皆治之。\n香附子 川烏 川楝子（以上各一斤，用鹽四兩，水四升同煮，候乾銼，焙）熟乾地黃（八兩） 茴香（十二兩） 川椒（去目及閉口者，微炒出汗，四兩）\n上六味為細末，酒糊為丸，如梧桐子大。每服二十丸至三十丸，空心臥服，鹽湯、鹽酒任下。常服補虛損，益下元。",
+      "start": 82520,
+      "end": 82718,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "incomplete_ingredient_parse_or_declared_count_mismatch"
+    ],
+    "unparsedFragments": [],
+    "parsedIngredientCount": 5,
+    "declaredIngredientCount": 6
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "三建丹",
+    "nameStart": 82719,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "三建丹\n壯元陽，補真氣。治勞傷虛損，下經衰竭，腎氣不固，精溺遺失，臟腑自利，手足厥冷，或脈理如絲，形肉消脫，或惡聞食氣，聲嘶失音。\n陽起石（火煅通紅） 附子（炮，去皮、臍） 鍾乳粉（各等分）\n上為細末和勻，用糯米糊為丸，如梧桐子大。每服二十丸至三十丸，米飲送下，食前服。忌豉汁、羊血。",
+      "start": 82719,
+      "end": 82861,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "十四友丸",
+    "nameStart": 84512,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "十四友丸\n補心腎虛，怔忪昏憒，神志不寧，睡臥不安。故《經》曰：「臟有所傷，情有所倚，人不能知其病，則臥不安。」\n熟地黃 白茯苓 白茯神（去木） 人參 酸棗仁（炒） 柏子仁（別研） 紫石英（別研） 肉桂 阿膠（蛤粉炒） 當歸 黃耆 遠志（湯浸，去心，酒灑、蒸，各一兩） 辰砂（別研，一分） 龍齒（別研，二兩）\n上為末，同別研四味，煉蜜為丸，如梧桐子大。每服三十丸，食後棗湯下。",
+      "start": 84512,
+      "end": 84699,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "二氣丹",
+    "nameStart": 85350,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "二氣丹\n助陽消陰，正氣溫中。治內虛里寒，冷氣攻擊，心脅臍腹，脹滿刺痛，泄利無度，嘔吐不止，自汗時出，小便不禁，陽氣漸微，手足厥冷，及傷寒陰證，霍亂轉筋，久下冷痢，少氣羸困，一切虛寒痼冷，並宜服之。\n硫黃（細研） 肉桂（去皮，為末，各一分） 乾薑（炮，為末） 硃砂（研為衣，各二錢） 附子（一枚大者，炮，去皮、臍，為末，半兩）\n上並研勻，用細麵糊為丸，如梧桐子大。每服三十丸，煎艾鹽湯放冷下，空心食前服。",
+      "start": 85350,
+      "end": 85551,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "曹公卓鍾乳丸",
+    "nameStart": 85785,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "曹公卓鍾乳丸\n主五勞七傷，肺損氣急。療丈夫衰老，陽氣絕，手足冷，心中少氣，髓虛腰疼，腳痹體煩，口乾不能食。此藥下氣消食，長肌和中，安五臟，除萬病。\n菟絲子（酒浸，搗，焙） 石斛（去根，各一兩） 鍾乳粉（二兩） 吳茱萸（湯洗七次，炒，半兩）\n上為細末，煉蜜和丸，如梧桐子大。每服七丸，空心，溫酒或溫湯、米飲下，日再。服訖行數百步，飲溫酒三合，復行二、三百步，覺口胸內熱稍定，即食乾飯豆醬，過一日食如常，須暖將息。不得聞見屍穢等氣，亦不可食粗、臭、陳惡食。初服七日內勿為陽事，過七日後任性，然亦不宜傷多。服過半劑覺有效，即相續服三劑，終身更無所忌。",
+      "start": 85785,
+      "end": 86057,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "金液丹",
+    "nameStart": 86058,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "金液丹\n固真氣，暖丹田，堅筋骨，壯陽道，除久寒痼冷，補勞傷虛損。治男子腰腎久冷，心腹積聚，脅下冷癖，腹中諸蟲，失精遺溺，形羸力劣，腳膝疼弱，冷風頑痹，上氣衄血，咳逆寒熱，霍亂轉筋，虛滑不利。又治痔瘻濕䘌生瘡，下血不止。及婦人血結寒熱，陰蝕疽痔。\n硫黃（淨揀去砂石，十兩，研細飛過，用瓷盒子盛，以水和赤石脂封口，以鹽泥固濟，曬乾，地內先埋一小罐子，盛水令滿，安盒子在上，用泥固濟訖，慢火養七日七夜，候足，加頂火一斤煅，候冷取出，研為細末）\n上藥末一兩，用蒸餅一兩，湯浸，握去水，搜為丸，如梧桐子大。每服三十丸，多至百丸，溫米飲下，空心服之。又治傷寒陰證，身冷脈微，手足厥逆，或吐或利，或自汗自止，或小便不禁，不拘丸數，宜並服之。得身熱脈出為度。",
+      "start": 86058,
+      "end": 86379,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "沉香蓽澄茄散",
+    "nameStart": 87325,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "沉香蓽澄茄散\n治下經不足，內挾積冷，臍腹弦急，痛引腰背，面色萎黃，手足厥冷，脅肋虛滿，精神困倦，臟腑自利，小便滑數。\n附子（炮，去皮、臍）四兩 沉香 蓽澄茄 葫蘆巴（微炒） 肉桂（去粗皮） 茴香（舶上者，微炒） 補骨脂（微炒） 巴戟天（去心） 木香 川楝（炮，去核，各一兩） 川烏（炮，去皮、臍，半兩） 桃仁（去皮、尖，麩炒，二兩）\n上同為細末。每服二錢，水一大盞，入鹽末少許，煎八分，去滓，稍熱服之。如盲腸、小腸一切氣痛，服之有效，空心，食前服。",
+      "start": 87325,
+      "end": 87549,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "震靈丹",
+    "nameStart": 88962,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "震靈丹\n（紫府元君南嶽魏夫人方，出《道藏》，一名紫金丹） 此丹不犯金石飛走有性之藥，不僭不燥，奪造化沖和之功。大治男子真元衰憊，五勞七傷，臍腹冷疼，肢體痠痛，上盛下虛，頭目暈眩，心神恍惚，血氣衰微，及中風癱緩，手足不遂，筋骨拘攣，腰膝沉重，容枯肌瘦，目暗耳聾，口苦舌乾，飲食無味，心腎不足，精滑夢遺，膀胱疝墜，小腸淋瀝，夜多盜汗，久瀉久痢，嘔吐不食，八風五痹，一切沉寒痼冷，服之如神。及治婦人血氣不足，崩漏虛損，帶下久冷，胎臟無子，服之無不愈者。\n禹餘糧（火煅，醋淬不計遍，以手捻得碎為度） 紫石英 赤石脂 丁頭代赭石（如禹餘糧炮製，各四兩）\n以上四味，並作小塊，入甘鍋內，鹽泥固濟，候乾，用炭一十斤煅通紅，火盡為度，入地坑埋，出火毒，二宿。",
+      "start": 88962,
+      "end": 89283,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "來復丹",
+    "nameStart": 89450,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "來復丹\n（鐵甕城八角杜先生方，一名正一丹） 此藥配類二氣，均調陰陽，奪天地衝和之氣，乃水火既濟之方，可冷可熱，可緩可急。善治榮衛不交養，心腎不升降，上實下虛，氣閉痰厥，心腹冷痛，臟腑虛滑，不問男女老幼，危急之證，但有胃氣，無不獲安，補損扶虛，救陰助陽，為效殊勝。\n硝石（一兩，同硫黃併為細末，入定鍋內，以微火慢炒，用柳篦子不住手攪，令陰陽氣相入，不可火太過，恐傷藥力，再研極細，名二氣末） 太陰玄精石（研飛） 舶上硫黃（用透明不夾沙石者，各一兩） 五靈脂（須擇五臺山者，用水澄去沙石，日乾） 青皮（去白） 陳皮（去白，各二兩）\n上用五靈脂、二橘皮為細末，次入玄精石末及前二氣末，拌勻，以好滴醋打糊為丸，如豌豆大。每服三十粒，空心，粥飲吞下，甚者五十粒，小兒三、五粒，新生嬰兒一粒。小兒慢驚風或吐利不止，變成虛風搐搦者，非風也，胃氣欲絕故也，用五粒研碎，米飲送下。老人伏暑迷悶，紫蘇湯下。婦人產後血逆，上搶悶絕，並惡露不止，及赤白帶下，並用醋湯下。常服和陰陽，益精神，散腰腎陰濕，止腹肋冷疼，立見神效。應諸疾不辨陰陽證者，並宜服之，靈異不可具紀。",
+      "start": 89450,
+      "end": 89922,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "養正丹",
+    "nameStart": 89923,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "養正丹\n（出寶林真人谷伯陽《傷寒論》中，一名交泰丹） 卻邪輔正，助陽接真。治元氣虛虧，陰邪交蕩，正氣乖常，上盛下虛，氣不升降，呼吸不足，頭旋氣短，心神怯弱，夢寐驚悸，遍體盜汗，腹痛腰疼；或虛煩狂言，口乾上喘，翻胃吐食，霍亂轉筋，咳逆不定。又治中風涎潮，不省人事，陽氣欲脫，四肢厥冷。如傷寒陰盛，自汗唇青脈沉，最宜服之。及婦人產後，血氣身熱，月候不均，帶下腹痛，悉能治療。常服濟心火，強腎水，進飲食。\n水銀 硫黃（研細） 硃砂（研細） 黑錫（去滓，稱，與水銀結砂，各一兩）\n上用黑盞一隻，火上熔黑錫成汁，次下水銀，以柳枝子攪勻，次下硃砂，攪令不見星子，放下少時，方入硫黃末，急攪成汁和勻。如有焰，以醋灑之，候冷取出，研如粉極細，用糯米粉煮糊為丸，如綠豆大。每服二十丸，加至三十粒，鹽湯下。此藥升降陰陽，既濟心腎，空心食前棗湯送下，神效不可具述。",
+      "start": 89923,
+      "end": 90294,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "黑錫丹",
+    "nameStart": 90295,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "黑錫丹\n（丹陽慈濟大師受神仙桑君方） 治脾元久冷，上實下虛，胸中痰飲，或上攻頭目徹痛，目瞪昏眩，及奔豚氣上衝，胸腹連兩脅，膨脹刺痛不可忍，氣欲絕者；及陰陽氣上下不升降，飲食不進，面黃羸瘦，肢體浮腫，五種水氣，腳氣上攻；及牙齦腫痛，滿口生瘡，齒欲落者，兼治脾寒心痛，冷汗不止；或卒暴中風，痰潮上膈，言語艱澀，神昏氣亂，喉中痰響，狀似癱瘓，曾用風藥吊吐不出者，宜用此藥百粒，煎薑、棗湯灌之，壓下風涎，即時蘇省，風涎自利。或觸冒寒邪，霍亂吐瀉，手足逆冷，唇口青黑；及男子陽事痿法，腳膝痠軟，行步乏力，臍腹虛鳴，大便久滑；及婦人血海久冷，白帶自下，歲久無子，血氣攻注頭面四肢，並宜服之。兼療膈胃煩壅，痰飲虛喘，百藥不愈者。常服克化飲食，養精神，生陽逐陰，消磨冷滯，除濕破癖，不動真氣，使五臟安寧，六腑調暢，百病不侵。\n歌曰：陰損陽衰實可傷，縱調榮衛亦難將。氣羸血運痰生者，試聽桑君為發揚。又歌：夫妻合會功成四，鈴子沉香一兩賒。木附葫蘆陽起破，桂茴肉豆等無差。梧桐酒糊精修煉，返老還童事可嘉。\n沉香（鎊） 附子（炮，去皮、臍） 葫蘆巴（酒浸，炒） 陽起石（研細水飛） 茴香（舶上者，炒） 破故紙（酒浸，炒） 肉豆蔻（麵裹，煨） 金鈴子（蒸，去皮、核） 木香（各一兩） 肉桂（去皮，只須半兩） 黑錫（去滓稱） 硫黃（透明者結砂子，各二兩）",
+      "start": 90295,
+      "end": 90858,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "玉華白丹",
+    "nameStart": 90970,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "玉華白丹\n（唐沖虛先生三品制煉方，曾經進宣政間，繫上品丹） 清上實下，助養根元，扶衰救弱，補益臟腑。治五勞七傷，夜多盜汗，肺萎虛損，久嗽上喘，霍亂轉筋，六脈沉伏，唇口青黑，腹脅刺痛，大腸不固，小便滑數，夢中遺泄，肌肉瘦瘁，目暗耳鳴，胃虛食減，久瘧久痢，積寒痼冷，諸藥不愈者，服之如神。\n白石脂（淨瓦閣起，火煅紅，研細，水飛） 左顧牡蠣（七錢，洗，用韭葉搗，鹽泥固濟，火煅取白者） 陽起石（用甘鍋於大火中煅令通紅，取出，酒淬，放陰地令乾，各半兩） 鍾乳粉（煉成者，一兩）\n上四味，各研令極細如粉，方拌和作一處令勻，研一、二日，以糯米粉煮糊為丸，如雞頭大，入地坑出火毒一宿。每服一粒，空心，濃煎人參湯放冷送下，熟水亦得。常服溫平，不僣不燥，澤肌悅色，祛除宿患。婦人久無妊者，以當歸、熟地黃浸酒下，便有符合造化之妙。或久冷、崩帶、虛損，臍腹撮痛，艾醋湯下。服畢以少白粥壓之，忌豬、羊血、綠豆粉，恐解藥力。尤治久患腸風臟毒。",
+      "start": 90970,
+      "end": 91378,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "巴戟丸",
+    "nameStart": 91867,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "巴戟丸\n補腎臟，暖丹田，興陽道，減小便，填精益髓，駐顏潤肌。治元氣虛憊，面目黧黑，口乾舌澀，夢想虛驚，眼中冷淚，耳作蟬鳴，腰胯沉重，百節痠疼，項筋緊急，背胛勞倦，陰汗盜汗，四肢無力。及治婦人子宮久冷，月脈不調，或多或少，赤白帶下，並宜服之。\n良薑（六兩） 紫金藤（十六兩） 巴戟（三兩） 青鹽（二兩） 肉桂（去粗皮） 吳茱萸（各四兩）\n上為末，酒糊為丸。每服二十丸，暖鹽酒送下，鹽湯亦得，日午、夜臥各一服。",
+      "start": 91867,
+      "end": 92070,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "茯菟丸",
+    "nameStart": 92538,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "茯菟丸\n治心氣不足，思慮太過，腎經虛損，真陽不固，溺有餘瀝，小便白濁，夢寐頻泄。\n菟絲子〔五兩（一本作十兩）〕 白茯苓〔三兩（一本作五兩）〕 石蓮子〔去殼，二兩（一本作三兩。一本有遼五味子去梗，七兩）〕\n上為細末，酒（一本用淮山藥六兩）煮糊為丸，如梧桐子大。每服三十丸（一本作五、六十丸），空心，鹽湯下。常服鎮益心神，補虛養血，清小便。",
+      "start": 92538,
+      "end": 92706,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "龍腦雞蘇丸",
+    "nameStart": 94821,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "龍腦雞蘇丸\n除煩解勞，消穀下氣，散胸中鬱熱，主肺熱咳嗽，治鼻衄吐血，血崩下血，血淋、熱淋、勞淋、氣淋，止消渴，除驚悸，涼上膈，解酒毒。又治胃熱口臭，肺熱喉腥，脾疸口甜，膽疸口苦。常服聰耳明目，開心益智。\n柴胡（要真銀州者，二兩，銼，同木通以沸湯大半升浸一、二宿，絞汁後入膏） 木通（銼，同柴胡浸） 阿膠（炒微燥） 蒲黃（真者，微炒） 人參（各二兩） 麥門冬（湯洗，去心，焙乾，四兩） 黃耆（去蘆，一兩） 雞蘇（淨葉，一斤，即龍腦薄荷也） 甘草（炙，一兩半） 生乾地黃末（六兩，後入膏）\n上除別研藥後入外，並搗，羅為細末，將好蜜二斤先煉一、二沸，然後下生乾地黃末，不住手攪，時時入絞下前木通、柴胡汁，慢慢熬成膏，勿令焦，然後將其餘藥末同和為丸，如豌豆大。每服二十丸，嚼破熱水下，不嚼亦得。虛勞煩熱，消渴驚悸，煎人參湯下。咳嗽唾血，鼻衄吐血，將麥門冬湯浸去心，煎湯下，並食後、臨臥服之。惟血崩下血，諸淋疾，皆空心食前服。治淋用車前子湯下。",
+      "start": 94821,
+      "end": 95238,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "桂苓丸消暑丸",
+    "nameStart": 96069,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "桂苓丸消暑丸\n治證並方見傷寒（中暑）類。",
+      "start": 96069,
+      "end": 96089,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link",
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "五淋散",
+    "nameStart": 97570,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "五淋散\n治證與前五淋散同。\n木通（去節） 滑石 甘草（炙，各六兩） 山梔仁（炒，十四兩） 赤芍藥 茯苓（去皮，各半斤） 淡竹葉（四兩） 山茵陳（去根，日乾，二兩）\n上搗，羅為末。每服三錢，水一盞，煎至八分，空心服。",
+      "start": 97570,
+      "end": 97677,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "真珠散",
+    "nameStart": 97827,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "真珠散\n治丈夫、婦人五臟積熱，毒氣上攻，心胸煩悶，口乾舌燥，精神恍惚，心忪悶亂，坐臥不寧，並宜服之。\n栝蔞根末 琥珀 真珠粉 寒水石（煅，醋淬，研） 鐵粉 硃砂（研飛） 甘草末（生）川大黃 牙硝（枯研）\n上等分，各搗為末拌勻，每服一錢，以竹葉湯溫調下，不拘時。",
+      "start": 97827,
+      "end": 97957,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "訶黎勒丸",
+    "nameStart": 98662,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "訶黎勒丸\n治腸胃虛弱，內受風冷，水穀不化，泄瀉注下，腹痛腸鳴，胸滿短氣。又治腸胃積寒，久利純白，或有青黑，日夜無度，及脾胃傷冷，暴瀉不止，手足逆冷，脈微欲絕，並宜服之。\n訶黎勒皮 川烏頭（炮，去皮、臍） 縮砂仁 白礬（煅，各四十兩） 肉豆蔻（去皮，炮）木香 乾薑（炮，各二十兩） 龍骨（洗） 赤石脂（各八十兩）\n上為末，用粟米飯為丸，如梧桐子大。每服二十丸至三十丸，溫粟米飲下，食前服。甚者可倍加丸數。",
+      "start": 98662,
+      "end": 98863,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "麻仁丸",
+    "nameStart": 100454,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "麻仁丸\n順三焦，和五臟，潤腸胃，除風氣。治冷熱壅結，津液耗少，令人大便秘難，或閉塞不通。若年高氣弱，及有風人，大便秘澀，尤宜服之。\n枳殼（去瓤，麩炒） 白檳榔（煨半生） 菟絲子（酒浸，別末） 山蕷 防風（去叉、枝） 山茱萸 車前子 肉桂（去粗皮，各一兩半） 木香 羌活（各一兩） 郁李仁（去皮，別研） 大黃（半蒸半生） 麻仁（別搗研，各四兩）\n上為細末，入別研藥勻，煉蜜和丸，如梧桐子大。每服十五丸至二十丸，溫水下，臨臥服之。",
+      "start": 100454,
+      "end": 100667,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "七宣丸",
+    "nameStart": 101033,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "七宣丸\n療風氣結聚，宿食不消，兼砂石、皮毛在腹中，及積年腰腳疼痛，冷如冰石，腳氣衝心，煩憒悶亂，頭旋暗倒，肩背重痛，心腹脹滿，胸膈閉塞，風毒腫氣，連及頭面，大便或秘，小便時澀，脾胃氣痞，不能飲食，腳氣轉筋，掣痛攣急，心神恍惚，眠臥不安等疾。\n柴胡（去苗，洗） 枳實（爁） 木香 訶黎勒皮（各五兩） 桃仁（去皮、尖，爁） 甘草（爁，各六兩） 大黃（麵裹，煨，十五兩）\n上為末，煉蜜丸如梧桐子大。每服二十丸，米飲下，食後臨臥服，稍增至四、五十丸，取宣利為度。覺病勢退，服五補丸。不問男女老少，並可服餌，量虛實加減。",
+      "start": 101033,
+      "end": 101288,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "半硫丸",
+    "nameStart": 101625,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "半硫丸\n除積冷，暖元臟，溫脾胃，進飲食。治心腹一切痃癖冷氣，及年高風秘、冷秘或泄瀉等，並皆治之。\n半夏（湯浸七次，焙乾，為細末） 硫黃（明淨好者，研令極細，用柳木槌子殺過）\n上等分，以生薑自然汁同熬，入干蒸餅末攪和勻，入臼內杵數百下，丸如梧桐子大。每服空心，溫酒或生薑湯下十五丸至二十丸，婦人醋湯下。",
+      "start": 101625,
+      "end": 101775,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "感應丸",
+    "nameStart": 102231,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "感應丸\n治證並方見一切氣類。",
+      "start": 102231,
+      "end": 102245,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link",
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "大已寒丸",
+    "nameStart": 102246,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "大已寒丸\n治證並方見傷寒類。",
+      "start": 102246,
+      "end": 102260,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link",
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "水煮木香丸",
+    "nameStart": 103785,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "水煮木香丸\n治證與前水煮木香丸同。\n陳皮（去白） 甘草（炒） 青皮（去白） 木香（各一兩一分） 白芍藥 當歸（去蘆，各二兩） 乾薑（炮，一兩半） 訶子皮（去核，二兩半） 罌粟殼（去蒂、蓋，蜜炒黃色，八兩）\n上為細末，煉蜜丸，每一兩作六丸。每服一丸，水一盞，煮至七分，和渣空心溫服，不拘時亦可。",
+      "start": 103785,
+      "end": 103931,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "神效參香散",
+    "nameStart": 107291,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "神效參香散\n治大人、小兒臟氣虛怯，冷熱不調，積在臟腑，作成痢疾，或下鮮血，或如豆汁，或如魚腦，或下瘀血，或下紫黑血，或赤白相雜，或成五色，裡急後重，日夜頻並，臍腹絞痛，甚不可忍，及噤口、疳蠱、時瘟諸痢，無問新舊，並能治之。\n白扁豆（炒）人參 木香（各二兩） 茯苓（去皮） 肉豆蔻（去皮，各四兩） 陳皮（去白）罌粟殼（去蒂，各十二兩）\n上為細末。每服三大錢，用溫米飲調下，不拘時候，立見神效。",
+      "start": 107291,
+      "end": 107486,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "痢聖散子",
+    "nameStart": 107617,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "痢聖散子\n治證同前。\n草果（去皮） 石菖蒲（去毛） 白茯苓 麻黃（去根、節） 厚朴（薑汁炙） 獨活 枳殼（麩炒） 藿香 白朮 細辛（洗，去葉） 吳茱萸（去梗） 甘草（爁） 木豬苓（去皮） 蒼朮（浸） 良薑（去蘆） 赤芍藥 附子（炮，去皮、臍） 藁本（去蘆） 柴胡（去蘆） 澤瀉 防風（去蘆） 半夏（煮，各等分）\n上銼為粗散。每服三錢，水一盞半，薤白二條，擘碎，同煎至八分，去滓，食前稍溫服，老人、小兒加減服食。忌生冷、油膩之物。",
+      "start": 107617,
+      "end": 107831,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "錦鳩丸",
+    "nameStart": 107841,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "錦鳩丸\n治肝經不足，風邪內乘上攻，眼暗淚出，怕日羞明，隱澀癢痛，瞻視茫茫，多見黑花，或生翳膜，並皆治之。\n草決明子 蕤仁（去皮） 羌活（去蘆） 瞿麥（各三兩） 細辛（去苗） 牡蠣（洗，火煅取粉）黃連（去須） 杜蒺藜（炒，去尖角） 防風（去蘆） 肉桂（去粗皮） 甘菊花（淨，各五兩） 白茯苓（去皮，四兩） 斑鳩（一隻，去皮、毛、腸、嘴、爪，用文武火連骨炙乾） 羯羊肝（一具，薄批，炙令焦） 蔓荊子（二升，淘洗，絹袋盛，飯甑蒸一伏時，日乾）\n上十五味為末，煉蜜和杵五百下，丸如梧桐子大。每服十五丸至二十丸，以溫水或溫酒下，空心、日午、臨臥，日三服。如久患內外障眼，服諸藥無效者，漸加服五十丸，必效。暴赤眼疼痛，食後，用荊芥湯下二十丸。",
+      "start": 107841,
+      "end": 108156,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "incomplete_ingredient_parse_or_declared_count_mismatch"
+    ],
+    "unparsedFragments": [],
+    "parsedIngredientCount": 14,
+    "declaredIngredientCount": 15
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "流氣飲",
+    "nameStart": 109794,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "流氣飲\n治肝經不足，內受風熱，上攻眼目，昏暗視物不明，常見黑花，當風多淚，怕日羞明，堆眵赤腫，隱澀難開，或生障翳，倒睫拳毛，眼眩赤爛，及婦人血風眼，及時行暴赤腫眼，眼胞紫黑，應有眼病，並宜服之。\n大黃（炮） 川芎 菊花（去枝） 牛蒡子（炒） 細辛（去苗） 防風（去苗） 山（去皮） 白蒺藜（炒，去刺） 黃芩（去蘆） 甘草（炙） 玄參（去蘆） 蔓荊子（去白皮） 荊芥（去梗） 木賊（去根、節，各一兩） 蒼朮（米泔浸一宿，炒控，二兩） 草決明（一兩半）\n上搗，羅為末。每服二錢半，臨臥用冷酒調下，如嬰兒有患，只令乳母服之。",
+      "start": 109794,
+      "end": 110053,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "missing_or_nonliteral_ingredient_list",
+      "ambiguous_printed_name_or_inline_size_preparation"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "菊花散",
+    "nameStart": 110173,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "菊花散\n理肝氣風毒，眼目赤腫，昏暗羞明，隱澀難開，攀睛瘀肉，或癢或痛，漸生翳膜，及治暴赤腫痛，悉皆治之。\n白蒺藜（炒，去刺） 羌活（去蘆，不見火） 木賊（去節） 蟬蛻（去頭、足、翅，各三兩）菊花（去梗，六兩）\n上為細末。每服二錢，食後臨臥，茶清調下。常服明利頭目，洗肝去風。忌發風、醃藏、炙爆等物。",
+      "start": 110173,
+      "end": 110322,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "明睛散",
+    "nameStart": 110323,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "明睛散\n能治外障，退翳膜，療風毒上攻，睛疼赤腫，或瞼眥癢，時多熱淚昏澀。\n赤芍藥 當歸（去蘆，洗，焙） 黃連（去須） 滑石（細研）\n上件各五兩，銼碎碾為細末，入研滑石拌勻。每用半錢，沸湯點，澄清去渣，熱洗。忌一切醃藏、魚鮓、酒、面等毒物。",
+      "start": 110323,
+      "end": 110442,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "集效丸",
+    "nameStart": 116109,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "集效丸\n治因臟腑虛弱，或多食甘肥，致蛔蟲動作，心腹攪痛，發作腫聚，往來上下，痛有休止，腹中煩熱，口吐涎沫，即是蛔咬，宜服此藥，若積年不瘥，服之亦愈。又療下部有蟲，生痔癢痛。\n大黃（銼，炒）十五兩 木香（不見火） 檳榔 訶黎勒（煨，去核，酒浸，焙乾） 附子（炮，去皮、臍） 羌活〔炒，研（一本作蕪荑）〕 鶴蝨（炒） 乾薑（炮，各十兩半）\n上為末，煉蜜為丸，如梧桐子大。每服三十丸，食前，橘皮湯下，婦人醋湯下。",
+      "start": 116109,
+      "end": 116312,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "解毒雄黃丸",
+    "nameStart": 116510,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "解毒雄黃丸\n解毒，治纏喉風及急喉痹，卒然倒僕，失音不語，或牙關緊急，不省人事。\n鬱金 雄黃（研飛，各一分） 巴豆（去皮，出油，十四個）\n上為末，醋煮麵糊為丸，如綠豆大。用熱茶清下七丸，吐出頑涎，立便蘇省，未吐再服。如至死者，心頭猶熱，灌藥不下，即以刀、尺、鐵匙斡開口灌之，藥下喉嚨，無有不活，吐瀉些小無妨。及治上膈壅熱，痰涎不利，咽喉腫痛，赤眼癰腫，一切毒熱，並宜服之。如小兒患喉嚨赤腫，及驚熱痰涎壅塞，服二丸或三丸，量兒大小加減。",
+      "start": 116510,
+      "end": 116726,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "神助散",
+    "nameStart": 117256,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "神助散\n（舊名葶藶散） 治十種水氣，面目，四肢、遍身俱腫，以手按之，隨手而起，咳嗽喘急，不得安臥，腹大腫脹，口苦舌乾，小便赤澀，大便不利。\n澤瀉（二兩） 椒目（一兩半） 豬苓（去黑皮，二兩） 黑牽牛（微炒，取末，二兩半） 葶藶（炒香，別研，三兩）\n上為細末。每服以蔥白三莖，漿水一盞，煎至半盞，入酒半盞，調藥三錢，絕早面向東服。如人行十里久，以漿水蔥白煮稀粥，至蔥爛，入酒五合熱啜，量人啜多少，須啜一升許。不得吃鹽並面。自早至午，當利小便三、四升，或大便利，喘定腫減七分，隔日再服。既平之後，必須大將息，及斷鹽、房室等三年。",
+      "start": 117256,
+      "end": 117518,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "對金飲子",
+    "nameStart": 119765,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "對金飲子\n治證並方見傷寒類。",
+      "start": 119765,
+      "end": 119779,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link",
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "清心蓮子飲",
+    "nameStart": 119780,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "清心蓮子飲\n治證並方見痼冷類。",
+      "start": 119780,
+      "end": 119795,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link",
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "腸風黑散",
+    "nameStart": 120304,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "腸風黑散\n治證與瀉痢類腸風黑散同。\n荊芥（燒，二兩） 枳殼（去瓤，二兩燒，一兩炒用） 亂髮（燒） 槐花（燒） 槐角（燒，各一兩） 甘草（炙） 蝟皮（各一兩半）\n上將合燒藥同入瓷瓶內，黃泥固濟，燒存三分性，出火氣，同甘草、枳殼搗，羅為末。每服入二錢，水一盞，煎至七分，空心溫服，溫酒調下亦得。",
+      "start": 120304,
+      "end": 120449,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "神應黑玉丹",
+    "nameStart": 120450,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "神應黑玉丹\n治證並方見瀉痢類。",
+      "start": 120450,
+      "end": 120465,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link",
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "太岳活血丹",
+    "nameStart": 123575,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "太岳活血丹\n治男子、婦人外傷內損，狗咬蟲傷，驢撲馬墜，手足傷折，一切疼痛，腹中瘀血刺脅築心，及左癱右緩，走注疼痛，癰腫痔漏。婦人冷氣入腹，血脈不通，產後敗血灌注四肢，吹奶腫痛，血氣撮痛，並宜服之。\n亂髮（皂角水淨洗，二斤，曬乾，用清麻油二斤，入鍋內炒，頻以手拈看，脆亂如糊苔即止，不可令炒過） 慄楔（謂慄三顆共一球，其中有扁薄者是，去殼，薄切，日乾） 皂角刺（燒通紅，米醋內淬，焙） 大黑豆（以濕布揩去塵垢，退黑皮，焙乾） 花桑枝（如臂大者，炭火燒，煙盡，米醋淬，取出焙，各一斤） 蓖麻仁（別研，塗墨，三兩） 乳香（好者，細研，入米醋一碗熬令熟香，四兩） 細墨（半斤，一半用蓖麻仁三兩，乳缽爛研塗墨上，塗盡，用薄紙裹，以黃泥固濟，日乾，以火五十斤煅令通紅，放地上，盆蓋，出火氣，兩飯久。一半用硇砂二兩，醋化，塗墨上，炙乾） 硇砂（光淨者，醋化塗墨上，二兩）\n上六味為末，入乳香膏內，和杵三千下，丸如彈子大。如乳香膏少，更入醋煮麵糊。痛甚者每服一丸，輕可者服半丸，用無灰酒一盞，乳香一豆大，先磨香盡，次磨藥盡，煎三、五沸，臨臥溫服，以痛處就床臥。如欲出汗，以衣被蓋覆，仍用藥塗磨損處。忌一切動風物。應婦人諸疾服者，更用當歸末一錢，依法煎服。有孕者莫服。",
+      "start": 123575,
+      "end": 124100,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "incomplete_ingredient_parse_or_declared_count_mismatch"
+    ],
+    "unparsedFragments": [],
+    "parsedIngredientCount": 9,
+    "declaredIngredientCount": 6
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "玉龍膏",
+    "nameStart": 124101,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "玉龍膏\n摩風止痛，消腫化毒。治一切傷折瘡腫。\n栝蔞（大者一個，去皮） 黃蠟（一兩半） 白芷（淨揀，銼，半兩） 麻油（清真者，六兩）麝香（研，一錢） 松脂（研，一錢半） 零香 藿香（各一兩） 杏仁（去皮、尖） 升麻 黃耆 赤芍藥 白芨 白蘞 甘草（淨揀，銼，各一分）\n上以油浸七日，卻比出油，先煉令香熟，放冷入諸藥，慢火煎黃色，用絹濾去渣。入銀、石鍋內，入蠟並麝香、松脂，熬少時，以瓷盒器盛。每用少許，薄攤絹帛上貼。若頭面風癬癢，瘡腫疼痛，並塗磨令熱，頻頻用之。如耳鼻中肉鈴，用紙拈子每日點之，至一月即愈。如治灸瘡及小兒瘤瘡，塗之兼滅瘢痕，神效。",
+      "start": 124101,
+      "end": 124373,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "化膿排膿內補十宣散",
+    "nameStart": 124821,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "化膿排膿內補十宣散\n（亦名折里十補散） 治一切癰疽瘡癤。未成者速散，已成者速潰，敗膿自出，無用手擠，惡肉自去，不犯刀杖，服藥後疼痛頓減，其效如神。\n黃耆（以綿上來者為勝，半如箭竿，長二、三尺，頭不叉者，洗淨，寸截，槌破絲擘，以鹽湯潤透，用盞盛，蓋湯鉼上一炊久，焙燥，隨眾藥入碾成細末，一兩） 人參（以新羅者為上，擇團結重實滋潤者，洗淨，去蘆，薄切，焙乾，搗用） 當歸（取川中來者，擇大片如馬尾狀，滋潤甜辣芬香者，溫水洗，薄切，焙乾，各二兩） 厚朴（用梓間者，肉厚而色紫，掐之油出，去粗皮，切，薑汁罨一宿，爁熟，焙燥，勿用桂樸） 桔梗（以有心味苦者為真，無心味甘者，薺苨也，主解藥毒，切勿誤用。洗淨，去頭尾，薄切，焙燥） 桂心（用卷薄者，古法帶皮桂每兩隻取二錢半，合用一兩者，當買四兩，候眾藥罷，別研方入，不得見火） 芎藭（以川中來者為上，今多用撫芎大塊者，淨洗，切，焙） 防風（擇新香者淨洗，切，焙） 甘草（生用） 白芷（各一兩）\n上十味，選藥貴精，皆取淨、曬、焙、極燥方秤，除桂心外，一處搗，羅為細末，入桂令勻。每服自三錢加至五、六錢，熱酒調下，日夜各數服，以多為妙。服至瘡口合，更服尤佳，所以補前損，杜後患也。不飲酒人，濃煎木香湯下，然不若酒力之勝也。或飲酒不多，能勉強間用酒調，並以木香湯解酒，功效當不減於酒也。大抵癰疽之作，皆血氣凝滯，風毒壅結所致，治之不早，則外壞肌肉，內攻臟腑，其害甚大，才覺便服，倍加服數，服之醉，則其效尤速。發散風毒，流行經絡，排膿止痛，生肌長肉，藥性平和，老人、小兒、婦人、室女，皆可服之。",
+      "start": 124821,
+      "end": 125483,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "紅玉散",
+    "nameStart": 126223,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "紅玉散\n斂瘡口，生肌肉，止疼痛，去惡水，不問日近年深，並治之。\n寒水石（炭火燒通赤，候冷細研，二兩） 黃丹（半兩）\n上同研細，乾摻瘡口內，後用萬金膏貼，每日一上，再上尤妙。",
+      "start": 126223,
+      "end": 126309,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "萬金膏",
+    "nameStart": 126310,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "萬金膏\n治癰疽發背，諸般瘡癤，從高墜墮，打撲傷損，腳膝生瘡，遠年臁瘡，五般痔漏，一切惡瘡，並皆治之。\n龍骨 鱉甲 苦參 烏賊魚骨 黃柏 草烏頭 黃連 豬牙皂角 黃芩 白蘞 白芨木鱉子仁 當歸（洗，焙） 厚朴（去粗皮） 川芎 香白芷 沒藥（別研） 槐枝 柳枝（並同銼，研，各一分） 乳香（別研，一錢） 黃丹（一兩半） 清麻油（四兩，冬月用半斤）\n上除黃丹外，銀、石器中將諸藥並油內用慢火煎紫赤色，去藥不用，卻入黃丹一半放油內，不住手攪，令微黑，更入余黃丹，不住手攪，須是慢火熬令紫黑，滴在水上不散，及不黏手，然後更別入黃丹少許，再熬數沸，如硬時卻更入油些少，以不黏手為度。用時量瘡大小攤紙上貼之。",
+      "start": 126310,
+      "end": 126607,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "missing_or_nonliteral_ingredient_list",
+      "ambiguous_printed_name_or_inline_size_preparation"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "補損當歸散",
+    "nameStart": 128727,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "補損當歸散\n療墜馬、落車、被打，傷腕折臂，呼叫不絕，服此藥呼吸之間，不復大痛，服三日，筋骨即當相連，神效。\n澤蘭（制） 附子（炮，去皮、臍，各一分） 當歸（炒） 蜀椒（炒，出汗） 甘草（炙） 桂心（各三分） 芎藭（炒，六分）\n上為細末。每服二錢，溫酒調下，日三服。忌海藻、菘菜、生蔥、豬肉、冷水。",
+      "start": 128727,
+      "end": 128875,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "鍾乳澤蘭丸",
+    "nameStart": 130733,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "鍾乳澤蘭丸\n補虛羸，益血氣，治衝任虛損，月水不調，臍腹㽲痛，腰腿沉重，四肢倦怠，百節痠痛，心忪恍惚，憂恚不樂，面少光澤，飲食無味。除下臟風冷，治帶下三十六疾，崩中漏下五色，子宮久冷無子，及數墮胎，或因產勞損，衝任血氣虛羸，肌瘦嗜臥。久服補暖元臟，潤澤肌膚，長髮去䵟，除頭風，令人有子。\n鍾乳粉（三兩） 澤蘭（二兩二錢半） 蕪荑（炒，半兩） 麥門冬（去心，焙，一兩半） 山茱萸（一兩二錢半） 艾葉（醋炒，七錢半） 防風（一兩七錢半） 柏子仁（炒，別搗） 人參（去蘆） 石膏（研飛） 石斛（去根） 熟乾地黃（酒蒸，各一兩半） 芎藭 甘草（微炙赤） 牛膝（去蘆，酒浸，焙） 白芷 山藥 當歸（去蘆，炒） 藁本 細辛（去苗，不見火） 肉桂（去粗皮，各一兩）\n上為細末，煉蜜和為丸，如梧桐子大。每服三十丸至五十丸，溫酒或米飲下，空心，食前，日二服。",
+      "start": 130733,
+      "end": 131102,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "白薇丸",
+    "nameStart": 133536,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "白薇丸\n補調衝任，溫暖子宮。治胞絡傷損，宿受風寒，久無子息，或受胎不牢，多致損墮。久服去下臟風冷，令人有子。\n秦椒（去目及閉口者，微炒出汗，半兩） 白薇（去苗） 熟乾地黃 當歸（去蘆，銼，微炒） 薑黃（各一兩七錢半） 牡蒙 藁本（去苗及土，各一兩二錢半） 禹餘糧（火煅、酒淬七遍，研，二兩） 人參 柏子仁（微炒） 桑寄生 附子（炮，去皮、臍） 肉桂（去粗皮） 五味子（去梗） 吳茱萸（湯浸，微炒） 石斛（去根） 甘草（炙，微赤） 牛膝（去苗，酒浸一宿，焙乾） 防風（去苗、叉） 芎藭（各一兩半）\n上為細末，入研藥勻，煉蜜為丸，如梧桐子大。每服三十丸至五十丸，溫酒或米飲下。空心食前服，才覺妊娠即住服，已懷孕者尤不宜服之。",
+      "start": 133536,
+      "end": 133846,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "四物湯",
+    "nameStart": 134650,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "四物湯\n調益榮衛，滋養氣血。治衝任虛損，月水不調，臍腹㽲痛，崩中漏下，血瘕塊硬，發歇疼痛，妊娠宿冷，將理失宜，胎動不安，血下不止，及產後乘虛，風寒內搏，惡露不下，結生瘕聚，少腹堅痛，時作寒熱。\n當歸（去蘆，酒浸，炒） 川芎 白芍藥 熟乾地黃（酒灑，蒸，各等分）\n上為粗末。每服三錢，水一盞半，煎至八分，去渣，熱服，空心，食前。若妊娠胎動不安，下血不止者，加艾十葉，阿膠一片，同煎如前法。或血臟虛冷，崩中去血過多，亦加膠、艾煎。",
+      "start": 134650,
+      "end": 134863,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "白朮散",
+    "nameStart": 135040,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "白朮散\n調補衝任，扶養胎氣。治妊娠宿有風冷，胎痿不長，或失於將理，動傷胎氣，多致損墮。懷孕常服，壯氣益血，保護胎臟。\n牡蠣（燒粉，二兩） 白朮 芎藭（各四分） 蜀椒（去目及閉口者，炒出汗，三分）\n上杵為散。每服二錢，溫酒調服，空心，食前。",
+      "start": 135040,
+      "end": 135159,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "保生丸",
+    "nameStart": 135376,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "保生丸\n養胎益血，安和子臟。治妊娠將理失宜，或因勞役，胎動不安，腰腹痛重，胞阻漏胎，惡露時下，子臟挾疾，久不成胎；或受妊不能固養，痿燥不長，過年不產，日月雖滿，轉動不力；或致損墮，及臨產節適乖宜，驚動太早，產時未至，惡露先下，胎胞枯燥，致令難產；或橫或逆，痛極悶亂，連日不產，子死腹中，腹上冰冷，口唇青黑，吐出冷沫。新產惡血上衝，暈悶不省，喘促出汗，及瘀血未盡，臍腹㽲痛，寒熱往來；或因產勞損，虛羸未復，面黃肌瘦，心忪盜汗，飲食不進，漸成蓐勞。入月常服，壯氣養胎，正順產理，潤胎易產。產後常服，滋養血氣，和調陰陽，密腠理，實腑臟，治風虛，除痼冷。\n大麻仁（去皮，一兩半） 貝母 黃芩 大豆黃卷 粳米 甘草（微炙赤） 乾薑（炮） 肉桂（去粗皮） 石斛（去根） 石膏（細研，各一兩） 當歸（去蘆，炒，半兩） 秦椒（微炒出汗，一兩）\n上為細末，煉蜜和丸，如彈子大。每服一丸，並用溫酒或棗湯化下，嚼亦得，空心，食前服。",
+      "start": 135376,
+      "end": 135781,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "榆白皮散",
+    "nameStart": 135782,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "榆白皮散\n滑胎易產。治妊娠曾因漏胎去血，或臨產驚動太早，產時未至，穢露先下，致使胎胞乾燥，臨產艱難，並宜服之。\n冬葵子 榆白皮 瞿麥（各一兩） 木通（半兩） 大麻仁（去殼） 牛膝（去苗，酒浸，焙，各三分）\n上為粗末。每服三錢，水一盞半，煎至八分，去渣，溫服，不拘時。",
+      "start": 135782,
+      "end": 135915,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "蒲黃散",
+    "nameStart": 137371,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "蒲黃散\n治產後惡露不快，血上搶心，煩悶滿急，昏迷不省，或狂言妄語，氣喘欲絕。乾荷葉（炙） 牡丹皮 延胡索 生乾地黃 甘草（炙，各三分） 蒲黃（生，二兩）\n上為粗末。每服二錢，水一盞，入蜜少許，同煎至七分，去滓，溫服，不拘時候。",
+      "start": 137371,
+      "end": 137484,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "濟危上丹",
+    "nameStart": 140923,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "濟危上丹\n（《保慶集》第二十一論）\n論產後所下過多，虛極生風者，蓋皆緣婦人以榮血為主，因產，血下太多，氣無所主，唇青肉冷汗出，目瞑神昏，命在須臾者，不可誤用風藥，急宜服此。\n太陰玄精 五靈脂（去沙石） 硫黃（老紅色者） 乳香（研）",
+      "start": 140923,
+      "end": 141038,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "南嶽魏夫人濟陰丹",
+    "nameStart": 141418,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "南嶽魏夫人濟陰丹\n治婦人血氣久冷無子，及數經墮胎，皆因衝任之脈虛損，胞內宿挾疾病，經水不時，暴下不止，月內再行，或前或後，或崩中漏下，三十六疾，積聚癖瘕，臍下冷痛，小便白濁，以上疾證，皆令孕育不成，以至絕嗣。治產後百病，百日內常服，除宿血，生新血，令人有孕，及生子充實。亦治男子亡血諸疾。\n秦艽 石斛（去根，酒浸，焙） 藁本（去蘆） 甘草（炙） 蠶布（燒灰） 桔梗（炒，各二兩） 京墨（煅，醋淬，研） 茯苓（去皮） 人參（去蘆） 木香（炮） 桃仁（去皮、尖，炒，各一兩） 熟乾地黃（洗過，酒蒸，焙） 香附（炒，去毛） 澤蘭（去梗，各四兩） 當歸（去蘆） 肉桂（去粗皮） 乾薑（炮） 細辛（去苗） 川芎 牡丹皮（各一兩半） 山藥 川椒（去目，炒，各三分） 蒼朮（米泔浸，去皮，八兩） 大豆黃卷（炒，半升） 糯米〔炒，一升（一本：山藥、川椒，各云三兩）〕\n上為細末，煉蜜搜，每兩作六丸。每服一丸，細嚼，空心，食前，溫酒、醋湯任下。",
+      "start": 141418,
+      "end": 141831,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "暖宮丸",
+    "nameStart": 144688,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "暖宮丸\n治證與前暖宮丸同。\n沙參（淨洗） 地榆 黃耆 桔梗 白薇 牛膝（酒浸一宿） 杜仲（去粗皮，薑汁炙） 厚朴（去粗皮，薑汁炒） 白芷（各半兩） 乾薑（炮） 細辛（去苗） 蜀椒（去目，閉口，炒出汗，各一分） 附子（大者炮，去皮、臍，一個）\n上為細末，煉蜜丸，如梧桐子大。每服二十、三十丸，空心，溫酒或棗湯吞下。及療婦人子宮久寒，不成胎孕。",
+      "start": 144688,
+      "end": 144858,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "滋血湯",
+    "nameStart": 144859,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "滋血湯\n治婦人血熱氣虛，經候澀滯不通，致使血聚，肢體麻木，肌熱生瘡，渾身痛倦，將成勞瘵，不可妄服他藥，但宜以此滋養通利。（又治證與前滋血湯同，可互觀之。）\n馬鞭草 荊芥穗（各四兩） 牡丹皮（一兩） 赤芍藥 枳殼（去心，麩炒） 肉桂（去粗皮）當歸（去苗，炒） 川芎（各二兩）\n上粗散。每四錢，烏梅一個，水二盞，煎一盞，去渣，食前空心，日四、五服。有此證，服至半月或一月，經脈自通，百病皆除，神效。",
+      "start": 144859,
+      "end": 145056,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "安胎飲",
+    "nameStart": 145057,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "安胎飲\n治證、品味與前安胎飲同。（一方無半夏、地榆，有人參、桑寄生。一方無白朮、黃耆、半夏、地榆，有艾葉，並各等分）\n上為粗散。每服四錢，水一盞半，煎至八分，去渣，溫服，不拘時。",
+      "start": 145057,
+      "end": 145146,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link",
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "益陰丹",
+    "nameStart": 145147,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "益陰丹\n治婦人血海久虛，臟腑怯弱，風冷邪氣，乘虛客搏，膝腹冷痛，大便時泄；或子臟挾寒，久不成孕，月水不調，乍多乍少；或月前月後，淋瀝不止，帶下五色；或閉斷不通，結聚疝瘕，面體少色，飲食進退，肌肉消瘦，百節痠痛，時發寒熱，月水將行，臍腹先痛，皮膚燥澀，面生䵟𪒟，頭皮腫癢，發隨梳落，或產後勞損未復，顏色枯瘁，飲食無味，漸成蓐勞，並能治之。\n方與前南嶽魏夫人濟陰丹同。",
+      "start": 145147,
+      "end": 145329,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "妙應丹",
+    "nameStart": 145330,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "妙應丹\n（一名延齡丹） 治婦人眾病，無所不治。\n晚蠶砂（炒） 鯉魚鱗（燒為末） 當歸（去蘆） 石膏（煅，研） 澤蘭（去梗） 附子（炮，去皮、臍） 木香（炮，各二兩） 熟乾地黃（洗，酒浸，蒸，焙） 川芎 防風（去蘆、叉） 蕪荑（炒） 馬牙硝（燒） 人參 黃耆 川椒（微炒） 柏子仁（微炒，別研） 蟬蛻（去足，洗，焙） 白薇 檳榔（不見火，各一兩） 厚朴（去粗皮，薑製） 藁本（去苗） 白姜（炮） 甘草（炙赤，各三兩） 吳茱萸（湯洗七次） 紅花（炒，各半兩）\n上為末，煉蜜搜和，杵數千下，丸如彈子大。每服一丸。血瘕塊痛，綿灰酒下。催生，溫酒吞細下。血勞血虛，桔梗酒下。血崩，棕櫚灰酒下。血氣痛，炒白姜酒血風，荊芥酒下；血暈悶絕，胎死腹中，胞衣不下，並用生地黃汁、童子小便、酒各一盞，煎二沸調下。常服，醋湯、溫酒化下，並空心，食前服。",
+      "start": 145330,
+      "end": 145694,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "紅花當歸散",
+    "nameStart": 146081,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "紅花當歸散\n治婦人血臟虛竭，或積瘀血，經候不行；或斷續不定，時作腹痛，腰胯疼重，攻刺小腹緊硬，室女月經不通，並宜服之。\n劉寄奴草（五兩） 當歸（去蘆） 牛膝（酒浸） 甘草（炙） 紫葳 紅花 蘇木〔（一本作莪朮）各二兩〕 赤芍藥（九兩） 肉桂（去粗皮） 白芷（各一兩半）\n上為細末。每服三錢，熱酒調下，空心、臨臥各一服。若血久不行，濃煎紅花酒調下。有孕不可服。",
+      "start": 146081,
+      "end": 146260,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "黑龍丹",
+    "nameStart": 147167,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "黑龍丹\n治證、品味與前琥珀黑龍丹同。",
+      "start": 147167,
+      "end": 147185,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link",
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "神授散",
+    "nameStart": 147641,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "神授散\n治產後一切疾病，不問大小，以至危篤者。\n青皮（去白） 桂心 牡丹皮 陳橘皮（去白） 白芍藥（各五兩） 紅花（一兩半） 百合（水浸洗） 乾薑（炮） 甘草（炙） 當歸 川芎（各二兩） 神麯（炒） 人參（去蘆） 麥糵（炒，各三兩）\n上為末。每服二錢，水一盞，姜三片，棗一個，煎至七分，空心服。孕婦不得服。（一本不用紅花）",
+      "start": 147641,
+      "end": 147802,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "加減吳茱萸湯",
+    "nameStart": 148155,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "加減吳茱萸湯\n證治與吳茱萸湯同，此方極妙。\n防風（去蘆、叉） 乾薑（炮） 當歸（去蘆，酒浸，炒） 牡丹皮 桂心（不見火） 茯苓（去皮） 甘草（炙） 麥門冬（去心） 半夏（湯洗七次） 桔梗（炒） 細辛（去苗，各一兩） 吳茱萸（湯洗七次，炒，三兩）\n上為粗末。每服四錢，水一盞半，煎七分，去渣，食前熱服。",
+      "start": 148155,
+      "end": 148305,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "增損四物湯",
+    "nameStart": 148594,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "增損四物湯\n（《易簡方》） 治婦人氣血不足，四肢怠惰，乏力少氣。兼治產後下血過多，榮衛虛損，陰陽不和，乍寒乍熱，並皆服之。\n當歸 川芎 人參 乾薑（炮） 甘草（炙） 白芍藥（各等分）\n上㕮咀。每服四錢，水一盞，煎至六分，去滓，熱服。若產後寒熱，腹中刺痛，則有敗血，當用五積散加醋煎，及大聖散服之。若所下過多，猶有刺痛，亦宜服此二藥。一方治經血凝滯腹內，血氣作疼，用四物湯加莪朮、官桂等分，名六合湯。一方治下血不止，及妊婦胎動，加熟艾、乾薑、甘草、阿膠、黃耆等分，名膠艾湯。一法治血痢，止加膠、艾。治產後血搏，口乾煩渴，加栝蔞、麥門冬。煩熱小便澀，大便秘，加大黃桃仁湯。脅脹，加厚朴、枳實。虛煩不得睡，加竹葉、人參。大渴煩躁，加知母、石膏。一方治婦人血虛，心腹㽲痛不可忍者，去地黃加乾薑，名四神湯。大率產後，不問下血多少，須日進黑神散三服。下血少者，以大聖散間之。至二臘以後，腹內略無疼痛，方服四物湯、建中湯之類。若早服之，則補住敗血，為後患不淺。黑神、大聖非逐血藥，但能推陳致新，多服不妨。今人往往疑其逐血性寒，則不然，看其用藥可見矣。若惡血去多，徐徐補之，亦不為晚，不可姑息以貽後患。且如古方用四順理中丸為產後進食之劑，既用蜜丸，又倍甘草，其甜特甚，豈能快脾？不若只用理中湯少損甘草。素有痰飲者，二陳湯之類服之為佳。且如妊婦惡阻，古方有茯苓丸、茯苓湯，內有地黃、竹茹、川芎輩，定能定嘔，服之則愈見增極。大抵惡阻，皆由素有痰飲以致之，可用二陳湯改名小茯苓湯，用之極效，不可不知。",
+      "start": 148594,
+      "end": 149233,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "成煉鍾乳散",
+    "nameStart": 149234,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "成煉鍾乳散\n治乳婦氣少血衰，脈澀不行，乳汁絕少。\n鍾乳粉\n上用成煉者，每服二錢，濃煎漏蘆湯調下。",
+      "start": 149234,
+      "end": 149282,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "胎神遊方",
+    "nameStart": 150635,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "胎神遊方\n所直方位忌修造主損胎：\n正 二 三 四 五 六 七 八 九 十 十一 十二\n床 戶 門 灶 自身 灶 子方 厠 門 戶 灶 床",
+      "start": 150635,
+      "end": 150703,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "逐日產母生子宜向方",
+    "nameStart": 150969,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "逐日產母生子宜向方\n子、午、卯、酉日宜向南方，寅、申、巳、亥日宜向西北方，辰、戌、醜、未日宜向東南方。",
+      "start": 150969,
+      "end": 151020,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link",
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "逐月產母忌向方",
+    "nameStart": 151021,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "逐月產母忌向方\n（忌下月、下凶方生產）。",
+      "start": 151021,
+      "end": 151041,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link",
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "藏胎衣吉方",
+    "nameStart": 151042,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "藏胎衣吉方\n出《廣濟歷》。",
+      "start": 151042,
+      "end": 151055,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link",
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "五疳保童丸",
+    "nameStart": 154300,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "五疳保童丸\n治小兒五疳。蓋其骨肉輕軟，腸胃微細，若乳哺有節，則臟腑相調；或乳母寒溫失理，飲食無常，醉飽喜怒，及小兒百晬以後，五歲以前，乳食漸多，不擇生冷，好餐肥膩、甘、酸之物，即成五疳。一曰肝疳，其候搖頭揉目，白膜遮睛，流汗遍身，合面而臥，目中澀癢，肉色青黃，發立頭焦，筋青腦熱，腹中積聚，下痢頻多，久而不痊，轉甚羸瘦；二曰心疳，其候渾身壯熱，吐痢無常，頰赤面黃，胸膈煩滿，鼻乾心躁，口舌生瘡，痢久不痊，多下膿血，有時盜汗，或乃虛驚；三曰脾疳，其候腹多筋脈，喘促氣粗，乳食不多，心腹脹滿，多啼咳逆，面色萎黃，骨立毛焦，形枯力劣，胸膈壅悶，水穀不消，口鼻常干，好吃泥土，情意不悅，愛暗憎明，腸胃不和，痢多酸臭；四曰肺疳，其候咳嗽氣逆，皮毛乾焦，饒涕多啼，咽喉不利，揉鼻咬甲，壯熱憎寒，口鼻生瘡，唇邊赤癢，腹內氣脹，乳食漸稀，大腸不調，頻頻泄痢，糞中米出，皮上粟生；五曰腎疳，其候肌肉消瘦，齒齦生瘡，寒熱時作，口鼻乾燥，腦熱如火，腳冷如冰，吐逆既增，乳食減少，瀉痢頻並，下部開張，肛門不收，疳瘡癢痛。以上疾狀，並皆治療。\n黃連（去須） 白鱔頭（炙令焦黃，無，即炒白蕪荑充代） 草龍膽（去蘆） 雄黃（研飛） 青橘皮（去瓤） 五倍子 夜明砂（微炒，各一兩） 蟾頭（一枚，炙令黃色） 苦楝根 天漿子（微炒） 胡黃連 麝香 青黛（研） 熊膽（研） 蘆薈〔研，各一兩（一本有蝦蟆灰、蝸牛微炒）〕\n上為細末，都研令勻，用糯米飯和丸，如麻子大。每服一歲兒一丸，不計時候，溫米飲下，日進三服尤妙。一方有蝸牛微炒，一分。",
+      "start": 154300,
+      "end": 154949,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "熊膽丸",
+    "nameStart": 154950,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "熊膽丸\n殺疳退驚。治壯熱昏憒，嘔吐痰涎，頰赤面黃，鼻乾目澀，有時盜汗，或即虛驚，荏苒不除，乳食不進。\n熊膽（研） 胡黃連（木，各二錢） 使君子（麩炒，為末） 天漿子（麩炒，各七個） 青黛（研，一錢） 寒食麵（三錢） 麝香（研，一分） 細墨（燒淬，半錢）\n上件一處同研勻，用白麵糊和丸，如黍米大。每服五丸至七丸，米飲下，不計時候。",
+      "start": 154950,
+      "end": 155114,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "開胃丸",
+    "nameStart": 156688,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "開胃丸\n治小兒臟腑怯弱，內受風冷，腹痛脹滿，腸鳴泄利，或青或白，乳食不化，又治臟冷夜啼，胎寒腹痛。\n白芍藥 麝香（細研，各一分） 人參 木香 蓬莪朮（煨） 白朮 當歸〔去苗，微炒，各半兩（一本無白朮）〕\n上件搗，羅為末，都研令勻，湯浸炊餅和丸，如黍米大。每服十五丸，溫米飲下，新生兒腹痛夜啼，可服五丸，並乳食前服。",
+      "start": 156688,
+      "end": 156845,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "硃砂丸",
+    "nameStart": 159133,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "硃砂丸\n鎮心神，化痰涎，利咽膈，止煩渴。\n硼砂（研，一分） 硃砂（研飛，五十兩） 麝香（研） 梅花腦（研，各半兩） 腦子（研） 牙硝（枯，各一兩） 甘草（浸汁熬膏，五斤） 寒水石（燒通紅，研，四兩）\n上研勻，用甘草膏和，每兩作一百丸。每服一丸，含化。小兒夜多驚啼，薄荷水化下。",
+      "start": 159133,
+      "end": 159271,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "消毒犀角飲",
+    "nameStart": 161053,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "消毒犀角飲\n治證並方見前積熱類。",
+      "start": 161053,
+      "end": 161069,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link",
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "急風丹",
+    "nameStart": 161772,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "急風丹\n治小兒傷風，鼻塞清涕，酒調塗囟門上，不可服。（方見諸風類）",
+      "start": 161772,
+      "end": 161805,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "釣藤膏",
+    "nameStart": 162351,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "釣藤膏\n治小兒胎寒胃冷，腹肚㽲痛，夜間啼哭，嘔吐乳食，大便瀉青，狀若驚搐，時有冷汗。\n薑黃（二錢） 沒藥（別研） 木香 乳香〔別研，各四錢（一本有木鱉子二十個，去油，研）〕\n上為細末，煉蜜和成膏。每服三錢，兒一丸，如雞頭實大，煎鉤藤湯化下，更量大小加減，不拘時候。",
+      "start": 162351,
+      "end": 162483,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "溫脾散",
+    "nameStart": 162966,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "溫脾散\n治脾胃氣不和，腹脅虛脹，不欲乳食，困倦無力，壯熱憎寒，並皆療之。\n訶黎勒皮（炮） 人參（各三分 甘草（炙，一分） 白朮 木香 茯苓（去皮） 藿香（去梗） 陳皮（去白） 黃耆 桔梗（各半兩）\n上件搗，羅為散。三歲兒每服一錢，水一盞，入生薑錢子大片，淮棗一枚，同煎至五分，去滓，溫服，不計時候，量兒大小加減。",
+      "start": 162966,
+      "end": 163122,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "人參散",
+    "nameStart": 163785,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "人參散\n治小兒傷寒作熱。常服調順陰陽，和養脾胃，定吐逆，止煩渴，品味與前人參散同。\n上為散。三歲兒每服一錢，水一小盞，煎五分，溫服，量兒大小加減。",
+      "start": 163785,
+      "end": 163858,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "全蠍觀音散",
+    "nameStart": 165543,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "全蠍觀音散\n治證與前觀音散同。\n石蓮肉（炒，去心） 白扁豆（炒） 人參（各二兩半） 神麯（炒，二兩） 全蠍 羌活 天麻（去苗） 防風（去苗） 木香（炮） 白芷 甘草（炙） 黃耆（捶扁，蜜刷，炙，各一兩） 茯苓（去皮，一兩半）\n上為細末。嬰兒一字，二、三歲半錢，四、五歲一錢，用水一盞或半盞，棗子半個或一個，同煎至七分，去滓服，不拘時候。",
+      "start": 165543,
+      "end": 165711,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "薄荷湯",
+    "nameStart": 168596,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "薄荷湯\n消風壅，化痰涎。治頭昏目眩，鼻塞咽乾，心胸煩悶，精神不爽。\n荊芥穗 鹽（炒，各三斤） 雞蘇葉（七斤半） 栝蔞根（十一兩） 縮砂仁（三兩） 甘草（銼，炒，四斤）\n上為末。每服一錢，沸湯點，食後服。",
+      "start": 168596,
+      "end": 168697,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "紫蘇湯",
+    "nameStart": 168698,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "紫蘇湯\n調氣利膈，消痰止嗽。治心胸煩悶，口乾多渴。\n紫蘇葉（六斤） 烏梅（去核，微炒，九斤） 甘草（炒，十斤） 杏仁（去皮、尖，麩炒，別搗，三斤）\n上炒鹽十斤同為末。每服一錢，沸湯點服，不拘時候。",
+      "start": 168698,
+      "end": 168796,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "五味湯",
+    "nameStart": 169185,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "五味湯\n溫中益氣。治胸膈痞滿，心腹刺痛，短氣噎悶，咳嗽痰唾，嘔逆噁心，不思飲食。\n五味子（洗，九斤） 良薑（炒） 陳皮（去白） 茴香（炒，各一斤半） 甘草（炒，十七斤半） 鹽（炒，二十二斤）\n上為末，每服二錢，沸湯點服，食前。",
+      "start": 169185,
+      "end": 169298,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "仙術湯",
+    "nameStart": 169299,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "仙術湯\n闢瘟疫，除寒濕，溫脾胃，進飲食。\n蒼朮（去皮，四十八斤） 棗（去核，二斗四升） 乾薑（炮，二十四兩） 杏仁（去皮、尖，麩炒，別搗，六斤） 甘草（炒，十四斤） 鹽（炒，二十五斤）\n上為細末，入杏仁和勻。每服一錢，沸湯點服，食前。常服延年，明目駐顏，輕身不老。",
+      "start": 169299,
+      "end": 169431,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "杏霜湯",
+    "nameStart": 169432,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "杏霜湯\n調肺氣，利胸膈，治咳嗽，止痰逆。\n粟米（炒，一斗六升） 甘草（炒，十斤半） 鹽（炒，十六斤） 杏仁（去皮、尖，麩炒，別研，十斤）\n上為末。每服一錢，沸湯點服，不拘時。常服悅澤顏色，光潤皮膚。",
+      "start": 169432,
+      "end": 169531,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "茴香湯",
+    "nameStart": 169792,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "茴香湯\n療元臟氣虛冷，臍腹脹滿，㽲刺疼痛，不思飲食，一切冷氣，並皆治之。（又方見後）\n茴香（去土，炒，六斤） 川楝子（洗，炒） 陳皮（各二斤） 甘草（炒，七斤） 鹽（炒，一斤）\n上為末。每服一錢，如茶點吃，常服溫中益氣，利胸膈，進飲食。",
+      "start": 169792,
+      "end": 169910,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "no_explicit_indication_link"
+    ]
+  },
+  {
+    "sourceId": "jc-fc98e5e8b159",
+    "name": "縮砂湯",
+    "nameStart": 170120,
+    "sourceExcerptSpan": {
+      "field": "excludedCandidateContext",
+      "text": "縮砂湯\n治一切冷氣，心腹刺痛，胸膈痞悶，脅腹脹滿，嘔逆噁心，飲食無味，脾胃不和，酒食多傷，嘔吐不止。\n縮砂仁（不見火） 甘草〔炒，各十二兩（一本作各二兩）〕 桔梗（焙，六十兩） 丁香皮（不見火，六兩）\n上為細末。每服一錢，入鹽少許，沸湯點服，食前。常服消滯氣，寬胸膈，健脾胃，進飲食，止嘔吐。",
+      "start": 170120,
+      "end": 170266,
+      "basis": "sourcePlainText",
+      "offsetUnit": "unicode_code_point",
+      "file": "snapshots/jc-fc98e5e8b159.txt"
+    },
+    "reasons": [
+      "missing_or_nonliteral_ingredient_list"
+    ]
+  }
+]
